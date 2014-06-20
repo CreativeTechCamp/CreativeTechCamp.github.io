@@ -16,7 +16,13 @@ table{
 	width: 100%;
 }
 
-
+.jumbotron{
+	margin-top: 0;
+}
+section.ctc-main-section{
+	padding-top: 50px;
+	padding-bottom: 36px;
+}
 
 
 

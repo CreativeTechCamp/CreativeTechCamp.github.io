@@ -2,7 +2,7 @@
 layout: camp
 title:  "Creative Coding with Scratch"
 date:   2014-06-14 09:00:00
-categories: event morning scratch 8-10
+categories: camp morning scratch 8-10
 ---
 
 ##Details
@@ -21,9 +21,11 @@ We’re looking forward to sharing Scratch Camp with our students this summer (s
 For more info on Scratch, please visit http://scratch.mit.edu
 
 
-##UNPLUGGED ACTIVITIES
+##Unplugged Activities
 At our Create Tech Camps, balance is very important. Our Scratch camps are fun and engaging as we also include unplugged activities (off computer time) in the session. We believe this is a healthy balance so that students will not be staring at a computer screen the whole time. Our unplugged activities are designed to be hands-on learning, where students develop knowledge in the technology area.
+
 Examples of our unplugged activities are: 
+
 * Open up a computer - Appreciate the technology evolution of computers and how it relates to day-to-day human interaction
 * What is it like to be a Computer? Learn about Binary Decoder key and understand how a computer reads and stores data
 * What is the Internet? Learn the different type of methods to deliver messages (Fibre, Wi-Fi, or DSL/Copper Cable) over the Internet.

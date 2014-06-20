@@ -23,9 +23,24 @@ layout: main
 <section>
   <div class="container">
     <h2>Camps</h2>
-    {% for camp in site.categories.camps %}
-      <li><span>{{ camp.date | date_to_string }}</span> &raquo; <a href="{{ camp.url }}">{{ camp.title }}</a></li>
-    {% endfor %}
+    <ul class="list-unstyled">
+      {% for camp in site.categories.camps %}
+      <li class="col-md-12 pad">
+        <div class="col-md-3">
+           <img  src="http://placehold.it/180x180&text=Camp"/>
+        </div>
+
+        <div class="col-md-9">
+          <h3><a href="{{ camp.url }}">{{ camp.title }}</a></h3>
+          <span>{{ camp.date | date_to_string }}</span> | 
+          <span>{{ camp.age_group }}</span> 
+          <hr/>
+          <p>{{camp.excerpt}}</p>
+        </div>
+
+      </li>
+      {% endfor %}
+    </ul>
   </div>
 </section>
 
@@ -53,15 +68,29 @@ layout: main
     <p>
       “Instead of simply teaching kids to use existing technologies, we must give them the tools to design and create their own.” – By Mitchel Resnick, Director of the Lifelong Kindergarten Group at the MIT Media Lab
     </p>
+  </div>
+</section>
 
+<section>
+  <div class="container">
     <h3>Instructors</h3>
-    <p>
-      Dr. Ewe Chun Te. Chun Te holds a Ph.D. in Electrical & Electronic Engineering from Imperial College London. In London, he worked for >3 years in Internet start-ups and IT consulting.He returned to Malaysia in 2010 and joined a local strategy & management consulting firm for 3 years. Chun Te is now working on his passion and to impart this passion for technology to children
-    </p>
+    <div class="col-md-6">
+      <div class="pull-left pad">
+        <img src="http://placehold.it/150x150"></div>
+      <p>
+        Dr. Ewe Chun Te. Chun Te holds a Ph.D. in Electrical & Electronic Engineering from Imperial College London. In London, he worked for >3 years in Internet start-ups and IT consulting.He returned to Malaysia in 2010 and joined a local strategy & management consulting firm for 3 years. Chun Te is now working on his passion and to impart this passion for technology to children
+      </p>
 
-    <p>
-      Audrey Ng. Audrey holds an MEng. in Electrical & Electronic Engineering from Imperial College London. During her studies, she actively engaged in teaching and education activities for summer school kids in London. Audrey’s biggest satisfaction came from imparting the fun and excitement to learning while children explore their curiosity.
-    </p>
+      <div class="clearfix"></div>
+    </div>
+
+    <div class="col-md-6">
+      <div class="pull-left pad">
+        <img src="http://placehold.it/150x150"></div>
+      <p>
+        Audrey Ng. Audrey holds an MEng. in Electrical & Electronic Engineering from Imperial College London. During her studies, she actively engaged in teaching and education activities for summer school kids in London. Audrey’s biggest satisfaction came from imparting the fun and excitement to learning while children explore their curiosity.
+      </p>
+    </div>
   </div>
 </section>
 
@@ -69,13 +98,26 @@ layout: main
 <section>
   <div class="container">
     <h2>Contact Us</h2>
-    <p>Check out our <a href="{{site.categories.faq.first.url}}">Frequently Asked Questions</a> section.</p>
+    <p>
+      Check out our
+      <a href="{{site.categories.faq.first.url}}">Frequently Asked Questions</a>
+      section.
+    </p>
 
-    <ul>
-      <li>Email</li>
-      <li>Phone</li>
-      <li>Facebook</li>
-      <li>Twitter</li>
+    <ul class="list-unstyled list-inline">
+      <li>
+        <img src="http://placehold.it/100x100&text=Email"/>
+      </li>
+      <li>
+        <img src="http://placehold.it/100x100&text=Phone"/>
+      </li>
+      <li>
+        <img src="http://placehold.it/100x100&text=Facebook"/>
+      </li>
+      <li>
+        <img src="http://placehold.it/100x100&text=Twitter"/>
+      </li>
+
     </ul>
 
   </div>

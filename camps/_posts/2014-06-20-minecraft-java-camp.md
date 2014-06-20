@@ -1,8 +1,10 @@
 ---
 layout: camp
 title:  "Modding & JAVA Programming with Minecraft"
-date:   2014-06-14 09:00:00
-categories: camp morning minecraft 8-10
+date:   2014-07-21 09:00:00
+categories: camp morning minecraft 10-12
+age_group: 10 - 12 years old
+excerpt: Discover the powerful world of Java programming using Minecraft. Showing students how they can take a hobby like Minecraft, and turn it into a future college majors and possible STEM career
 ---
 
 ##Details

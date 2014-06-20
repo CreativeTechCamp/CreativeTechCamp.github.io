@@ -2,17 +2,32 @@
 layout: camp
 title:  "Modding & JAVA Programming with Minecraft"
 date:   2014-07-21 09:00:00
+camp_date: 14th - 18th July, 2014
 categories: camp morning minecraft 10-12
 age_group: 10 - 12 years old
 excerpt: Discover the powerful world of Java programming using Minecraft. Showing students how they can take a hobby like Minecraft, and turn it into a future college majors and possible STEM career
 ---
 
 ##Details
-Ages: 10-12 (Must turn 10 by 31-12-14)
-Duration: 5 Days Camp – Morning Session
-Skill Level: Beginner 
-Ratio Guarantee: 8 Students per Instructor
 
+<table>
+	<tr>
+		<th>Ages</th>
+		<td>10-12 (Must turn 10 by 31-12-14)</td>
+	</tr>	
+	<tr>
+		<th>Duration</th>
+		<td>5 Days Camp – Morning Session</td>
+	</tr>	
+	<tr>
+		<th>Skill Level</th>
+		<td>Beginner</td>
+	</tr>	
+	<tr>
+		<th>Ratio Guarantee</th>
+		<td>8 Students per Instructor</td>
+	</tr>	
+</table>
 
 ##Featured Software
 Minecraft | Java™ (Eclipse®)

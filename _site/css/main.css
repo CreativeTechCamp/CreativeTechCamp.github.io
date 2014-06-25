@@ -62,7 +62,8 @@ a {
     border-bottom: 1px solid #eeeeee; }
 
   .navbar-ctc {
-    background-color: white; } }
+    background-color: white;
+    border-bottom: 0px solid #eeeeee; } }
 .carousel-control {
   width: 10%; }
   .carousel-control.right, .carousel-control.left {

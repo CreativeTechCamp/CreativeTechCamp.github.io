@@ -80,11 +80,6 @@ a {
     .carousel-control.left span {
       left: 0; }
 
-.carousel-indicators li {
-  border-color: #f07f09; }
-.carousel-indicators .active {
-  background-color: #f07f09; }
-
 .carousel-inner {
   margin-bottom: 0; }
   .carousel-inner .carousel-inner-container {

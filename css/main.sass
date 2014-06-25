@@ -1,0 +1,60 @@
+// Fonts
+@import url('//fonts.googleapis.com/css?family=PT+Sans:400,700,400italic|Montserrat|PT+Mono|PT+Sans+Caption')
+
+// Constants
+$primary-color: #f07f09
+
+// Utility classes
+.pad
+  margin: 12px
+
+// Element
+body
+  font-family: 'PT Sans Caption', Helvetica, Arial, sans-serif
+
+h1, h2, h3
+  font-family: 'Montserrat', Helvetica, Arial, sans-serif
+  text-transform: uppercase
+
+
+table
+  width: 100%
+
+dd
+  margin-bottom: 12px
+
+section.ctc-main-section
+  padding-top: 50px
+  padding-bottom: 36px
+
+
+a
+  color: $primary-color
+  &:hover, &:focus
+    color: white
+    background-color: $primary-color
+    transition: background-color 0.4s, color 0.2s
+  &:visited
+
+// Navigation
+.navbar-ctc
+  border-bottom: 1px solid #eee
+  background-color: rgba(white, 0.9)
+  li a:hover 
+    background-color: $primary-color
+
+.navbar-toggle-ctc
+  .icon-bar
+    background-color: $primary-color
+  &:hover, &:focus
+    background-color: #eee
+
+.jumbotron-ctc
+  margin-top: 0
+  background-color: $primary-color
+  color: white
+
+
+@media(max-width: 768px)
+  .navbar-header
+    border-bottom: 1px solid #eee

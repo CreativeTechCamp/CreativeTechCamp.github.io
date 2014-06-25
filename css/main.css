@@ -1,33 +1,47 @@
+@import url("//fonts.googleapis.com/css?family=PT+Sans:400,700,400italic|Montserrat|PT+Mono|PT+Sans+Caption");
+.pad {
+  margin: 12px; }
 
+body {
+  font-family: "PT Sans Caption", Helvetica, Arial, sans-serif; }
 
-/* ==========================================================================
-   Author's custom styles
-   ========================================================================== */
+h1, h2, h3 {
+  font-family: "Montserrat", Helvetica, Arial, sans-serif;
+  text-transform: uppercase; }
 
+table {
+  width: 100%; }
 
+dd {
+  margin-bottom: 12px; }
 
+section.ctc-main-section {
+  padding-top: 50px;
+  padding-bottom: 36px; }
 
+a {
+  color: #f07f09; }
+  a:hover, a:focus {
+    color: white;
+    background-color: #f07f09;
+    transition: background-color 0.4s, color 0.2s; }
 
-.pad{
-	margin: 12px;
-}
+.navbar-ctc {
+  border-bottom: 1px solid #eeeeee;
+  background-color: rgba(255, 255, 255, 0.9); }
+  .navbar-ctc li a:hover {
+    background-color: #f07f09; }
 
-table{
-	width: 100%;
-}
+.navbar-toggle-ctc .icon-bar {
+  background-color: #f07f09; }
+.navbar-toggle-ctc:hover, .navbar-toggle-ctc:focus {
+  background-color: #eeeeee; }
 
-.jumbotron{
-	margin-top: 0;
-}
-section.ctc-main-section{
-	padding-top: 50px;
-	padding-bottom: 36px;
-}
+.jumbotron-ctc {
+  margin-top: 0;
+  background-color: #f07f09;
+  color: white; }
 
-dd{
-	margin-bottom: 12px
-}
-
-
-
-
+@media(max-width: 768px) {
+  .navbar-header {
+    border-bottom: 1px solid #eeeeee; } }

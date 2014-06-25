@@ -5,6 +5,9 @@
 $primary-color: #f07f09
 $space: 16px
 
+@mixin title-font
+  font-family: 'Montserrat', Helvetica, Arial, sans-serif
+
 // Utility classes
 .pad
   margin: 12px
@@ -15,7 +18,7 @@ body
   padding-bottom: 0
 
 h1, h2, h3
-  font-family: 'Montserrat', Helvetica, Arial, sans-serif
+  @include title-font
   text-transform: uppercase
 
 
@@ -34,6 +37,17 @@ section.ctc-main-section
 
 .ctc-camp-list-item
   margin-bottom: $space
+
+.ctc-camp-listing-logistics
+  @include title-font
+  font-size: 15px
+  // font-weight: bold
+  text-transform: uppercase
+.ctc-camp-listing-date, 
+  padding: $space/2 $space/2 $space/2 0
+
+.ctc-camp-listing-detail
+  padding: $space/2
 
 
 a

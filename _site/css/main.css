@@ -26,6 +26,17 @@ section.ctc-main-section {
 .ctc-camp-list-item {
   margin-bottom: 16px; }
 
+.ctc-camp-listing-logistics {
+  font-family: "Montserrat", Helvetica, Arial, sans-serif;
+  font-size: 15px;
+  text-transform: uppercase; }
+
+.ctc-camp-listing-date {
+  padding: 8px 8px 8px 0; }
+
+.ctc-camp-listing-detail {
+  padding: 8px; }
+
 a {
   color: #f07f09; }
   a:hover, a:focus {

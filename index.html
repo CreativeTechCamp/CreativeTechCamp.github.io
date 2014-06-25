@@ -85,9 +85,13 @@ layout: main
         <h3>
           <a href="{{ camp.url }}">{{ camp.title }}</a>
         </h3>
-        <span>{{ camp.camp_date }}</span>
+        <div class="ctc-camp-listing-logistics">
+        <span class="ctc-camp-listing-date">{{ camp.camp_date }}</span>
         |
-        <span>{{ camp.age_group }}</span>
+        <span class="ctc-camp-listing-detail">{{ camp.age_group }}</span>
+        |
+        <span class="ctc-camp-listing-detail">{{ camp.location }}</span>
+      </div>
         <hr/>
         <p>{{camp.excerpt}}</p>
       </div>

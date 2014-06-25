@@ -1,148 +1,185 @@
 ---
 layout: main
 ---
-
 <!-- Main -->
 <section class='jumbotron jumbotron-ctc'>
-  <div class="container">
-    <h1>Creative Tech Camps!</h1>
-    <ul>
-      <li>
-        Bringing coding skills and technology together to inspire kids to create and build things - games, mobile apps,  interactive stories and more.
-      </li>
-      <li>
-        Creative Tech Camp offers short courses for ages 9-14 - getting the next generation of developers coding and creating.
-      </li>
-      <li>
-        Instead of simply teaching kids to use existing technologies, we must give them the tools to design and create their own.” – By Mitchel Resnick, MIT
-      </li>
-    </ul>
-  </div>
+  <!-- <h1>Creative Tech Camps!</h1>
+-->
+<div id="ctc-main-carousel" class="carousel slide" data-ride="carousel">
+
+  <!-- Carousel Items -->
+  <ul class="carousel-inner list-unstyled">
+    <li class="item active">
+      <img class="carousel-bg" src="assets/images/01.jpg">
+      <div class="container carousel-inner-container">
+        <h1>Create</h1>
+        <p>
+          Bringing coding skills and technology together to inspire kids to create and build things - games, mobile apps,  interactive stories and more.
+        </p>
+      </div>
+    </li>
+    <li class="item">
+      <img class="carousel-bg" src="assets/images/02.jpg">
+      <div class="container carousel-inner-container">
+        <h1>Explore</h1>
+        <p>
+          Creative Tech Camp offers short courses for ages 9-14 - getting the next generation of developers coding and creating.
+        </p>
+      </div>
+    </li>
+    <li class="item">
+      <img class="carousel-bg" src="assets/images/04.jpg">
+      <div class="container carousel-inner-container">
+        <h1>Technology</h1>
+        <p>
+          Instead of simply teaching kids to use existing technologies, we must give them the tools to design and create their own.” – By Mitchel Resnick, MIT
+        </p>
+      </div>
+    </li>
+  </ul>
+
+  <!-- Carousel Indicators -->
+  <ol class="carousel-indicators">
+    <li data-target="#ctc-main-carousel" data-slide-to="0" class="active"></li>
+    <li data-target="#ctc-main-carousel" data-slide-to="1"></li>
+    <li data-target="#ctc-main-carousel" data-slide-to="2"></li>
+  </ol>
+
+  <div class="clearfix"></div>
+
+  <!-- Carousel Controls -->
+  <a class="left carousel-control" href="#ctc-main-carousel" data-slide="prev">
+    <span class="fa fa-chevron-left"></span>
+  </a>
+  <a class="right carousel-control" href="#ctc-main-carousel" data-slide="next">
+    <span class="fa fa-chevron-right"></span>
+  </a>
+</div>
 </section>
 
 <!-- Camps -->
 <section id="camps" class="ctc-main-section">
-  <div class="container">
-    <h2>Camps</h2>
-    <ul class="list-unstyled">
-      {% for camp in site.categories.camps %}
-      <li class="col-md-12 pad">
-        <div class="col-md-3">
-          <img  src="http://placehold.it/180x180"/>
-        </div>
+<div class="container">
+  <h2>Camps</h2>
+  <ul class="list-unstyled">
+    {% for camp in site.categories.camps %}
+    <li class="col-md-12 pad">
+      <div class="col-md-3">
+        <img  src="http://placehold.it/180x180"/>
+      </div>
 
-        <div class="col-md-9">
-          <h3>
-            <a href="{{ camp.url }}">{{ camp.title }}</a>
-          </h3>
-          <span>{{ camp.camp_date }}</span>
-          |
-          <span>{{ camp.age_group }}</span>
-          <hr/>
-          <p>{{camp.excerpt}}</p>
-        </div>
+      <div class="col-md-9">
+        <h3>
+          <a href="{{ camp.url }}">{{ camp.title }}</a>
+        </h3>
+        <span>{{ camp.camp_date }}</span>
+        |
+        <span>{{ camp.age_group }}</span>
+        <hr/>
+        <p>{{camp.excerpt}}</p>
+      </div>
 
-      </li>
-      {% endfor %}
-    </ul>
-  </div>
+    </li>
+    {% endfor %}
+  </ul>
+</div>
 </section>
 
 <hr/>
 
 <!-- About -->
 <section id="about" class="ctc-main-section">
-  <div class="container">
-    <h2>About</h2>
+<div class="container">
+  <h2>About</h2>
 
-    <h3>Creative Tech Camp</h3>
+  <h3>Creative Tech Camp</h3>
+  <p>
+    Founded in 2013, Creative Tech Camp began with a simple mission to provide fun, exciting and hands-on technology education to young children outside of the typical classroom setting. At our camps, young children will be learning to create video games, mobile apps and build DIY robots. What they actually learn are to design, experiment, take feedback from peers, iterate and innovate upon existing ideas – all 21st century skills for today’s children to become creative, innovative and adaptable adults.
+  </p>
+
+  <p> <strong>Explore [and] Create [with] Technology | Start Young</strong>
+  </p>
+  <p>
+    At Creative Tech Camps, we empower your child with the skills and environment to build something amazing of their own. Placing the power of technology into your child’s hands, they can create apps, design games and even make robots to do their bidding. We want your child discover their inner interest and be inspired to create with technology, rather than just being a consumer of technology.
+  </p>
+
+  <p>
+    New for July to August 2014 - we are offering
+    <a href="/camps/2014/07/21/minecraft-java-camp.html">Modding and Java Programming with Minecraft</a>
+    .
+  </p>
+
+  <h3>Our Camps</h3>
+  <p>
+    During school holiday periods, we provide children age 8 to 14 a weeklong of learning to create with technology. Your child will pick up coding, design and problem solving skills, while getting exposure to the inner workings of their favourite games and the tech world around them.
+  </p>
+  <p>
+    Our camps have 8 students per instructor. This 8:1 ratio promotes personalised instruction for children in an engaging and collaborative setting. We encourage everyone to get up from their seat, to work with their peers and to ask tons of questions
+  </p>
+  <p>
+    Each camp has a blend of hands-on work on computers and un-plugged activities requiring no computers. Fiddling around with code or making things with their hands, young children will soon have an “Aha!” moment and continue to discover how things work on their own. Unplugged activities/sessions will not only lay the groundwork for children’s computational thinking skills, it will help children to appreciate how technology effects the real world around
+  </p>
+  <p>
+    All in all, we want children to leave the camp with relevant 21st century skills.
+  </p>
+  <p>
+    “Instead of simply teaching kids to use existing technologies, we must give them the tools to design and create their own.” – By Mitchel Resnick, Director of the Lifelong Kindergarten Group at the MIT Media Lab
+  </p>
+</div>
+
+<div class="container">
+  <h3>Instructors</h3>
+  <p>
+    Our instructors are passionate about teaching technology – this is a must. We recruit industry professionals, graduate students, and upper-level undergraduates majoring in technology related fields.
+  </p>
+
+  <div class="col-md-6">
+    <div class="pull-left pad">
+      <img src="http://placehold.it/150x150"></div>
     <p>
-      Founded in 2013, Creative Tech Camp began with a simple mission to provide fun, exciting and hands-on technology education to young children outside of the typical classroom setting. At our camps, young children will be learning to create video games, mobile apps and build DIY robots. What they actually learn are to design, experiment, take feedback from peers, iterate and innovate upon existing ideas – all 21st century skills for today’s children to become creative, innovative and adaptable adults. 
+      Dr. Ewe Chun Te. Chun Te holds a Ph.D. in Electrical & Electronic Engineering from Imperial College London. In London, he worked for >3 years in Internet start-ups and IT consulting.He returned to Malaysia in 2010 and joined a local strategy & management consulting firm for 3 years. Chun Te is now working on his passion and to impart this passion for technology to children
     </p>
 
-    <p> <strong>Explore [and] Create [with] Technology | Start Young</strong>
-    </p>
-    <p>
-      At Creative Tech Camps, we empower your child with the skills and environment to build something amazing of their own. Placing the power of technology into your child’s hands, they can create apps, design games and even make robots to do their bidding. We want your child discover their inner interest and be inspired to create with technology, rather than just being a consumer of technology.
-    </p>
-
-    <p>
-      New for July to August 2014 - we are offering
-      <a href="/camps/2014/07/21/minecraft-java-camp.html">Modding and Java Programming with Minecraft</a>
-      .
-    </p>
-
-    <h3>Our Camps</h3>
-    <p>
-      During school holiday periods, we provide children age 8 to 14 a weeklong of learning to create with technology. Your child will pick up coding, design and problem solving skills, while getting exposure to the inner workings of their favourite games and the tech world around them. 
-	</p>
-    <p>
-      Our camps have 8 students per instructor. This 8:1 ratio promotes personalised instruction for children in an engaging and collaborative setting. We encourage everyone to get up from their seat, to work with their peers and to ask tons of questions
-	</p>
-    <p>
-      Each camp has a blend of hands-on work on computers and un-plugged activities requiring no computers. Fiddling around with code or making things with their hands, young children will soon have an “Aha!” moment and continue to discover how things work on their own. Unplugged activities/sessions will not only lay the groundwork for children’s computational thinking skills, it will help children to appreciate how technology effects the real world around 
-	</p>
-    <p>
-      All in all, we want children to leave the camp with relevant 21st century skills.
-	</p>
-    <p>
-      “Instead of simply teaching kids to use existing technologies, we must give them the tools to design and create their own.” – By Mitchel Resnick, Director of the Lifelong Kindergarten Group at the MIT Media Lab
-	</p>
+    <div class="clearfix"></div>
   </div>
 
-  <div class="container">
-    <h3>Instructors</h3>
-	<p>
-      Our instructors are passionate about teaching technology – this is a must. We recruit industry professionals, graduate students, and upper-level undergraduates majoring in technology related fields.
-	</p>
-	
-    <div class="col-md-6">
-      <div class="pull-left pad">
-        <img src="http://placehold.it/150x150"></div>
-      <p>
-        Dr. Ewe Chun Te. Chun Te holds a Ph.D. in Electrical & Electronic Engineering from Imperial College London. In London, he worked for >3 years in Internet start-ups and IT consulting.He returned to Malaysia in 2010 and joined a local strategy & management consulting firm for 3 years. Chun Te is now working on his passion and to impart this passion for technology to children
-      </p>
-
-      <div class="clearfix"></div>
-    </div>
-
-    <div class="col-md-6">
-      <div class="pull-left pad">
-        <img src="http://placehold.it/150x150"></div>
-      <p>
-        Audrey Ng. Audrey holds an MEng. in Electrical & Electronic Engineering from Imperial College London. During her studies, she actively engaged in teaching and education activities for summer school kids in London. Audrey’s biggest satisfaction came from imparting the fun and excitement to learning while children explore their curiosity.
-      </p>
-    </div>
+  <div class="col-md-6">
+    <div class="pull-left pad">
+      <img src="http://placehold.it/150x150"></div>
+    <p>
+      Audrey Ng. Audrey holds an MEng. in Electrical & Electronic Engineering from Imperial College London. During her studies, she actively engaged in teaching and education activities for summer school kids in London. Audrey’s biggest satisfaction came from imparting the fun and excitement to learning while children explore their curiosity.
+    </p>
   </div>
+</div>
 </section>
 
 <hr/>
 
 <!-- Contact Us -->
 <section id="contact" class="ctc-main-section">
-  <div class="container">
-    <h2>Contact Us</h2>
-    <p>
-      Check out our
-      <a href="{{site.categories.faq.first.url}}">Frequently Asked Questions</a>
-      section.
-    </p>
+<div class="container">
+  <h2>Contact Us</h2>
+  <p>
+    Check out our
+    <a href="{{site.categories.faq.first.url}}">Frequently Asked Questions</a>
+    section.
+  </p>
 
-    <ul class="list-unstyled list-inline">
-      <li>
-        <img src="http://placehold.it/100x100&text=Email"/>
-      </li>
-      <li>
-        <img src="http://placehold.it/100x100&text=Phone"/>
-      </li>
-      <li>
-        <img src="http://placehold.it/100x100&text=Facebook"/>
-      </li>
-      <li>
-        <img src="http://placehold.it/100x100&text=Twitter"/>
-      </li>
+  <ul class="list-unstyled list-inline">
+    <li>
+      <img src="http://placehold.it/100x100&text=Email"/>
+    </li>
+    <li>
+      <img src="http://placehold.it/100x100&text=Phone"/>
+    </li>
+    <li>
+      <img src="http://placehold.it/100x100&text=Facebook"/>
+    </li>
+    <li>
+      <img src="http://placehold.it/100x100&text=Twitter"/>
+    </li>
 
-    </ul>
+  </ul>
 
-  </div>
+</div>
 </section>

@@ -28,7 +28,8 @@ a {
   a:hover, a:focus {
     color: white;
     background-color: #f07f09;
-    transition: background-color 0.4s, color 0.2s; }
+    transition: background-color 0.4s, color 0.2s;
+    text-decoration: none; }
 
 .navbar-ctc {
   border-bottom: 1px solid #eeeeee;
@@ -45,9 +46,10 @@ a {
     background-color: #eeeeee; }
 
 .jumbotron-ctc {
-  margin-top: 0;
-  background-color: #f07f09;
-  color: white; }
+  padding: 0;
+  background-color: transparent;
+  color: white;
+  margin-bottom: 0; }
 
 .footer-ctc {
   background-color: #444444;
@@ -60,3 +62,43 @@ a {
 
   .navbar-ctc {
     background-color: white; } }
+.carousel-control {
+  width: 10%; }
+  .carousel-control.right, .carousel-control.left {
+    background-image: none; }
+  .carousel-control:hover {
+    background-color: transparent; }
+  .carousel-control span {
+    position: absolute;
+    top: 50%; }
+  .carousel-control.right {
+    margin-right: 16px; }
+    .carousel-control.right span {
+      right: 0; }
+  .carousel-control.left {
+    margin-left: 16px; }
+    .carousel-control.left span {
+      left: 0; }
+
+.carousel-indicators li {
+  border-color: #f07f09; }
+.carousel-indicators .active {
+  background-color: #f07f09; }
+
+.carousel-inner {
+  margin-bottom: 0; }
+  .carousel-inner .carousel-inner-container {
+    min-height: 400px;
+    padding: 30px; }
+    .carousel-inner .carousel-inner-container h1 {
+      padding: 0; }
+    .carousel-inner .carousel-inner-container p, .carousel-inner .carousel-inner-container h1 {
+      display: inline-block;
+      background-color: rgba(240, 127, 9, 0.9);
+      padding: 8px; }
+
+.carousel-bg {
+  width: 150%;
+  position: absolute;
+  top: -50%;
+  z-index: -1; }

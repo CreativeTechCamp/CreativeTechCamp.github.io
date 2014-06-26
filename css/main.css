@@ -189,6 +189,7 @@ a {
     .carousel-inner .carousel-inner-container .carousel-item-title {
       padding: 0; }
     .carousel-inner .carousel-inner-container p, .carousel-inner .carousel-inner-container .carousel-item-title {
+      color: white !important;
       display: inline-block;
       background-color: rgba(240, 127, 9, 0.9);
       padding: 8px; }

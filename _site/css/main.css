@@ -28,7 +28,7 @@ dd, dt {
 dd {
   border-bottom: 1px solid #eeeeee; }
 
-section.ctc-main-section {
+.ctc-main-section {
   padding-top: 50px;
   padding-bottom: 36px; }
 
@@ -169,10 +169,13 @@ a {
     .carousel-control.left span {
       left: 0; }
 
+.carousel .item {
+  height: 400px;
+  overflow: hidden; }
+
 .carousel-inner {
   margin-bottom: 0; }
   .carousel-inner .carousel-inner-container {
-    min-height: 400px;
     padding: 30px; }
     .carousel-inner .carousel-inner-container .carousel-item-title {
       padding: 0; }
@@ -182,10 +185,10 @@ a {
       padding: 8px; }
 
 .carousel-bg {
-  width: 100%;
   position: absolute;
+  width: 100%;
   min-height: 100%;
-  top: -20%;
+  top: 0;
   z-index: -1; }
 
 .carousel-item-title {
@@ -194,6 +197,15 @@ a {
   font-family: "Montserrat", Helvetica, Arial, sans-serif;
   text-transform: uppercase; }
 
+@media(max-width: 768px) {
+  .carousel-item-title {
+    font-size: 2.2em; }
+
+  .carousel .item {
+    height: 300px; }
+
+  .ctc-main-section {
+    padding-top: 16px; } }
 .text-small {
   font-size: 0.5em; }
 

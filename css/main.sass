@@ -40,7 +40,7 @@ dd, dt
 dd
   border-bottom: 1px solid #eee
 
-section.ctc-main-section
+.ctc-main-section
   padding-top: 50px
   padding-bottom: 36px
 
@@ -74,8 +74,6 @@ section.ctc-main-section
   right: 0
   position: absolute
   z-index: -2
-
-
 
 .ctc-camp-header-container
 
@@ -187,20 +185,16 @@ a
     margin-left: $space
     span
       left: 0
-// .carousel-indicators
-//   li 
-//     border-color: $primary-color
-//   .active
-//     background-color: $primary-color
 
+.carousel
+  .item
+    height: 400px
+    overflow: hidden
 .carousel-inner
-  // width: 100%
   margin-bottom: 0
   // background-color: rgba(black, 0.1)
   .carousel-inner-container
-    min-height: 400px
     padding: 30px
-    
     .carousel-item-title 
       padding: 0
     p, .carousel-item-title
@@ -208,18 +202,24 @@ a
       background-color: rgba($primary-color, 0.9)
       padding: $space/2
 
-      // color: $primary-color
 .carousel-bg
-  width: 100%
   position: absolute
+  width: 100%
   min-height: 100%
-  top: -20%
+  top: 0
   z-index: -1
 .carousel-item-title
   font-size: 3.2em
   margin-bottom: $space/2
   @include title-font
   text-transform: uppercase
+@media(max-width: 768px)
+  .carousel-item-title
+    font-size: 2.2em
+  .carousel .item
+    height: 300px
+  .ctc-main-section
+    padding-top: $space
 
 .text-small
   font-size: 0.5em

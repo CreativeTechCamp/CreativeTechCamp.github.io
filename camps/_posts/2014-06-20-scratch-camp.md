@@ -7,6 +7,8 @@ categories	: camp morning scratch 8-10
 age_group 	: 8 - 10 years old
 location	: Starbucks@TTDI
 image		: /camps/images/scratch_camp.png
+banner		: /camps/images/scratch_camp_banner.png
+registration_url	: /
 excerpt: The course introduces our younger students to the essential building blocks behind object-oriented programming through interactive stories, creative arts and games animation.
 ---
 

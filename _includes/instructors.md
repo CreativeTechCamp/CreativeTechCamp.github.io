@@ -1,6 +1,8 @@
 ##The Instructors
 
 ###Dr. Ewe Chun Te
+<img src="/assets/images/instructors/chun_te.jpg" class="img-responsive inline pull-left pad-l"/>
+
 Greetings! My name is Chun Te, and I am so excited to welcome you to Creative Tech Camps. I grew up playing a lot of computer games. Back in those days in the 1980s, computer games doesn’t come readily like how installed program run today. I will have to write my own code to run the game, hacking the game to advance to the next level.
 
 Technology is constantly evolving, and we are too. The digital native kids of today are said to be ‘fluent’ with technology, but they are typically using the technology around them as mere consumers. While kids today love to consume games, apps and websites, they are not getting exposure in creating them.
@@ -10,4 +12,6 @@ Since founding Creative Tech Camps, Audrey and I have strived to make it a place
 Prior to Creative Tech Camps, I trained as an engineer and got my PhD in Electrical & Electronic Engineering from Imperial College London. During my PhD years in the UK, I had the joy of teaching and imparting my enthusiasm for technology to undergraduate and summer school students. I facilitated programming courses, app development and participated in a few technology start-up companies. Ever since returning from the UK after a 10-year stint, I have been harbouring the desire to impart my enthusiasm for technology to the future generation here in Malaysia. In 2013, I founded Creative Tech Camps, the first tech camps in Malaysia teaching young people to create and innovate through technology. 
 
 ###Ms. Audrey Ng
+<img src="/assets/images/instructors/audrey_ng.jpg" class="img-responsive pull-left pad-l"/>
+
 Hi, I am Audrey and I’m looking forward to having your child join me at Creative Tech Camps, where we engage young people in creating with technology. I graduated from Imperial College, with a Master in Engineering from Imperial College London. I’ve worked in a number of educational projects, from organising a tech day for schools children to mentoring students in a tech inventor competition. It gives me great pleasure to spark the “Aha!” moment in children while they tinker with technology in our Camps. With their new found curiosity, I want to continuously nurture it so they will further explore creating with technology on their own.

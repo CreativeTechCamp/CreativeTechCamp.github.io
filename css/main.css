@@ -218,6 +218,9 @@ a {
   .carousel-item-title {
     font-size: 2.2em; }
 
+  .carousel-inner p {
+    font-size: 1.2em; }
+
   .carousel .item {
     height: 300px; }
 

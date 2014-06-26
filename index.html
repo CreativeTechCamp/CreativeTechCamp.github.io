@@ -19,21 +19,17 @@ layout: main
           <span>Creative Coding</span>
           <span class="text-small">with Scratch</span>
         </span>
-        <p>
-          Creative Tech Camp for children ages 10 to 13
-        </p>
+        <p>Creative Tech Camp for children ages 10 to 13</p>
       </div>
     </li>
     <li class="item">
       <img class="carousel-bg" src="/assets/images/carousel/01.png">
       <div class="container carousel-inner-container">
         <span class="carousel-item-title">
-        <span>Modding and Java Programming</span>
+          <span>Modding and Java Programming</span>
           <span class="text-small">with Minecraft</span>
         </span>
-        <p>
-           Creative Tech Camp for children ages 8 to 10
-        </p>
+        <p>Creative Tech Camp for children ages 8 to 10</p>
       </div>
     </li>
   </ul>
@@ -47,7 +43,7 @@ layout: main
   <a class="right carousel-control" href="#ctc-main-carousel" data-slide="next">
     <span class="fa fa-chevron-right"></span>
   </a>
-   <!-- Carousel Indicators -->
+  <!-- Carousel Indicators -->
   <ol class="carousel-indicators">
     <li data-target="#ctc-main-carousel" data-slide-to="0" class="active"></li>
     <li data-target="#ctc-main-carousel" data-slide-to="1"></li>
@@ -64,7 +60,9 @@ layout: main
     {% for camp in site.categories.camps %}
     <li class="col-md-12 ctc-camp-list-item">
       <div class="col-md-3">
-        <img class="img-responsive" src="{{ camp.image }}"/>
+        <a href="{{camp.url}}">
+          <img class="img-responsive" src="{{ camp.image }}"/>
+        </a>
       </div>
 
       <div class="col-md-9">

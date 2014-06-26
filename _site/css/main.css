@@ -33,7 +33,16 @@ dd {
   padding-bottom: 36px; }
 
 .ctc-camp-list-item {
-  margin-bottom: 16px; }
+  margin-bottom: 16px;
+  padding: 16px; }
+  .ctc-camp-list-item:hover {
+    background-color: #f07f09;
+    color: white;
+    transition: background-color 0.4s; }
+    .ctc-camp-list-item:hover a {
+      color: white; }
+    .ctc-camp-list-item:hover img {
+      border: 1px solid #f07f09; }
 
 .ctc-camp-header {
   height: 250px;

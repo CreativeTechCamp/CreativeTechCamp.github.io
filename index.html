@@ -13,39 +13,28 @@ layout: main
     <li class="item active">
       <!-- <img class="carousel-bg" src="assets/images/01.jpg">
       -->
-      <img class="carousel-bg" src="http://placehold.it/1024x600">
+      <img class="carousel-bg" src="/assets/images/carousel/02.png">
       <div class="container carousel-inner-container">
-        <h1>
-          Explore
-          <span class="text-small">and</span>
-        </h1>
+        <span class="carousel-item-title">
+          Creative Coding
+          <span class="text-small">with Scratch</span>
+        </span>
         <p>
-          Creative Tech Camp offers short courses for ages 9-14 - getting the next generation of developers coding and creating.
+          Creative Tech Camp for children ages 10 to 13
         </p>
       </div>
     </li>
     <li class="item">
-      <img class="carousel-bg" src="http://placehold.it/1024x600">
+      <img class="carousel-bg" src="/assets/images/carousel/01.png">
       <!-- <img class="carousel-bg" src="assets/images/02.jpg">
       -->
       <div class="container carousel-inner-container">
-        <h1>
-          Create
-          <span class="text-small">with</span>
-        </h1>
+        <span class="carousel-item-title">
+          Modding and Java Programming
+          <span class="text-small">with Minecraft</span>
+        </span>
         <p>
-          Bringing coding skills and technology together to inspire kids to create and build things - games, mobile apps,  interactive stories and more.
-        </p>
-      </div>
-    </li>
-    <li class="item">
-      <img class="carousel-bg" src="http://placehold.it/1024x600">
-      <!-- <img class="carousel-bg" src="assets/images/04.jpg">
-      -->
-      <div class="container carousel-inner-container">
-        <h1>Technology</h1>
-        <p>
-          Instead of simply teaching kids to use existing technologies, we must give them the tools to design and create their own.” – By Mitchel Resnick, MIT
+           Creative Tech Camp for children ages 8 to 10
         </p>
       </div>
     </li>
@@ -55,7 +44,6 @@ layout: main
   <ol class="carousel-indicators">
     <li data-target="#ctc-main-carousel" data-slide-to="0" class="active"></li>
     <li data-target="#ctc-main-carousel" data-slide-to="1"></li>
-    <li data-target="#ctc-main-carousel" data-slide-to="2"></li>
   </ol>
 
   <div class="clearfix"></div>
@@ -78,7 +66,7 @@ layout: main
     {% for camp in site.categories.camps %}
     <li class="col-md-12 ctc-camp-list-item">
       <div class="col-md-3">
-        <img  src="http://placehold.it/180x180"/>
+        <img class="img-responsive" src="{{ camp.image }}"/>
       </div>
 
       <div class="col-md-9">

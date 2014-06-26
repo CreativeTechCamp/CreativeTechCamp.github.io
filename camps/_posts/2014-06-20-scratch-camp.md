@@ -1,11 +1,12 @@
 ---
-layout: camp
-title:  "Creative Coding with Scratch"
-date:   2014-07-14 09:00:00
-camp_date: 21st - 25th July, 2014
-categories: camp morning scratch 8-10
-age_group: 8 - 10 years old
-location: Starbucks@TTDI
+layout	: camp
+title 	:  "Creative Coding with Scratch"
+date  	:   2014-07-14 09:00:00
+camp_date 	: 21st - 25th July, 2014
+categories	: camp morning scratch 8-10
+age_group 	: 8 - 10 years old
+location	: Starbucks@TTDI
+image		: /camps/images/scratch_camp.png
 excerpt: The course introduces our younger students to the essential building blocks behind object-oriented programming through interactive stories, creative arts and games animation.
 ---
 

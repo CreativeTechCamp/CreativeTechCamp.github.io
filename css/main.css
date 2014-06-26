@@ -134,9 +134,9 @@ a {
   .carousel-inner .carousel-inner-container {
     min-height: 400px;
     padding: 30px; }
-    .carousel-inner .carousel-inner-container h1 {
+    .carousel-inner .carousel-inner-container .carousel-item-title {
       padding: 0; }
-    .carousel-inner .carousel-inner-container p, .carousel-inner .carousel-inner-container h1 {
+    .carousel-inner .carousel-inner-container p, .carousel-inner .carousel-inner-container .carousel-item-title {
       display: inline-block;
       background-color: rgba(240, 127, 9, 0.9);
       padding: 8px; }
@@ -145,8 +145,14 @@ a {
   width: 100%;
   position: absolute;
   min-height: 100%;
-  top: 0;
+  top: -20%;
   z-index: -1; }
+
+.carousel-item-title {
+  font-size: 3.2em;
+  margin-bottom: 8px;
+  font-family: "Montserrat", Helvetica, Arial, sans-serif;
+  text-transform: uppercase; }
 
 .text-small {
   font-size: 0.5em; }

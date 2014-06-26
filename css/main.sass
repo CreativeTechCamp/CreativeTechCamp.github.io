@@ -152,13 +152,14 @@ a
 .carousel-inner
   // width: 100%
   margin-bottom: 0
+  // background-color: rgba(black, 0.1)
   .carousel-inner-container
     min-height: 400px
     padding: 30px
     
-    h1 
+    .carousel-item-title 
       padding: 0
-    p, h1
+    p, .carousel-item-title
       display: inline-block
       background-color: rgba($primary-color, 0.9)
       padding: $space/2
@@ -168,8 +169,13 @@ a
   width: 100%
   position: absolute
   min-height: 100%
-  top: 0
+  top: -20%
   z-index: -1
+.carousel-item-title
+  font-size: 3.2em
+  margin-bottom: $space/2
+  @include title-font
+  text-transform: uppercase
 
 .text-small
   font-size: 0.5em

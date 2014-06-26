@@ -2,7 +2,7 @@
 @import url('//fonts.googleapis.com/css?family=PT+Sans:400,700,400italic|Montserrat|PT+Mono|PT+Sans+Caption')
 
 // Constants
-$primary-color: #f07f09
+$primary-color: #f07f09 
 $space: 16px
 
 @mixin title-font
@@ -53,9 +53,36 @@ section.ctc-main-section
   h4 
     margin-top: 0
 
+.ctc-contact-list
+  li 
+    width: 100%
+    a 
+      width: 100%
+      display: table-row
+      &:hover, &:focus 
+        span, i 
+          color: white
+      span, i
+        display: table-cell
+        padding: $space / 2
+        vertical-align: middle
+
+.fa-3
+  font-size: 4em
+
+.fb 
+  color: #3B5998
+.tw 
+  color: #55ACEE
+.phone 
+  color: #777
+.email
+  color: $primary-color
+
+
 img 
   border: 1px solid #eee
-  
+
 a
   color: $primary-color
   &:hover, &:focus

@@ -86,12 +86,12 @@ layout: main
           <a href="{{ camp.url }}">{{ camp.title }}</a>
         </h3>
         <div class="ctc-camp-listing-logistics">
-        <span class="ctc-camp-listing-date">{{ camp.camp_date }}</span>
-        |
-        <span class="ctc-camp-listing-detail">{{ camp.age_group }}</span>
-        |
-        <span class="ctc-camp-listing-detail">{{ camp.location }}</span>
-      </div>
+          <span class="ctc-camp-listing-date">{{ camp.camp_date }}</span>
+          |
+          <span class="ctc-camp-listing-detail">{{ camp.age_group }}</span>
+          |
+          <span class="ctc-camp-listing-detail">{{ camp.location }}</span>
+        </div>
         <hr/>
         <p>{{camp.excerpt}}</p>
       </div>
@@ -158,7 +158,7 @@ layout: main
         <div class="col-sm-9">
           <h4>Dr. Ewe Chun Te.</h4>
           <p>
-           Chun Te holds a Ph.D. in Electrical & Electronic Engineering from Imperial College London. In London, he worked for >3 years in Internet start-ups and IT consulting.He returned to Malaysia in 2010 and joined a local strategy & management consulting firm for 3 years. Chun Te is now working on his passion and to impart this passion for technology to children
+            Chun Te holds a Ph.D. in Electrical & Electronic Engineering from Imperial College London. In London, he worked for >3 years in Internet start-ups and IT consulting.He returned to Malaysia in 2010 and joined a local strategy & management consulting firm for 3 years. Chun Te is now working on his passion and to impart this passion for technology to children
           </p>
         </div>
 
@@ -193,21 +193,32 @@ layout: main
   <p>
     Check out our
     <a href="{{site.categories.faq.first.url}}">Frequently Asked Questions</a>
-    section.
+    section for answers to common questions. Feel free to contact us via the following channels if you have further enquiries.
   </p>
 
-  <ul class="list-unstyled list-inline">
-    <li>
-      <img src="http://placehold.it/100x100&text=Email"/>
+  <ul class="list-unstyled ctc-contact-list">
+    <li class="col-sm-12 col-md-6 col-lg-4">
+      <a href="https://www.facebook.com/BorderlessEducation" target="_blank"> <i class="fa fa-facebook-square fa-3 fb"></i>
+        <span>facebook.com/BorderlessEducation</span>
+      </a>
+
     </li>
-    <li>
-      <img src="http://placehold.it/100x100&text=Phone"/>
+    <li class="col-sm-12 col-md-6 col-lg-4">
+      <a href="https://www.twitter.com/BorderlessEducation" target="_blank"> <i class="fa fa-twitter-square fa-3 tw"></i>
+        <span>twitter.com/BorderlessEducation</span>
+      </a>
     </li>
-    <li>
-      <img src="http://placehold.it/100x100&text=Facebook"/>
+    <li class="col-sm-12 col-md-6 col-lg-4">
+      <a href="mailto:info@creativetechcamp.com" target="_blank">
+        <i class="fa fa-envelope-square fa-3 email"></i>
+        <span>info@creativetechcamp.com</span>
+      </a>
     </li>
-    <li>
-      <img src="http://placehold.it/100x100&text=Twitter"/>
+    <li class="col-sm-12 col-md-6 col-lg-4">
+      <a>
+        <i class="fa fa-phone-square fa-3 phone"></i>
+        <span>+6019-3354507</span>
+      </a>
     </li>
 
   </ul>

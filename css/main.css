@@ -40,6 +40,33 @@ section.ctc-main-section {
 .ctc-instructors h4 {
   margin-top: 0; }
 
+.ctc-contact-list li {
+  width: 100%; }
+  .ctc-contact-list li a {
+    width: 100%;
+    display: table-row; }
+    .ctc-contact-list li a:hover span, .ctc-contact-list li a:hover i, .ctc-contact-list li a:focus span, .ctc-contact-list li a:focus i {
+      color: white; }
+    .ctc-contact-list li a span, .ctc-contact-list li a i {
+      display: table-cell;
+      padding: 8px;
+      vertical-align: middle; }
+
+.fa-3 {
+  font-size: 4em; }
+
+.fb {
+  color: #3b5998; }
+
+.tw {
+  color: #55acee; }
+
+.phone {
+  color: #777777; }
+
+.email {
+  color: #f07f09; }
+
 img {
   border: 1px solid #eeeeee; }
 

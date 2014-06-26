@@ -202,6 +202,13 @@ a
       background-color: rgba($primary-color, 0.9)
       padding: $space/2
 
+.carousel-indicators
+  bottom: -40px
+  li 
+    border: 1px solid $primary-color
+  .active
+    background-color: $primary-color
+
 .carousel-bg
   position: absolute
   width: 100%
@@ -219,7 +226,7 @@ a
   .carousel .item
     height: 300px
   .ctc-main-section
-    padding-top: $space
+    padding-top: $space * 2
 
 .text-small
   font-size: 0.5em

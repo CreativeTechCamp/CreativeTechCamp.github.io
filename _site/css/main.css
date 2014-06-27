@@ -12,6 +12,9 @@
   margin-right: 12px;
   margin-bottom: 12px; }
 
+.pad-s {
+  margin: 12px 0px; }
+
 .pad-c {
   margin-top: 12px;
   margin-bottom: 12px;
@@ -21,7 +24,7 @@ body {
   font-family: "Montserrat", Helvetica, Arial, sans-serif;
   padding-bottom: 0; }
 
-h1, h2, h3 {
+h1, h2, h3, h4 {
   font-family: "Munro Small", Helvetica, Arial, sans-serif;
   text-transform: uppercase; }
 
@@ -33,6 +36,9 @@ h2 {
 
 h3 {
   font-size: 2em; }
+
+h4 {
+  font-size: 1.8em; }
 
 table {
   width: 100%; }
@@ -138,9 +144,6 @@ dd {
 
 .email {
   color: #f07f09; }
-
-img {
-  border: 1px solid #eeeeee; }
 
 a {
   color: #f07f09; }

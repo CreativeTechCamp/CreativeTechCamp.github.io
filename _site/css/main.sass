@@ -26,6 +26,8 @@ $space: 16px
   margin-right: 12px
   margin-bottom: 12px
 
+.pad-s
+  margin: 12px 0px
 .pad-c 
   margin-top: 12px
   margin-bottom: 12px
@@ -37,7 +39,7 @@ body
   // font-family: 'PT Sans Caption', Helvetica, Arial, sans-serif
   padding-bottom: 0
 
-h1, h2, h3
+h1, h2, h3, h4
   @include title-font
   text-transform: uppercase
 
@@ -49,6 +51,9 @@ h2
 
 h3 
   font-size: 2.0em
+
+h4 
+  font-size: 1.8em
 
 table
   width: 100%
@@ -156,10 +161,6 @@ dd
   color: #777
 .email
   color: $primary-color
-
-
-img 
-  border: 1px solid #eee
 
 a
   color: $primary-color

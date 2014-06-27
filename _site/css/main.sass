@@ -15,6 +15,8 @@ $space: 16px
   font-family: 'Munro Small', Helvetica, Arial, sans-serif
 @mixin secondary-font
   font-family: 'Montserrat', Helvetica, Arial, sans-serif
+@mixin tertiary-font
+  font-family: 'Montserrat', Helvetica, Arial, sans-serif
 
 // Utility classes
 .pad
@@ -31,7 +33,8 @@ $space: 16px
 
 // Element
 body
-  font-family: 'PT Sans Caption', Helvetica, Arial, sans-serif
+  @include tertiary-font
+  // font-family: 'PT Sans Caption', Helvetica, Arial, sans-serif
   padding-bottom: 0
 
 h1, h2, h3
@@ -248,13 +251,13 @@ a
   top: 0
   z-index: -1
 .carousel-item-title
-  font-size: 3.2em
   margin-bottom: $space/2
   @include title-font
+  font-size: 4em
   text-transform: uppercase
 @media(max-width: 768px)
   .carousel-item-title
-    font-size: 2.2em
+    font-size: 3.2em
   .carousel-inner
     p  
       font-size: 1.2em
@@ -264,7 +267,7 @@ a
     padding-top: $space * 2
 
 .text-small
-  font-size: 0.5em
+  font-size: 0.8em
 
 .btn-primary
   background-color: $primary-color

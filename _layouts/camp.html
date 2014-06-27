@@ -31,4 +31,11 @@ layout: main
 		{% capture instructors %}{% include instructors.md %}{% endcapture %}
 		{{ instructors | markdownify }}
 	</div>
+	<div class="container">
+		{% if page.registration_url %}
+		<div class="ctc-camp-registration">
+			<a href="{{ page.registration_url }} " class="btn btn-primary btn-lg">Register Here</a>
+		</div>
+		{% endif %}
+	</div>
 </section>

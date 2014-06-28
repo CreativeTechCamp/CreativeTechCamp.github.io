@@ -201,18 +201,17 @@ a {
       left: 0; }
 
 .carousel .item {
-  height: 450px;
-  overflow: hidden; }
+  height: 450px; }
 
 .carousel-inner {
   margin-bottom: 0; }
   .carousel-inner .carousel-inner-container {
-    height: 80px;
-    background-color: #f07f09; }
+    min-height: 80px;
+    background-color: #f07f09;
+    overflow: display; }
     .carousel-inner .carousel-inner-container .carousel-item-title {
       padding: 0; }
     .carousel-inner .carousel-inner-container p, .carousel-inner .carousel-inner-container .carousel-item-title {
-      text-overflow: ellipsis;
       color: white !important;
       display: block;
       padding: 0 8px; }
@@ -226,7 +225,7 @@ a {
 
 .carousel-bg {
   position: absolute;
-  background-color: #f07f09;
+  background-color: #eeeeee;
   width: 100%;
   z-index: -1;
   top: 0; }
@@ -240,9 +239,8 @@ a {
 .carousel-bg-container {
   position: relative;
   height: 370px;
-  overflow: hidden;
   z-index: -2;
-  background-color: #f07f09; }
+  background-color: #eeeeee; }
 
 .carousel-item-title {
   font-family: "Montserrat", Helvetica, Arial, sans-serif;
@@ -260,7 +258,7 @@ a {
     height: 230px; }
 
   .carousel-inner .carousel-inner-container {
-    height: 70px; }
+    min-height: 70px; }
   .carousel-inner p {
     font-size: 1em; }
 

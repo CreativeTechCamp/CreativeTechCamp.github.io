@@ -245,16 +245,16 @@ $carousel-text-height-resp: 70px
 .carousel
   .item
     height: $carousel-height
-    overflow: hidden
+    // overflow: hidden
 .carousel-inner
   margin-bottom: 0
   .carousel-inner-container
-    height: $carousel-text-height
+    min-height: $carousel-text-height
     background-color: rgba($primary-color, 1)
+    overflow: display
     .carousel-item-title 
       padding: 0
     p, .carousel-item-title
-      text-overflow: ellipsis
       color: white !important
       display: block
       padding: 0 $space/2
@@ -268,7 +268,7 @@ $carousel-text-height-resp: 70px
 
 .carousel-bg
   position: absolute
-  background-color: $primary-color
+  background-color: #eee
   width: 100%
   z-index: -1
   top: 0
@@ -281,9 +281,8 @@ $carousel-text-height-resp: 70px
 .carousel-bg-container
   position: relative
   height: $carousel-height - $carousel-text-height
-  overflow: hidden
   z-index: -2
-  background-color: $primary-color
+  background-color: #eee
 
 .carousel-item-title
   @include secondary-font
@@ -300,7 +299,7 @@ $carousel-text-height-resp: 70px
     height: $carousel-height-resp - $carousel-text-height-resp
   .carousel-inner
     .carousel-inner-container
-      height: $carousel-text-height-resp
+      min-height: $carousel-text-height-resp
     p 
       font-size: 1em
   

@@ -3,6 +3,7 @@ layout 	: camp
 title 	:  "Modding & JAVA Programming with Minecraft"
 date 	:   2014-07-21 09:00:00
 camp_date	: 14th - 18th July, 2014
+camp_time	: "9:30am - 12:00pm"
 categories	: camp morning minecraft 10-12
 age_group 	: 10 - 12 years old
 location	: Starbucks@TTDI

@@ -80,17 +80,25 @@ dd
   padding-top: 50px
   padding-bottom: 36px
 
+#camps 
+  background-color: #222//#2B1100
+  color: white
+  margin-top: $space * 4
 
 .ctc-camp-list-item
   margin-bottom: $space
   padding: $space
-  &:hover 
-    background-color: $primary-color 
+  a 
     color: white
+  color: white 
+  background-color: $primary-color 
+  &:hover 
+    background-color: white 
     a
-      color: white
+      color: $primary-color
+    color: #333
     img 
-      border: 1px solid $primary-color
+      // border: 1px solid $primary-color
     transition: background-color 0.4s
 
 .ctc-camp-header
@@ -268,7 +276,7 @@ $carousel-text-height-resp: 70px
 
 .carousel-bg
   position: absolute
-  background-color: #eee
+  // background-color: #eee
   width: 100%
   z-index: -1
   top: 0
@@ -282,7 +290,7 @@ $carousel-text-height-resp: 70px
   position: relative
   height: $carousel-height - $carousel-text-height
   z-index: -2
-  background-color: #eee
+  // background-color: #eee
 
 .carousel-item-title
   @include secondary-font

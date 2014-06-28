@@ -51,17 +51,24 @@ dd {
   padding-top: 50px;
   padding-bottom: 36px; }
 
+#camps {
+  background-color: #222222;
+  color: white;
+  margin-top: 64px; }
+
 .ctc-camp-list-item {
   margin-bottom: 16px;
-  padding: 16px; }
+  padding: 16px;
+  color: white;
+  background-color: #f07f09; }
+  .ctc-camp-list-item a {
+    color: white; }
   .ctc-camp-list-item:hover {
-    background-color: #f07f09;
-    color: white;
+    background-color: white;
+    color: #333333;
     transition: background-color 0.4s; }
     .ctc-camp-list-item:hover a {
-      color: white; }
-    .ctc-camp-list-item:hover img {
-      border: 1px solid #f07f09; }
+      color: #f07f09; }
 
 .ctc-camp-header {
   min-height: 250px;
@@ -224,7 +231,6 @@ a {
 
 .carousel-bg {
   position: absolute;
-  background-color: #eeeeee;
   width: 100%;
   z-index: -1;
   top: 0; }
@@ -238,8 +244,7 @@ a {
 .carousel-bg-container {
   position: relative;
   height: 370px;
-  z-index: -2;
-  background-color: #eeeeee; }
+  z-index: -2; }
 
 .carousel-item-title {
   font-family: "Montserrat", Helvetica, Arial, sans-serif;

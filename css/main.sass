@@ -237,8 +237,11 @@ a
     span
       left: 0
 
-$carousel-height: 440px
+$carousel-height: 450px
 $carousel-text-height: 80px
+
+$carousel-height-resp: 300px
+$carousel-text-height-resp: 50px
 .carousel
   .item
     height: $carousel-height
@@ -247,13 +250,13 @@ $carousel-text-height: 80px
   margin-bottom: 0
   .carousel-inner-container
     height: $carousel-text-height
+    background-color: rgba($primary-color, 1)
     .carousel-item-title 
       padding: 0
     p, .carousel-item-title
       text-overflow: ellipsis
       color: white !important
       display: block
-      background-color: rgba($primary-color, 1)
       padding: 0 $space/2
 
 .carousel-indicators
@@ -289,16 +292,18 @@ $carousel-text-height: 80px
   font-size: 2.0em
   text-transform: uppercase
 @media(max-width: 768px)
+  .carousel
+    .item
+      height: $carousel-height-resp
   .carousel-item-title
     font-size: 1.8em
   .carousel-inner
-    bottom: -40px
+    .carousel-inner-container
+      height: $carousel-text-height-resp
     p 
       font-size: 1.2em
-  .carousel-bg  
-    min-height: initial
-  .carousel .item
-    height: 300px
+  .carousel-bg-container   
+    height: $carousel-height-resp - $carousel-text-height-resp
   .ctc-main-section
     padding-top: $space * 2
 

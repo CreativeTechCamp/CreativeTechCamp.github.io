@@ -6,8 +6,8 @@ camp_date	: 14th - 18th July, 2014
 categories	: camp morning minecraft 10-12
 age_group 	: 10 - 12 years old
 location	: Starbucks@TTDI
-image		: /camps/images/minecraft_camp.png
-banner		: /camps/images/minecraft_camp_banner.png
+image		: /camps/images/minecraft/minecraft_camp.png
+banner		: /camps/images/minecraft/minecraft_camp_banner.png
 registration_url	: /
 excerpt		: Discover the powerful world of Java programming using Minecraft. Showing students how they can take a hobby like Minecraft, and turn it into a future college majors and possible STEM career
 ---
@@ -37,12 +37,28 @@ excerpt		: Discover the powerful world of Java programming using Minecraft. Show
 Minecraft | Java™ (Eclipse®)
 
 ##Camp Description
+<div class="row">
+<div class="col-md-8">
+<p>
 Over the past few years, the Minecraft phenomenon has extended into the academic realm, resulting in overjoyed students, and many befuddled parents. For those unfamiliar with the game, Minecraft is an indie “sandbox game,” meaning players can essentially build and create anything they want using blocks in a virtual 3D world. Explore. Start a farm. Build a mansion or castle. Construct a sports area or develop an entire metropolis. The possibilities are literally endless. That’s why students love it!
+</p>
 
+<p>
 Most kids play Minecraft, and so they’re very excited to go in and modify it. The camp – Modding & Java Programming with Minecraft use Java programming, the language used to make thier own mods. Students learn how to code their own blocks, program thier recipes and make custom armor set. It takes kids who would never think about programming to write scripts, transforming their game and make Minecraft truly ‘thiers”
+</p>
 
+<p>
 We’re looking forward to sharing Minecraft Camp with our students this summer (see dates in July), and showing them how they can take a hobby like Minecraft, and turn it into a future college majors and possible STEM career. Discover the powerful world of Java programming using Minecraft. Java is one of the most in-demand programming languages on the job market today, and is the development language applicable to engineering, development, 3D rendering and more. Students will be able to take home a copy of their modified game at the end of the camp.
- 
+</p>
+
+</div>
+<div class="col-md-4">
+	<img class="pad img-responsive ctc-camp-imgs" src="/camps/images/minecraft/1.png"/>
+	<img class="pad img-responsive ctc-camp-imgs" src="/camps/images/minecraft/2.png"/>
+	<img class="pad img-responsive ctc-camp-imgs" src="/camps/images/minecraft/3.png"/>
+	<img class="pad img-responsive ctc-camp-imgs" src="/camps/images/minecraft/4.png"/>
+</div>
+</div>
 
 ##Unplugged Actitivies
 At our Create Tech Camps, balance is very important. Our Minecraft camps are fun and engaging as we also include unplugged activities (off computer time) in the session. We believe this is a healthy balance so that students will not be staring at a computer screen the whole time. Our unplugged activities are designed to be hands-on learning, where students develop knowledge in the technology area.

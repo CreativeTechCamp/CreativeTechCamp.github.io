@@ -6,7 +6,7 @@ camp_date 	: 21st - 25th July, 2014
 camp_time	: "9:30am - 12:00pm"
 categories	: camp morning scratch 8-10
 age_group 	: 8 - 10 years old
-location	: Starbucks@TTDI
+location	: Starbucks@TTDI Conference Room
 image		: /camps/images/scratch/scratch_camp.png
 banner		: /camps/images/scratch/scratch_camp_banner.png
 registration_url	: /

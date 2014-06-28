@@ -211,13 +211,14 @@ a {
     .carousel-inner .carousel-inner-container .carousel-item-title {
       padding: 0; }
     .carousel-inner .carousel-inner-container p, .carousel-inner .carousel-inner-container .carousel-item-title {
+      text-overflow: ellipsis;
       color: white !important;
       display: block;
       background-color: #f07f09;
       padding: 0 8px; }
 
 .carousel-indicators {
-  bottom: -60px; }
+  bottom: -40px; }
   .carousel-indicators li {
     border: 1px solid #f07f09; }
   .carousel-indicators .active {

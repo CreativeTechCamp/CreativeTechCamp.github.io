@@ -251,7 +251,6 @@ $carousel-text-height-resp: 70px
   .carousel-inner-container
     min-height: $carousel-text-height
     background-color: rgba($primary-color, 1)
-    overflow: display
     .carousel-item-title 
       padding: 0
     p, .carousel-item-title
@@ -299,6 +298,8 @@ $carousel-text-height-resp: 70px
     height: $carousel-height-resp - $carousel-text-height-resp
   .carousel-inner
     .carousel-inner-container
+      position: absolute
+      bottom: 0
       min-height: $carousel-text-height-resp
     p 
       font-size: 1em

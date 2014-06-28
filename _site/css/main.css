@@ -207,8 +207,7 @@ a {
   margin-bottom: 0; }
   .carousel-inner .carousel-inner-container {
     min-height: 80px;
-    background-color: #f07f09;
-    overflow: display; }
+    background-color: #f07f09; }
     .carousel-inner .carousel-inner-container .carousel-item-title {
       padding: 0; }
     .carousel-inner .carousel-inner-container p, .carousel-inner .carousel-inner-container .carousel-item-title {
@@ -258,6 +257,8 @@ a {
     height: 230px; }
 
   .carousel-inner .carousel-inner-container {
+    position: absolute;
+    bottom: 0;
     min-height: 70px; }
   .carousel-inner p {
     font-size: 1em; }

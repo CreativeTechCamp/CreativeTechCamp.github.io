@@ -9,7 +9,7 @@ age_group 	: 10 - 12 years old
 location	: Starbucks@TTDI Conference Room
 image		: /camps/images/minecraft/minecraft_camp.png
 banner		: /camps/images/minecraft/minecraft_camp_banner.png
-registration_url	: /
+registration_url	: "http://google.com"
 excerpt		: Discover the powerful world of Java programming using Minecraft. Showing students how they can take a hobby like Minecraft, and turn it into a future college majors and possible STEM career
 ---
 

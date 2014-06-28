@@ -9,7 +9,7 @@ age_group 	: 8 - 10 years old
 location	: Starbucks@TTDI Conference Room
 image		: /camps/images/scratch/scratch_camp.png
 banner		: /camps/images/scratch/scratch_camp_banner.png
-registration_url	: /
+registration_url	: "http://google.com"
 excerpt: The course introduces our younger students to the essential building blocks behind object-oriented programming through interactive stories, creative arts and games animation.
 ---
 

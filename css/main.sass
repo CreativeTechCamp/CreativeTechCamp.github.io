@@ -39,8 +39,11 @@ body
   // font-family: 'PT Sans Caption', Helvetica, Arial, sans-serif
   padding-bottom: 0
 
-h1, h2, h3, h4
+h1, h2
   @include title-font
+
+h3, h4
+  @include secondary-font
   text-transform: uppercase
 
 h1 
@@ -49,11 +52,11 @@ h1
 h2 
   font-size: 2.8em
 
-h3 
-  font-size: 2.0em
+// h3 
+//   font-size: 2.0em
 
-h4 
-  font-size: 1.8em
+// h4 
+//   font-size: 1.8em
 
 table
   width: 100%
@@ -65,11 +68,11 @@ dd
   border-bottom: 1px solid #eee
 
 .ctc-brand 
-  max-width: 150px
   &:hover, &:focus
     background-color: #eee
   img 
-    width: 100%
+    max-height: 26px
+    // height: 100%
     border: 0px
 
 .ctc-main-section
@@ -178,8 +181,11 @@ a
 
 // Navigation
 .navbar-ctc
+  @include secondary-font 
+  text-transform: uppercase
   border-bottom: 1px solid #eee
   background-color: rgba(white, 0.9)
+  // min-height: 60px
   li a:hover 
     background-color: #eee
     color: $primary-color
@@ -190,6 +196,8 @@ a
     background-color: $primary-color
   &:hover, &:focus
     background-color: #eee
+
+
 
 .jumbotron-ctc
   padding: 0
@@ -260,12 +268,12 @@ a
   z-index: -1
 .carousel-item-title
   margin-bottom: $space/2
-  @include title-font
-  font-size: 4.4em
+  @include secondary-font
+  font-size: 3.4em
   text-transform: uppercase
 @media(max-width: 768px)
   .carousel-item-title
-    font-size: 3.6em
+    font-size: 3em
   .carousel-inner
     p  
       font-size: 1.2em

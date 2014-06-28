@@ -200,43 +200,34 @@ a {
     .carousel-control.left span {
       left: 0; }
 
-.carousel .carousel-background {
-  position: absolute;
-  top: 0;
-  background-color: #eeeeee;
-  z-index: -3;
-  width: 100%; }
 .carousel .item {
-  height: 400px;
+  height: 440px;
   overflow: hidden; }
 
 .carousel-inner {
   margin-bottom: 0; }
   .carousel-inner .carousel-inner-container {
-    padding: 30px;
-    position: absolute;
-    bottom: 0; }
+    height: 80px; }
     .carousel-inner .carousel-inner-container .carousel-item-title {
       padding: 0; }
     .carousel-inner .carousel-inner-container p, .carousel-inner .carousel-inner-container .carousel-item-title {
       color: white !important;
-      display: inline-block;
-      background-color: rgba(240, 127, 9, 0.9);
+      display: block;
+      background-color: #f07f09;
       padding: 0 8px; }
 
 .carousel-indicators {
-  bottom: -40px; }
+  bottom: -60px; }
   .carousel-indicators li {
     border: 1px solid #f07f09; }
   .carousel-indicators .active {
     background-color: #f07f09; }
 
 .carousel-bg {
-  background-color: #f07f09;
   position: absolute;
+  background-color: #f07f09;
   width: 100%;
-  min-height: 100%;
-  z-index: -1;
+  z-index: -2;
   top: 0; }
   .carousel-bg.align-top {
     top: 0;
@@ -245,18 +236,25 @@ a {
     top: auto;
     bottom: 0; }
 
+.carousel-bg-container {
+  position: relative;
+  height: 360px;
+  overflow: hidden;
+  z-index: -1; }
+
 .carousel-item-title {
-  margin-bottom: 8px;
   font-family: "Montserrat", Helvetica, Arial, sans-serif;
-  font-size: 2.4em;
+  font-size: 2em;
   text-transform: uppercase; }
 
 @media(max-width: 768px) {
   .carousel-item-title {
-    font-size: 2em; }
+    font-size: 1.8em; }
 
-  .carousel-inner p {
-    font-size: 1.2em; }
+  .carousel-inner {
+    bottom: -40px; }
+    .carousel-inner p {
+      font-size: 1.2em; }
 
   .carousel-bg {
     min-height: initial; }

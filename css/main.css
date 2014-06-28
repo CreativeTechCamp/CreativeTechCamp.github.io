@@ -145,6 +145,10 @@ dd {
 .email {
   color: #f07f09; }
 
+.ctc-camp-imgs {
+  max-width: 150px;
+  float: left; }
+
 a {
   color: #f07f09; }
   a:hover, a:focus {
@@ -218,7 +222,7 @@ a {
       color: white !important;
       display: inline-block;
       background-color: rgba(240, 127, 9, 0.9);
-      padding: 8px; }
+      padding: 0 8px; }
 
 .carousel-indicators {
   bottom: -40px; }

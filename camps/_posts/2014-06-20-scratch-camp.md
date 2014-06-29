@@ -4,13 +4,14 @@ title 	:  "Creative Coding with Scratch"
 date  	:   2014-07-22 09:00:00
 camp_date 	: 14th - 18th July, 2014
 camp_time	: "9:30am - 12:00pm"
+permalink   : /camps/2014/midyear/scratch-camp
 categories  : [2014, midyear]
 tags    	: [camp, morning, scratch, 8-10]
 age_group 	: 8 - 10 years old
 location	: Starbucks@TTDI, Meeting Room
 image		: /camps/images/scratch/scratch_camp.png
 banner		: /camps/images/scratch/scratch_camp_banner.png
-registration_url	: "http://www.eventbrite.com/e/creative-coding-with-scratch-tickets-12110114679"
+registration_url	: "http://www.eventbrite.com/e/creative-coding-wiath-scratch-tickets-12110114679"
 excerpt: The course introduces our younger students to the essential building blocks behind object-oriented programming through interactive stories, creative arts and games animation.
 ---
 

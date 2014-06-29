@@ -5,6 +5,7 @@
   src: url("/fonts/munrosmall-webfont.eot?#iefix") format("embedded-opentype"), url("/fonts/munrosmall-webfont.woff") format("woff"), url("/fonts/munrosmall-webfont.ttf") format("truetype"), url("/fonts/munrosmall-webfont.svg#munro_smallregular") format("svg");
   font-weight: normal;
   font-style: normal; }
+
 .pad {
   padding: 12px; }
 
@@ -68,7 +69,8 @@ dd {
     color: #333333;
     transition: background-color 0.4s; }
     .ctc-camp-list-item:hover a {
-      color: #f07f09; }
+      color: #f07f09;
+      background-color: transparent; }
 
 .ctc-camp-header {
   min-height: 250px;
@@ -189,6 +191,7 @@ a {
   .navbar-ctc {
     background-color: white;
     border-bottom: 0px solid #eeeeee; } }
+
 .carousel-control {
   width: 10%; }
   .carousel-control.right, .carousel-control.left {
@@ -251,6 +254,7 @@ a {
 
   .ctc-main-section {
     padding-top: 32px; } }
+
 .text-small {
   font-size: 0.8em; }
 

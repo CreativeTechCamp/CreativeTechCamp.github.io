@@ -9,7 +9,7 @@ age_group 	: 8 - 10 years old
 location	: Starbucks@TTDI Conference Room
 image		: /camps/images/scratch/scratch_camp.png
 banner		: /camps/images/scratch/scratch_camp_banner.png
-registration_url	: "http://google.com"
+registration_url	: "http://www.eventbrite.com/e/creative-coding-with-scratch-tickets-12110114679"
 excerpt: The course introduces our younger students to the essential building blocks behind object-oriented programming through interactive stories, creative arts and games animation.
 ---
 

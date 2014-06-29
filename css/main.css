@@ -212,14 +212,18 @@ a {
   .carousel-inner .carousel-inner-container {
     min-height: 100px;
     background-color: #f07f09; }
-    .carousel-inner .carousel-inner-container .carousel-item-title {
-      padding: 0;
-      display: block;
-      max-width: 100%; }
     .carousel-inner .carousel-inner-container p, .carousel-inner .carousel-inner-container .carousel-item-title {
       color: white !important;
       display: block;
       padding: 0 8px; }
+
+.carousel-item-title {
+  font-family: "Montserrat", Helvetica, Arial, sans-serif;
+  padding: 0;
+  display: block;
+  max-width: 100%;
+  font-size: 1.8em;
+  text-transform: uppercase; }
 
 .carousel-indicators {
   bottom: -40px; }
@@ -235,15 +239,9 @@ a {
   position: relative;
   z-index: -2; }
 
-.carousel-item-title {
-  font-family: "Montserrat", Helvetica, Arial, sans-serif;
-  font-size: 1.8em;
-  text-transform: uppercase; }
-
 @media(max-width: 768px) {
   .carousel-item-title {
-    font-size: 1.4em;
-    max-height: 50px; }
+    font-size: 1.2em; }
 
   .carousel-inner .carousel-inner-container {
     width: 100%; }

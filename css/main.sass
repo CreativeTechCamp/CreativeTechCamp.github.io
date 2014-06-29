@@ -246,22 +246,15 @@ a
     span
       left: 0
 
-$carousel-height: 450px
-$carousel-text-height: 80px
-
-$carousel-height-resp: 300px
-$carousel-text-height-resp: 70px
-.carousel
-  .item
-    height: $carousel-height
-    // overflow: hidden
 .carousel-inner
   margin-bottom: 0
   .carousel-inner-container
-    min-height: $carousel-text-height
+    min-height: 100px
     background-color: rgba($primary-color, 1)
     .carousel-item-title 
       padding: 0
+      display: block
+      max-width: 100%
     p, .carousel-item-title
       color: white !important
       display: block
@@ -275,22 +268,10 @@ $carousel-text-height-resp: 70px
     background-color: $primary-color
 
 .carousel-bg
-  position: absolute
-  // background-color: #eee
   width: 100%
-  z-index: -1
-  top: 0
-  &.align-top
-    top: 0 
-    bottom: auto
-  &.align-bottom
-    top: auto
-    bottom: 0
 .carousel-bg-container
   position: relative
-  height: $carousel-height - $carousel-text-height
   z-index: -2
-  // background-color: #eee
 
 .carousel-item-title
   @include secondary-font
@@ -298,29 +279,17 @@ $carousel-text-height-resp: 70px
   text-transform: uppercase
 
 @media(max-width: 768px)
-  .carousel
-    .item
-      height: $carousel-height-resp
   .carousel-item-title
     font-size: 1.4em
-  .carousel-bg-container   
-    height: $carousel-height-resp - $carousel-text-height-resp
+    max-height: 50px
   .carousel-inner
     .carousel-inner-container
-      position: absolute
       width: 100%
-      bottom: 0
-      min-height: $carousel-text-height-resp
     p 
       font-size: 1em
   
   .ctc-main-section
     padding-top: $space * 2
-
-@media(max-width: 368px)
-  .carousel-bg
-    width: auto
-    height: 100%
 
 .text-small
   font-size: 0.8em

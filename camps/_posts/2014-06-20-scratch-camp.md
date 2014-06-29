@@ -1,7 +1,7 @@
 ---
 layout	: camp
 title 	:  "Creative Coding with Scratch"
-date  	:   2014-07-14 09:00:00
+date  	:   2014-07-22 09:00:00
 camp_date 	: 21st - 25th July, 2014
 camp_time	: "9:30am - 12:00pm"
 categories	: camp morning scratch 8-10

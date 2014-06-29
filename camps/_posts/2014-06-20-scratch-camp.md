@@ -8,7 +8,7 @@ permalink   : /camps/2014/midyear/scratch-camp
 categories  : [2014, midyear]
 tags    	: [camp, morning, scratch, 8-10]
 age_group 	: 8 - 10 years old
-location	: Starbucks@TTDI, Meeting Room
+location	: Starbucks@TTDI KL, Conference Room
 image		: /camps/images/scratch/scratch_camp.png
 banner		: /camps/images/scratch/scratch_camp_banner.png
 registration_url	: "http://www.eventbrite.com/e/creative-coding-wiath-scratch-tickets-12110114679"
@@ -32,11 +32,15 @@ excerpt: The course introduces our younger students to the essential building bl
 	<tr>
 		<th>Ratio Guarantee</th>
 		<td>8 Students per Instructor</td>
+	</tr>
+    <tr>
+		<th>Price</th>
+		<td>RM 899</td>
 	</tr>	
 </table>
 
 ##Featured Software
-Scratch (A Project from the MIT Media Lab)
+Scratch (A project by MIT Media Lab)
 
 <h2>Camp Description</h2>
 <div class="row">

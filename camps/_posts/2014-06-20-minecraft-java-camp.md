@@ -2,11 +2,12 @@
 layout 	: camp
 title 	:  "Modding & JAVA Programming with Minecraft"
 date 	:   2014-07-21 09:00:00
-camp_date	: 14th - 18th July, 2014
+camp_date	: 21st - 25th July, 2014
 camp_time	: "9:30am - 12:00pm"
-categories	: camp morning minecraft 10-12
+categories  : [2014, midyear]
+tags	    : [camp, morning, minecraft, 10-13]
 age_group 	: 10 - 12 years old
-location	: Starbucks@TTDI Conference Room
+location	: Starbucks@TTDI, Meeting Room
 image		: /camps/images/minecraft/minecraft_camp.png
 banner		: /camps/images/minecraft/minecraft_camp_banner.png
 registration_url	: "http://www.eventbrite.com/e/modding-java-programming-with-minecraft-tickets-12100116775"
@@ -18,7 +19,7 @@ excerpt		: Discover the powerful world of Java programming using Minecraft. Show
 <table>
 	<tr>
 		<th>Ages</th>
-		<td>10-12 (Must turn 10 by 31-12-14)</td>
+		<td>10-13 (Must turn 10 by 31-12-2014)</td>
 	</tr>	
 	<tr>
 		<th>Duration</th>

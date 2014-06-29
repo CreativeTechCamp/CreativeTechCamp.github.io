@@ -210,6 +210,7 @@ a {
 .carousel-inner {
   margin-bottom: 0; }
   .carousel-inner .carousel-inner-container {
+    padding: 8px;
     min-height: 100px;
     background-color: #f07f09; }
     .carousel-inner .carousel-inner-container p, .carousel-inner .carousel-inner-container .carousel-item-title {

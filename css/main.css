@@ -37,7 +37,8 @@ table {
   width: 100%; }
 
 dd {
-  padding: 16px 0px; }
+  padding: 16px;
+  padding-bottom: 32px; }
 
 dt a {
   display: block;

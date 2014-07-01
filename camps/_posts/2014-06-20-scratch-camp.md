@@ -39,6 +39,10 @@ excerpt: This camp introduces the basic concepts of Computer Science to young ch
 	</tr>	
 </table>
 
+##Requirements
+* Classes conducted in English and elementary reading level requirement
+* Bring your own laptop (PC, Linux or Mac), power supply and mouse
+
 ##Featured Software
 Scratch (A project by MIT Media Lab)
 

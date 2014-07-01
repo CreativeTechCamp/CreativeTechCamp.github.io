@@ -40,6 +40,10 @@ excerpt		: Discover the powerful world of Java programming through Minecraft. St
 	</tr>
 </table>
 
+##Requirements
+* Classes conducted in English and elementary reading level requirement
+* Bring your own laptop (PC, Linux or Mac), power supply and mouse
+
 ##Featured Software
 Minecraft | Java™ (Eclipse®)
 

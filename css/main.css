@@ -36,8 +36,13 @@ h1, h2, h3, h4 {
 table {
   width: 100%; }
 
-dd, dt {
+dd {
   padding: 16px 0px; }
+
+dt a {
+  display: block;
+  padding: 16px;
+  border-bottom: 1px solid #eeeeee; }
 
 dd {
   border-bottom: 1px solid #eeeeee; }

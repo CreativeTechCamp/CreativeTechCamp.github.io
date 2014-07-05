@@ -47,23 +47,17 @@ h1, h2, h3, h4
   @include secondary-font
   text-transform: uppercase
 
-// h1 
-//   font-size: 4em
-
-// h2 
-//   font-size: 3.2em
-
-// h3 
-//   font-size: 2.0em
-
-// h4 
-//   font-size: 1.8em
-
 table
   width: 100%
 
-dd, dt
-  padding: $space 0px
+dd
+  padding: $space
+  padding-bottom: $space * 2
+dt
+  a 
+    display: block
+    padding: $space 
+    border-bottom: 1px solid #eee
 
 dd
   border-bottom: 1px solid #eee
@@ -73,7 +67,6 @@ dd
     background-color: #eee
   img 
     max-height: 26px
-    // height: 100%
     border: 0px
 
 .ctc-main-section
@@ -96,9 +89,9 @@ dd
     background-color: white 
     a
       color: $primary-color
+      background-color: transparent
     color: #333
     img 
-      // border: 1px solid $primary-color
     transition: background-color 0.4s
 
 .ctc-camp-header
@@ -137,7 +130,6 @@ dd
 .ctc-camp-listing-logistics
   @include secondary-font
   font-size: 15px
-  // font-weight: bold
   text-transform: uppercase
 .ctc-camp-listing-date, 
   padding: $space/2 $space/2 $space/2 0
@@ -195,7 +187,6 @@ a
   text-transform: uppercase
   border-bottom: 1px solid #eee
   background-color: rgba(white, 0.9)
-  // min-height: 60px
   li a:hover 
     background-color: #eee
     color: $primary-color
@@ -211,7 +202,7 @@ a
 
 .jumbotron-ctc
   padding: 0
-  background-color: transparent//rgba(#333, 0.7)
+  background-color: transparent
   color: white
   margin-bottom: 0
 
@@ -295,6 +286,9 @@ a
 .text-small
   font-size: 0.8em
 
+.btn-default
+  background-color: #ddd
+  background-image: none
 .btn-primary
   background-color: $primary-color
   border: 1px solid darken($primary-color, 5%)

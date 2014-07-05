@@ -18,7 +18,7 @@ layout: main
 			<div class="col-sm-12">
 				{% if page.registration_url %}
 				<div class="ctc-camp-registration">
-					<a href="{{ page.registration_url }} " class="btn btn-primary btn-lg">Register Here</a>
+					<a target="_blank" href="{{ page.registration_url }} " class="btn btn-primary btn-lg">Register Here</a>
 				</div>
 				{% endif %}
 			</div>
@@ -34,10 +34,23 @@ layout: main
 		{{ instructors | markdownify }}
 	</div>
 	<div class="container">
-		{% if page.registration_url %}
-		<div class="ctc-camp-registration">
-			<a href="{{ page.registration_url }} " class="btn btn-primary btn-lg">Register Here</a>
+		<div class="row">
+			{% if page.registration_url %}
+			<div class="col-sm-9">
+				<div class="ctc-camp-registration">
+					<a target="_blank" href="{{ page.registration_url }} " class="btn btn-primary btn-lg">Register Here</a>
+				</div>
+				{% endif %}
+			</div>
+
+			<div class="col-sm-3">
+				{% if page.keep_me_informed_url %}
+				<div class="ctc-camp-registration pull-left">
+					<div><p>Dates not suitable or out of seats?</p></div>
+					<a target="_blank" href="{{ page.keep_me_informed_url }} " class="btn btn-default">Keep Me Informed</a>
+				</div>
+				{% endif %}
+			</div>
 		</div>
-		{% endif %}
 	</div>
 </section>

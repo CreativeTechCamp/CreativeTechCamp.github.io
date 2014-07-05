@@ -2,6 +2,7 @@ name: creativetechcamps
 encoding: utf-8
 markdown: kramdown
 port: 4999
+permalink: /:categories/:title
 
 collections:
   events:

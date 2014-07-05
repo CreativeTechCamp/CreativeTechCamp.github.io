@@ -1,23 +1,25 @@
 ---
 layout	: camp
 title 	:  "Creative Coding with Scratch"
-date  	:   2014-07-14 09:00:00
-camp_date 	: 21st - 25th July, 2014
+date  	:   2014-07-22 09:00:00
+camp_date 	: 14th - 18th July, 2014
 camp_time	: "9:30am - 12:00pm"
-categories	: camp morning scratch 8-10
+permalink   : /camps/2014/midyear/scratch-camp
+categories  : [2014, midyear]
+tags    	: [camp, morning, scratch, 8-10]
 age_group 	: 8 - 10 years old
-location	: Starbucks@TTDI Conference Room
+location	: Starbucks@TTDI KL, Conference Room
 image		: /camps/images/scratch/scratch_camp.png
 banner		: /camps/images/scratch/scratch_camp_banner.png
-registration_url	: "http://google.com"
-excerpt: The course introduces our younger students to the essential building blocks behind object-oriented programming through interactive stories, creative arts and games animation.
+registration_url	: "http://www.eventbrite.com/e/creative-coding-wiath-scratch-tickets-12110114679"
+excerpt: This camp introduces the basic concepts of Computer Science to young children. Write your first computer program using Scratch.
 ---
 
 ##Details
 <table>
 	<tr>
 		<th>Ages</th>
-		<td>8-10 (Must turn 8 by 31-12-14)</td>
+		<td>8-10 (Must turn 8 by 31-12-2014)</td>
 	</tr>	
 	<tr>
 		<th>Duration</th>
@@ -30,11 +32,19 @@ excerpt: The course introduces our younger students to the essential building bl
 	<tr>
 		<th>Ratio Guarantee</th>
 		<td>8 Students per Instructor</td>
+	</tr>
+    <tr>
+		<th>Price</th>
+		<td>RM 899</td>
 	</tr>	
 </table>
 
+##Requirements
+* Classes conducted in English and elementary reading level requirement
+* Bring your own laptop (PC, Linux or Mac), power supply and mouse
+
 ##Featured Software
-Scratch (A Project from the MIT Media Lab)
+Scratch (A project by MIT Media Lab)
 
 <h2>Camp Description</h2>
 <div class="row">
@@ -47,7 +57,7 @@ Scratch (A Project from the MIT Media Lab)
 
 	<p>We’re looking forward to sharing Scratch Camp with our students this summer (see dates in July), and showing them how their interests in programming can turn into future college majors or careers. Students will be able to take home a copy of your own game at the end of this Scratch programming class. It could be the start of something BIG. The success of Scratch is due to its ability to present vital 21st century skills like critical thinking, logic, problem-solving, and creative development in a way that is inviting, colorful, and engaging. </p>
 
-	<p>For more info on Scratch, please visit http://scratch.mit.edu</p>
+	<p>For more info on Scratch, please visit <a href='http://scratch.mit.edu' target="_blank">http://scratch.mit.edu</a></p>
 </div>
 
 <div class="col-md-4">

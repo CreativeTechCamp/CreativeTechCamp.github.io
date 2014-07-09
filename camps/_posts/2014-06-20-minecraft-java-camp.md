@@ -2,7 +2,9 @@
 layout 	: camp
 title 	:  "Modding & JAVA Programming with Minecraft"
 date 	:   2014-07-21 09:00:00
-camp_date	: 21st - 25th July, 2014
+camp_date_onMainPage 	: "July 21st - 25th, 2014"
+camp_date_onCampPage 	: "Monday to Friday"
+camp_date	: "July 21st - 25th, 2014"
 camp_time	: "9:30am - 12:00pm"
 permalink   : /camps/2014/midyear/minecraft-java-camp
 categories  : [2014, midyear]
@@ -12,7 +14,7 @@ location	: Starbucks@TTDI KL, Conference Room
 image		: /camps/images/minecraft/minecraft_camp.png
 banner		: /camps/images/minecraft/minecraft_camp_banner.png
 registration_urls		: ["http://www.eventbrite.com/e/modding-java-programming-with-minecraft-tickets-12100116775"]
-registration_dates		: ['21st - 25th July']
+registration_dates		: ['July 21st - 25th, 2014 (2 places left)']
 registration_statuses	: [true]
 keep_me_informed_url	: "/#contact"
 excerpt		: Discover the powerful world of Java programming through Minecraft. Start with the fundamentals of Java and Minecraft tools, then start modding!

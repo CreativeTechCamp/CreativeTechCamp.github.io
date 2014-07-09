@@ -12,6 +12,8 @@ location	: Starbucks@TTDI KL, Conference Room
 image		: /camps/images/scratch/scratch_camp.png
 banner		: /camps/images/scratch/scratch_camp_banner.png
 registration_url	: "http://www.eventbrite.com/e/creative-coding-wiath-scratch-tickets-12110114679"
+registration_urls	: ["http://www.eventbrite.com/e/creative-coding-wiath-scratch-tickets-12110114679"]
+registration_dates	: ["14th - 18th July"]
 excerpt: This camp introduces the basic concepts of Computer Science to young children. Write your first computer program using Scratch.
 ---
 

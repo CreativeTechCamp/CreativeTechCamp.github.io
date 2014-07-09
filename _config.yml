@@ -1,7 +1,7 @@
 name: creativetechcamps
 encoding: utf-8
 markdown: kramdown
-port: 4999
+port: 4998
 permalink: /:categories/:title
 
 collections:

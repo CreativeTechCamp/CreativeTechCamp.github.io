@@ -4,7 +4,6 @@ title 	:  "Modding & JAVA Programming with Minecraft"
 date 	:   2014-07-21 09:00:00
 camp_date_onMainPage 	: "July 21st - 25th, 2014"
 camp_date_onCampPage 	: "Monday to Friday"
-camp_date	: "July 21st - 25th, 2014"
 camp_time	: "9:30am - 12:00pm"
 permalink   : /camps/2014/midyear/minecraft-java-camp
 categories  : [2014, midyear]

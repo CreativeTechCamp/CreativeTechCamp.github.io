@@ -11,7 +11,9 @@ age_group 	: 10 - 12 years old
 location	: Starbucks@TTDI KL, Conference Room
 image		: /camps/images/minecraft/minecraft_camp.png
 banner		: /camps/images/minecraft/minecraft_camp_banner.png
-registration_url		: "http://www.eventbrite.com/e/modding-java-programming-with-minecraft-tickets-12100116775"
+registration_urls		: ["http://www.eventbrite.com/e/modding-java-programming-with-minecraft-tickets-12100116775"]
+registration_dates		: ['21st - 25th July']
+registration_statuses	: [true]
 keep_me_informed_url	: "/#contact"
 excerpt		: Discover the powerful world of Java programming through Minecraft. Start with the fundamentals of Java and Minecraft tools, then start modding!
 ---

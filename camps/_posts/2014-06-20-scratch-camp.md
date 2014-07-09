@@ -2,7 +2,7 @@
 layout	: camp
 title 	:  "Creative Coding with Scratch"
 date  	:   2014-07-22 09:00:00
-camp_date 	: 14th - 18th July, 2014
+camp_date 	: 4th - 8th August, 2014
 camp_time	: "9:30am - 12:00pm"
 permalink   : /camps/2014/midyear/scratch-camp
 categories  : [2014, midyear]
@@ -12,8 +12,9 @@ location	: Starbucks@TTDI KL, Conference Room
 image		: /camps/images/scratch/scratch_camp.png
 banner		: /camps/images/scratch/scratch_camp_banner.png
 registration_url	: "http://www.eventbrite.com/e/creative-coding-wiath-scratch-tickets-12110114679"
-registration_urls	: ["http://www.eventbrite.com/e/creative-coding-wiath-scratch-tickets-12110114679"]
-registration_dates	: ["14th - 18th July"]
+registration_urls	: ['http://www.eventbrite.com/e/creative-coding-wiath-scratch-tickets-12110114679', 'https://www.eventbrite.com/e/creative-coding-with-scratch-4th-8th-august-2014-tickets-12218220025']
+registration_dates	: ["14th - 18th July", "4th - 8th August"]
+registration_statuses	: [false, true]
 excerpt: This camp introduces the basic concepts of Computer Science to young children. Write your first computer program using Scratch.
 ---
 

@@ -16,14 +16,20 @@ layout: main
 				</div>
 			</div>
 			<div class="col-sm-12">
-				{% for url in page.registration_urls %}
 				<div class="ctc-camp-registration">
-					<a target="_blank" href="{{ url }} " class="btn btn-primary btn-lg">
-						<div>{{page.registration_dates[forloop.index] }}</div>
-						Register Here
+					{% for url in page.registration_urls %}
+					<a target="_blank" href="{{ url }} " class="btn btn-lg pad-c {% if page.registration_statuses[forloop.index0]%} btn-primary {% else %} btn-default {% endif %}">
+						<div class="ctc-camp-registration-status">
+							{% if page.registration_statuses[forloop.index0]%}
+							Register Here
+							{% else %}
+							Sold Out
+							{% endif %}
+						</div>
+						<small class="ctc-camp-registration-date">{{page.registration_dates[forloop.index0] }}</small>
 					</a>
+					{% endfor %}
 				</div>
-				{% endfor %}
 			</div>
 		</div>
 	</div>
@@ -38,18 +44,27 @@ layout: main
 	</div>
 	<div class="container">
 		<div class="row">
-			{% if page.registration_url %}
-			<div class="col-sm-9">
-				<div class="ctc-camp-registration">
-					<a target="_blank" href="{{ page.registration_url }} " class="btn btn-primary btn-lg">Register Here</a>
-				</div>
-				{% endif %}
+			<div class="ctc-camp-registration">
+				{% for url in page.registration_urls %}
+				<a target="_blank" href="{{ url }} " class="btn btn-lg pad-c {% if page.registration_statuses[forloop.index0]%} btn-primary {% else %} btn-default {% endif %}">
+					<div class="ctc-camp-registration-date">{{page.registration_dates[forloop.index0] }}</div>
+					<div class="ctc-camp-registration-status">
+						{% if page.registration_statuses[forloop.index0]%}
+							Register Here
+							{% else %}
+							Sold Out
+							{% endif %}
+					</div>
+				</a>
+				{% endfor %}
 			</div>
 
 			<div class="col-sm-3">
 				{% if page.keep_me_informed_url %}
 				<div class="ctc-camp-registration pull-left">
-					<div><p>Dates not suitable or out of seats?</p></div>
+					<div>
+						<p>Dates not suitable or out of seats?</p>
+					</div>
 					<a target="_blank" href="{{ page.keep_me_informed_url }} " class="btn btn-default">Keep Me Informed</a>
 				</div>
 				{% endif %}

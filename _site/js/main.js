@@ -10,7 +10,7 @@ $(function(){
                 thisIconId = 'icon' + i;
 
                 icon = $('<i class="fa fa-plus pull-right"></i>').addClass(thisId);
-                a  = $('<a>').html(" " + curr.q).append(icon);
+                a  = $('<a href="#">').html(" " + curr.q).append(icon);
                 dt = $('<dt>').append(a).attr('data-toggle', 'collapse').attr('data-target', '#'+thisId).attr('data-parent', '#faq');
                 dd = $('<dd>').html(curr.a).addClass('collapse').attr('id', thisId);
 

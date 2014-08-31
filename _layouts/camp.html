@@ -20,12 +20,11 @@ layout: main
 					{% for url in page.registration_urls %}
 					<a target="_blank" href="{{ url }} " class="btn btn-lg pad-c {% if page.registration_statuses[forloop.index0]%} btn-primary {% else %} btn-default {% endif %}">
 						<div class="ctc-camp-registration-status">
-							<!--{% if page.registration_statuses[forloop.index0]%}
+							{% if page.registration_statuses[forloop.index0]%}
 							Register Here
 							{% else %}
 							Sold Out
-							{% endif %} -->
-                            {{ page.registration_text[forloop.index0] }}
+							{% endif %}
 						</div>
 						<small class="ctc-camp-registration-date">{{page.registration_dates[forloop.index0] }}</small>
 					</a>
@@ -50,12 +49,11 @@ layout: main
 				<a target="_blank" href="{{ url }} " class="btn btn-lg pad-c {% if page.registration_statuses[forloop.index0]%} btn-primary {% else %} btn-default {% endif %}">
 					<div class="ctc-camp-registration-date">{{page.registration_dates[forloop.index0] }}</div>
 					<div class="ctc-camp-registration-status">
-						<!--{% if page.registration_statuses[forloop.index0]%}
+						{% if page.registration_statuses[forloop.index0]%}
 							Register Here
-						{% else %}
+							{% else %}
 							Sold Out
-						{% endif %} -->
-                        {{ page.registration_text[forloop.index0] }}
+							{% endif %}
 					</div>
 				</a>
 				{% endfor %}

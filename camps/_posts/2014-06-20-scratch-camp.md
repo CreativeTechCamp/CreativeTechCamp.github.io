@@ -5,7 +5,7 @@ date  	:   2014-07-22 09:00:00
 camp_date_onMainPage 	: "August 4th - 8th, 2014"
 camp_date_onCampPage 	: "Monday to Friday"
 camp_time	: "9:30am - 12:00pm"
-permalink   : /camps/2014/midyear/scratch-camp
+permalink   : /camps/scratch-camp
 categories  : [2014, midyear]
 tags    	: [camp, morning, scratch, 8-10]
 age_group 	: 8 - 10 years old

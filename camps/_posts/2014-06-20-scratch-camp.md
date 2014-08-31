@@ -14,7 +14,8 @@ image		: /camps/images/scratch/scratch_camp.png
 banner		: /camps/images/scratch/scratch_camp_banner.png
 registration_urls	: ['http://www.eventbrite.com/e/creative-coding-wiath-scratch-tickets-12110114679', 'https://www.eventbrite.com/e/creative-coding-with-scratch-4th-8th-august-2014-tickets-12218220025']
 registration_dates	: ["July 14th - 18th", "August 4th - 8th"]
-registration_statuses	: [false, true]
+registration_statuses	: [false, false]
+registration_text : ["Sold Out", "Over"]
 keep_me_informed_url	: "/#contact"
 excerpt: This camp introduces the basic concepts of Computer Science to young children. Write your first computer program using Scratch.
 ---

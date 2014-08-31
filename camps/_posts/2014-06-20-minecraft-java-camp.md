@@ -14,7 +14,8 @@ image		: /camps/images/minecraft/minecraft_camp.png
 banner		: /camps/images/minecraft/minecraft_camp_banner.png
 registration_urls		: ["http://www.eventbrite.com/e/modding-java-programming-with-minecraft-tickets-12100116775", "http://www.eventbrite.com/e/modding-java-programming-with-minecraft-aug-11th-15th-tickets-12250695159"]
 registration_dates		: ["July 21st - 25th, 2014", "August 11th - 15th, 2014"]
-registration_statuses	: [false, true]
+registration_statuses	: [false, false]
+registration_text : ["Sold Out", "Over"]
 keep_me_informed_url	: "/#contact"
 excerpt		: Discover the powerful world of Java programming through Minecraft. Start with the fundamentals of Java and Minecraft tools, then start modding!
 ---

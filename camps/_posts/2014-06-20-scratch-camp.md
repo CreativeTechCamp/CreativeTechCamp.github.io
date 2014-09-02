@@ -1,7 +1,8 @@
 ---
 layout	: camp
 title 	:  "Creative Coding with Scratch"
-date  	:   2014-07-22 09:00:00
+date  	:   2014-06-20 09:00:00
+rank    : 1
 camp_date_onMainPage 	: "August 4th - 8th, 2014"
 camp_date_onCampPage 	: "Monday to Friday"
 camp_time	: "9:30am - 12:00pm"
@@ -12,34 +13,44 @@ age_group 	: 8 - 10 years old
 location	: Starbucks@TTDI KL, Conference Room
 image		: /camps/images/scratch/scratch_camp.png
 banner		: /camps/images/scratch/scratch_camp_banner.png
-registration_urls	: ['http://www.eventbrite.com/e/creative-coding-wiath-scratch-tickets-12110114679', 'https://www.eventbrite.com/e/creative-coding-with-scratch-4th-8th-august-2014-tickets-12218220025']
-registration_dates	: ["July 14th - 18th", "August 4th - 8th"]
-registration_statuses	: [false, false]
-registration_text : ["Sold Out", "Over"]
+registration_urls	: ['/#contact', 'http://www.eventbrite.com/e/creative-coding-wiath-scratch-tickets-12110114679', 'https://www.eventbrite.com/e/creative-coding-with-scratch-4th-8th-august-2014-tickets-12218220025']
+registration_dates	: ["December 2014", "August 4th - 8th", "July 14th - 18th"]
+registration_statuses	: [true, false, false]
+registration_text : ["Coming Soon","Sold Out", "Sold Out"]
 keep_me_informed_url	: "/#contact"
+show_onMainPage : true
+main_page_buttons : <a href="/camps/scratch-camp-1day" class="btn btn-lg pad-c btn-green">1-day Experience</a><a href="/camps/scratch-camp" class="btn btn-lg pad-c btn-primary-pale">5-day Camp</a>
 excerpt: This camp introduces the basic concepts of Computer Science to young children. Write your first computer program using Scratch.
 ---
 
 ##Details
-<table>
+<table style="white-space: nowrap">
+    <col width="13%">
+    <col width="3%">
+    <col width="84%">
 	<tr>
 		<th>Ages</th>
-		<td>8-10 (Must turn 8 by 31-12-2014)</td>
+        <td/>
+		<td>8-10 (Must turn 8 by 31/12/2014)</td>
 	</tr>	
 	<tr>
 		<th>Duration</th>
+        <td/>
 		<td>5 Days Camp – Morning Session</td>
 	</tr>	
 	<tr>
 		<th>Skill Level</th>
+        <td/>
 		<td>Beginner</td>
 	</tr>	
 	<tr>
 		<th>Ratio Guarantee</th>
+        <td/>
 		<td>8 Students per Instructor</td>
 	</tr>
     <tr>
 		<th>Price</th>
+        <td/>
 		<td>RM 899</td>
 	</tr>	
 </table>

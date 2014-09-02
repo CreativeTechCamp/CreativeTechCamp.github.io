@@ -23,7 +23,7 @@ layout: main
         </a>
       </li>
       <li class="item">
-        <a href="/camps/2014/midyear/scratch-camp">
+        <a href="/camps/scratch-camp">
           <div class="carousel-bg-container">
             <!-- Carousel Image -->
             <img class="carousel-bg" src="/assets/images/carousel/02 Scratch.png"></div>
@@ -34,13 +34,13 @@ layout: main
             </span>
             <p>
               <!-- Carousel Paragraph -->
-              Learn coding with Scratch for children ages 8 to 10
+              Learn coding with Scratch; For children ages 8 to 10
             </p>
           </div>
         </a>
       </li>
       <li class="item">
-        <a href="/camps/2014/midyear/minecraft-java-camp">
+        <a href="/camps/minecraft-java-camp">
           <div class="carousel-bg-container">
             <img class="carousel-bg align-bottom" src="/assets/images/carousel/03 Minecraft.png"></div>
           <div class="carousel-captions">
@@ -48,7 +48,24 @@ layout: main
               <span>Modding, Java, Minecraft!!!</span>
             </span>
             <p>
-              Get introduced to Java in the world of Minecraft for children ages 10 to 13.
+              Get introduced to Java in the world of Minecraft; For children ages 10 to 13.
+            </p>
+          </div>
+        </a>
+      </li>
+      <li class="item">
+        <a href="/camps/mobile-app-dev">
+          <div class="carousel-bg-container">
+            <!-- Carousel Image -->
+            <img class="carousel-bg" src="/assets/images/carousel/04 MobileAppDev.png"></div>
+          <div class="carousel-captions">
+            <span class="carousel-captions-title">
+              <!-- Carousel Title -->
+              <span>Mobile App Dev with AppInventor</span>
+            </span>
+            <p>
+              <!-- Carousel Paragraph -->
+              Build your first mobile app; For children ages 11-14
             </p>
           </div>
         </a>
@@ -70,8 +87,7 @@ layout: main
       <li data-target="#ctc-main-carousel" data-slide-to="0" class="active"></li>
       <li data-target="#ctc-main-carousel" data-slide-to="1"></li>
       <li data-target="#ctc-main-carousel" data-slide-to="2"></li>
-      <!--<li data-target="#ctc-main-carousel" data-slide-to="3"></li>
-    -->
+      <li data-target="#ctc-main-carousel" data-slide-to="3"></li>
   </ol>
 </div>
 </div>
@@ -82,21 +98,25 @@ layout: main
 <div class="container">
 <h2>Camps</h2>
 <ul class="list-unstyled">
-  {% for camp in site.categories.camps %}
+  
+  {% assign sorted_camps = (site.categories.camps | sort: 'rank') %}
+  {% for camp in sorted_camps %}
+  {% if camp.show_onMainPage %}
   <li class="col-md-12 ctc-camp-list-item">
-    <div class="col-md-3">
+    <div class="col-md-2">
       <a href="{{camp.url}}">
         <img class="img-responsive" src="{{ camp.image }}"/>
       </a>
     </div>
 
-    <div class="col-md-9">
+    <div class="col-md-8">
       <h3>
         <a href="{{ camp.url }}">{{ camp.title }}</a>
       </h3>
       <div class="ctc-camp-listing-logistics">
+        <!--
         <span class="ctc-camp-listing-date">{{ camp.camp_date_onMainPage }}</span>
-        |
+        | -->
         <span class="ctc-camp-listing-detail">{{ camp.age_group }}</span>
         |
         <span class="ctc-camp-listing-detail">{{ camp.location }}</span>
@@ -104,8 +124,12 @@ layout: main
       <hr/>
       <p>{{camp.excerpt}}</p>
     </div>
-
+    
+    <div class="col-md-2">
+        {{camp.main_page_buttons}}
+    </div>
   </li>
+  {% endif %}
   {% endfor %}
 </ul>
 </div>

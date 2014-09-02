@@ -86,13 +86,12 @@ dd
   color: white 
   background-color: $primary-color 
   &:hover 
-    background-color: white 
+    background-color: white
+    color: #333
+    transition: background-color 0.4s
     a
       color: $primary-color
       background-color: transparent
-    color: #333
-    img 
-    transition: background-color 0.4s
 
 .ctc-camp-header
   min-height: 250px
@@ -199,7 +198,6 @@ a
     background-color: #eee
 
 
-
 .jumbotron-ctc
   padding: 0
   background-color: transparent
@@ -283,6 +281,9 @@ a
   .ctc-main-section
     padding-top: $space * 2
 
+.text-medium-italics
+  font-size: 0.9em
+  font-style: italic
 .text-small
   font-size: 0.8em
 
@@ -291,12 +292,29 @@ a
   background-image: none
 .btn-primary
   background-color: $primary-color
-  border: 1px solid darken($primary-color, 5%)
+  border: 2px solid darken($primary-color, 5%)
   background-image: none
   &:hover, &:focus
-    background-color: lighten($primary-color, 8%)
-    border: 1px solid darken($primary-color, 5%)
-
+    background-color: lighten($primary-color, 10%)
+    border: 2px solid darken($primary-color, 20%)
+.btn-green
+  background-color: #4d4
+  border: 2px solid darken(#4d4, 5%)
+  background-image: none
+  font-size: 15px
+  &:hover, &:focus
+    background-color: lighten(#4d4, 10%)
+    border: 2px solid darken(#4d4, 20%)
+.btn-primary-pale
+  background-color: lighten($primary-color,25%)
+  border: 2px solid darken($primary-color, 5%)
+  background-image: none
+  font-size: 15px
+  &:hover, &:focus
+    background-color: lighten($primary-color, 35%)
+    border: 2px solid darken($primary-color, 20%)
+      
+      
 .inline 
   display: inline-block
   max-width: initial

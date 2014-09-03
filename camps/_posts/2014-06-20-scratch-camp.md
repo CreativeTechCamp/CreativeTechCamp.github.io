@@ -19,7 +19,7 @@ registration_statuses	: [true, false, false]
 registration_text : ["Coming Soon","Sold Out", "Sold Out"]
 keep_me_informed_url	: "/#contact"
 show_onMainPage : true
-main_page_buttons : <a href="/camps/scratch-camp-1day" class="btn btn-lg pad-c btn-green">1-day Experience</a><a href="/camps/scratch-camp" class="btn btn-lg pad-c btn-primary-pale">5-day Camp</a>
+main_page_buttons : <a href="/camps/scratch-camp-1day" class="btn btn-lg pad-c btn-green">1-day<br>Experience</a><a href="/camps/scratch-camp" class="btn btn-lg pad-c btn-primary-pale">5-day Camp</a>
 excerpt: This camp introduces the basic concepts of Computer Science to young children. Write your first computer program using Scratch.
 ---
 

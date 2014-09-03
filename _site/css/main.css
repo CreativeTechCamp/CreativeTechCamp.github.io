@@ -281,7 +281,7 @@ a {
   background-color: #44dd44;
   border: 2px solid #2ed92e;
   background-image: none;
-  width: 160px;
+  width: 140px;
   font-size: 15px; }
   .btn-green:hover, .btn-green:focus {
     background-color: #6fe56f;
@@ -291,7 +291,7 @@ a {
   background-color: #fabe7e;
   border: 2px solid #d77208;
   background-image: none;
-  width: 160px;
+  width: 140px;
   font-size: 15px; }
   .btn-primary-pale:hover, .btn-primary-pale:focus {
     background-color: #fcd7af;

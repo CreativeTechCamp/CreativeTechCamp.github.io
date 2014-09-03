@@ -4,7 +4,7 @@ title 	:  "Mobile App Development with AppInventor : 1-day experience"
 date 	:   2014-09-02 09:00:00
 rank    : 5
 camp_date_onMainPage 	:
-camp_date_onCampPage 	: "1 day, on Saturday or Sunday"
+camp_date_onCampPage 	: "1 day, on Saturday Sept 13th or Sunday Sept 21st"
 camp_time	: "2:30pm - 5:30pm"
 permalink   : /camps/mobile-app-dev-1day    
 categories  : [camps, mobile-app-dev, 1day]
@@ -14,7 +14,7 @@ location	: Starbucks@TTDI KL, Conference Room
 image		: /camps/images/mobileapp/mobileapp_camp.png
 banner		: /camps/images/mobileapp/mobileapp_camp_banner.png
 registration_urls		: ["https://www.eventbrite.com/e/1-day-experience-mobile-app-development-with-appinventor-saturday-sept-13th-tickets-12885692453", "https://www.eventbrite.com/e/1-day-experience-mobile-app-development-with-appinventor-sunday-sept-14th-tickets-12885708501"]
-registration_dates		: ["Saturday, Sept 13", "Sunday, Sept 14"]
+registration_dates		: ["Saturday, Sept 13", "Sunday, Sept 21"]
 registration_statuses	: [true, true]
 registration_text : ["Register Here", "Register Here"]
 keep_me_informed_url	: "/#contact"
@@ -31,7 +31,7 @@ excerpt		: Engage the mobile space as creators regardless of their computer prog
 	<tr>
 		<th>Ages</th>
         <td/>
-		<td>11-14 (Must turn 11 by 31/12/2014)</td>
+		<td>11-14</td>
 	</tr>	
 	<tr>
 		<th>Duration</th>
@@ -44,9 +44,14 @@ excerpt		: Engage the mobile space as creators regardless of their computer prog
 		<td>Beginner</td>
 	</tr>	
 	<tr>
-		<th>Ratio Guarantee</th>
+		<th>Class Size</th>
         <td/>
-		<td>8 Students per Instructor</td>
+		<td>10 students, 2 instructors</td>
+	</tr>
+    <tr>
+		<th>Price</th>
+        <td/>
+		<td>Regular RM399, Early bird RM350 by Sept 9th</td>
 	</tr>
 </table>
 

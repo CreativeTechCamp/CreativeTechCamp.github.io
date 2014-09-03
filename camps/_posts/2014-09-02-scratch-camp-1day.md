@@ -4,8 +4,8 @@ title 	:  "Creative Coding with Scratch : 1-day experience"
 date 	:   2014-09-02 09:00:00
 rank    : 4
 camp_date_onMainPage 	: 
-camp_date_onCampPage 	: "1 day, on Saturday or Sunday"
-camp_time	: "9:00am - 12:00pm"
+camp_date_onCampPage 	: "1 day, on Saturday Sept 13th or Sunday Sept 21st"
+camp_time	: "9:30am - 12:30pm"
 permalink   : /camps/scratch-camp-1day
 categories  : [camps, scratch, 1day]
 tags    	: [camp, morning, scratch, 9-12]
@@ -14,7 +14,7 @@ location	: Starbucks@TTDI KL, Conference Room
 image		: /camps/images/scratch/scratch_camp.png
 banner		: /camps/images/scratch/scratch_camp_banner.png
 registration_urls		: ["https://www.eventbrite.com/e/1-day-experience-creative-coding-with-scratch-sept-13th-2014-tickets-12885483829", "https://www.eventbrite.com/e/1-day-experience-creative-coding-with-scratch-sunday-sept-14th-tickets-12885676405"]
-registration_dates		: ["Saturday, Sept 13", "Sunday, Sept 14"]
+registration_dates		: ["Saturday, Sept 13", "Sunday, Sept 21"]
 registration_statuses	: [true, true]
 registration_text : ["Register Here", "Register Here"]
 keep_me_informed_url	: "/#contact"
@@ -31,7 +31,7 @@ excerpt		: Engage the mobile space as creators regardless of their computer prog
 	<tr>
 		<th>Ages</th>
         <td/>
-		<td>9-12 (Must turn 9 by 31/12/2014)</td>
+		<td>9-12</td>
 	</tr>	
 	<tr>
 		<th>Duration</th>
@@ -44,14 +44,14 @@ excerpt		: Engage the mobile space as creators regardless of their computer prog
 		<td>Beginner</td>
 	</tr>	
 	<tr>
-		<th>Ratio Guarantee</th>
+		<th>Class size</th>
         <td/>
-		<td>8 Students per Instructor</td>
+		<td>10 students, 2 instructors</td>
 	</tr>
     <tr>
 		<th>Price</th>
         <td/>
-		<td>Regular RM299, Early bird RM250 by Sept 8th</td>
+		<td>Regular RM299, Early bird RM250 by Sept 9th</td>
 	</tr>	
 </table>
 

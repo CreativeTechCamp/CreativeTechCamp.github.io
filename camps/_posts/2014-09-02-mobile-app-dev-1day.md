@@ -6,8 +6,8 @@ rank    : 5
 camp_date_onMainPage 	:
 camp_date_onCampPage 	: "1 day, on Saturday or Sunday"
 camp_time	: "2:30pm - 5:30pm"
-permalink   : /camps/mobile-app-dev-taster
-categories  : [camps, mobile-app-dev, taster]
+permalink   : /camps/mobile-app-dev-1day    
+categories  : [camps, mobile-app-dev, 1day]
 tags	    : [camp, morning, mobile, app, 11-14]
 age_group 	: 11 - 14 years old
 location	: Starbucks@TTDI KL, Conference Room

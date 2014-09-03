@@ -7,7 +7,7 @@ camp_date_onMainPage 	:
 camp_date_onCampPage 	: "1 day, on Saturday or Sunday"
 camp_time	: "9:00am - 12:00pm"
 permalink   : /camps/scratch-camp-1day
-categories  : [camps, scratch, taster]
+categories  : [camps, scratch, 1day]
 tags    	: [camp, morning, scratch, 9-12]
 age_group 	: 9 - 12 years old
 location	: Starbucks@TTDI KL, Conference Room

@@ -4,7 +4,7 @@ title 	:  "Mobile App Development with AppInventor : 1-day experience"
 date 	:   2014-09-02 09:00:00
 rank    : 5
 camp_date_onMainPage 	:
-camp_date_onCampPage 	: "1 day, on Saturday Sept 13th or Sunday Sept 21st"
+camp_date_onCampPage 	: "1 day, Saturday Sept 13th or Sunday Sept 21st"
 camp_time	: "2:30pm - 5:30pm"
 permalink   : /camps/mobile-app-dev-1day    
 categories  : [camps, mobile-app-dev, 1day]
@@ -14,7 +14,7 @@ location	: Starbucks@TTDI KL, Conference Room
 image		: /camps/images/mobileapp/mobileapp_camp.png
 banner		: /camps/images/mobileapp/mobileapp_camp_banner.png
 registration_urls		: ["https://www.eventbrite.com/e/1-day-experience-mobile-app-development-with-appinventor-saturday-sept-13th-tickets-12885692453", "https://www.eventbrite.com/e/1-day-experience-mobile-app-development-with-appinventor-sunday-sept-14th-tickets-12885708501"]
-registration_dates		: ["Saturday, Sept 13", "Sunday, Sept 21"]
+registration_dates		: ["Saturday, Sept 13th", "Sunday, Sept 21st"]
 registration_statuses	: [true, true]
 registration_text : ["Register Here", "Register Here"]
 keep_me_informed_url	: "/#contact"
@@ -83,8 +83,8 @@ Students will learn:
 </ll>
 </p>
 <p><i>
-Creating apps has changed my perspective on computers and these so called ‘smartphones’. I realise that phones aren’t smart until you tell them what to do.
-<br>— Inesh, 11 years old, Creative Tech Camp Camper
+"I realise that phones aren’t smart until you tell them what to do."
+<br>— Inesh, 11 years old, CreativeTechCamp Camper
 </i></p>
 </div>
 

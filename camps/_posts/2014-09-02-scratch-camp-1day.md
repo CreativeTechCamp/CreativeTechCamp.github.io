@@ -4,7 +4,7 @@ title 	:  "Creative Coding with Scratch : 1-day experience"
 date 	:   2014-09-02 09:00:00
 rank    : 4
 camp_date_onMainPage 	: 
-camp_date_onCampPage 	: "1 day, on Saturday Sept 13th or Sunday Sept 21st"
+camp_date_onCampPage 	: "1 day, Saturday Sept 13th or Sunday Sept 21st"
 camp_time	: "9:30am - 12:30pm"
 permalink   : /camps/scratch-camp-1day
 categories  : [camps, scratch, 1day]
@@ -14,7 +14,7 @@ location	: Starbucks@TTDI KL, Conference Room
 image		: /camps/images/scratch/scratch_camp.png
 banner		: /camps/images/scratch/scratch_camp_banner.png
 registration_urls		: ["https://www.eventbrite.com/e/1-day-experience-creative-coding-with-scratch-sept-13th-2014-tickets-12885483829", "https://www.eventbrite.com/e/1-day-experience-creative-coding-with-scratch-sunday-sept-14th-tickets-12885676405"]
-registration_dates		: ["Saturday, Sept 13", "Sunday, Sept 21"]
+registration_dates		: ["Saturday, Sept 13th", "Sunday, Sept 21st"]
 registration_statuses	: [true, true]
 registration_text : ["Register Here", "Register Here"]
 keep_me_informed_url	: "/#contact"

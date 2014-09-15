@@ -10,12 +10,15 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1232"
-   height="131.42856"
+   width="1272"
+   height="213.01784"
    id="svg3051"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="ctc-logo2.png">
+   sodipodi:docname="ctc-logo2.svg"
+   inkscape:export-filename="C:\Users\ChunTe\Documents\GitHub\CreativeTechCamp.github.io\assets\images\branding\ctc-logo - We are Curious.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs3053">
     <clipPath
@@ -49,19 +52,19 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="668.849"
-     inkscape:cy="-15.435485"
+     inkscape:cx="688.849"
+     inkscape:cy="62.153803"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
-     inkscape:window-width="1600"
-     inkscape:window-height="840"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
+     fit-margin-top="10"
+     fit-margin-left="20"
+     fit-margin-right="20"
+     fit-margin-bottom="10"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata3056">
@@ -79,7 +82,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(258.85714,-254.36219)">
+     transform="translate(278.85714,-250.36219)">
     <image
        width="612"
        height="200"
@@ -98,5 +101,18 @@
        y="226.6479"
        clip-path="url(#clipPath3103)"
        transform="translate(-452.85714,33.714286)" />
+    <text
+       xml:space="preserve"
+       style="font-size:99.71717834px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-261.44241"
+       y="453.7457"
+       id="text2988"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0111163,0.98900591)"><tspan
+         sodipodi:role="line"
+         id="tspan2990"
+         x="-261.44241"
+         y="453.7457"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MV Boli;-inkscape-font-specification:MV Boli">We are Curious</tspan></text>
   </g>
 </svg>

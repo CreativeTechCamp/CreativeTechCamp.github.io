@@ -15,8 +15,8 @@ image		: /camps/images/mobileapp/mobileapp_camp.png
 banner		: /camps/images/mobileapp/mobileapp_camp_banner.png
 registration_urls		: ["https://www.eventbrite.com/e/1-day-experience-mobile-app-development-with-appinventor-saturday-sept-13th-tickets-12885692453", "https://www.eventbrite.com/e/1-day-experience-mobile-app-development-with-appinventor-sunday-sept-14th-tickets-12885708501"]
 registration_dates		: ["Saturday, Sept 13th", "Sunday, Sept 21st"]
-registration_statuses	: [true, true]
-registration_text : ["Register Here", "Register Here"]
+registration_statuses	: [false, true]
+registration_text : ["Over", "Register Here"]
 keep_me_informed_url	: "/#contact"
 show_onMainPage : false
 main_page_buttons :

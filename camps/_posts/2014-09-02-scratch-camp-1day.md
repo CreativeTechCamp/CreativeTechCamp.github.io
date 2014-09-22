@@ -15,8 +15,8 @@ image		: /camps/images/scratch/scratch_camp.png
 banner		: /camps/images/scratch/scratch_camp_banner.png
 registration_urls		: ["https://www.eventbrite.com/e/1-day-experience-creative-coding-with-scratch-sept-13th-2014-tickets-12885483829", "https://www.eventbrite.com/e/1-day-experience-creative-coding-with-scratch-sunday-sept-14th-tickets-12885676405"]
 registration_dates		: ["Saturday, Sept 13th", "Sunday, Sept 21st"]
-registration_statuses	: [false, true]
-registration_text : ["Over", "Register Here"]
+registration_statuses	: [false, false]
+registration_text : ["Over", "Over"]
 keep_me_informed_url	: "/#contact"
 show_onMainPage : false
 main_page_buttons : 

@@ -2,10 +2,10 @@
 layout	: camp
 title 	:  "Creative Coding with Scratch"
 date  	:   2014-06-20 09:00:00
-rank    : 1
-camp_date_onMainPage 	: "August 4th - 8th, 2014"
+rank    : 3
+camp_date_onMainPage 	: "New Camp : Nov 24-28th"
 camp_date_onCampPage 	: "Monday to Friday"
-camp_time	: "9:30am - 12:00pm"
+camp_time	: "9:30am - 12:30pm"
 permalink   : /camps/scratch-camp
 categories  : [2014, midyear]
 tags    	: [camp, morning, scratch, 8-10]
@@ -13,13 +13,13 @@ age_group 	: 8 - 10 years old
 location	: Starbucks@TTDI KL, Conference Room
 image		: /camps/images/scratch/scratch_camp.png
 banner		: /camps/images/scratch/scratch_camp_banner.png
-registration_urls	: ['/#contact', 'http://www.eventbrite.com/e/creative-coding-wiath-scratch-tickets-12110114679', 'https://www.eventbrite.com/e/creative-coding-with-scratch-4th-8th-august-2014-tickets-12218220025']
-registration_dates	: ["December 2014", "August 4th - 8th", "July 14th - 18th"]
-registration_statuses	: [true, false, false]
-registration_text : ["Coming Soon","Sold Out", "Sold Out"]
+registration_urls	: ["http://www.eventbrite.com/e/creative-coding-with-scratch-2014-year-end-tickets-13956511301", "http://www.eventbrite.com/o/creative-tech-camp-6795798913?past=1"]
+registration_dates	: ["Nov 24-28th", "Aug & July 2014"]
+registration_statuses	: [true, false]
+registration_text : ["Register Now", "Sold Out"]
 keep_me_informed_url	: "/#contact"
 show_onMainPage : true
-main_page_buttons : <a href="/camps/scratch-camp-1day" class="btn btn-lg pad-c btn-green">1-day<br>Experience</a><a href="/camps/scratch-camp" class="btn btn-lg pad-c btn-primary-pale">5-day Camp</a>
+main_page_buttons : <a href="/camps/scratch-camp" class="btn btn-lg pad-c btn-green">More details</a>
 excerpt: This camp introduces the basic concepts of Computer Science to young children. Write your first computer program using Scratch.
 ---
 
@@ -28,31 +28,41 @@ excerpt: This camp introduces the basic concepts of Computer Science to young ch
     <col width="13%">
     <col width="3%">
     <col width="84%">
+    <tr>
+		<th>Camp Dates</th>
+        <td/>
+		<td style='padding:5px 10px 5px 5px'>Mondays to Fridays <br> Nov 24-28th</td>
+	</tr>
+    <tr>
+		<th>Duration</th>
+        <td/>
+		<td style='padding:5px 10px 5px 5px'>5 days camp - 9:30am to 12:30pm (3 hours)</td>
+	</tr>
 	<tr>
 		<th>Ages</th>
         <td/>
-		<td>8-10 (Must turn 8 by 31/12/2014)</td>
-	</tr>	
-	<tr>
-		<th>Duration</th>
-        <td/>
-		<td>5 Days Camp – Morning Session</td>
-	</tr>	
+		<td style='padding:5px 10px 5px 5px'>8-10 (Must turn 8 by 31/12/2014)</td>
+	</tr>
 	<tr>
 		<th>Skill Level</th>
         <td/>
-		<td>Beginner</td>
+		<td style='padding:5px 10px 5px 5px'>Beginner</td>
 	</tr>	
 	<tr>
-		<th>Ratio Guarantee</th>
+		<th>Location</th>
         <td/>
-		<td>8 Students per Instructor</td>
+		<td style='padding:5px 10px 5px 5px'>Starbucks@TTDI KL, Conference Room</td>
+	</tr>
+	<tr>
+		<th>Class Size</th>
+        <td/>
+		<td style='padding:5px 10px 5px 5px'> 10 students (minimum 4 students)</td>
 	</tr>
     <tr>
 		<th>Price</th>
         <td/>
-		<td>RM 899</td>
-	</tr>	
+		<td style='padding:5px 10px 5px 5px'>RM 899 (Early bird: RM 799)</td>
+	</tr>
 </table>
 
 ##Requirements

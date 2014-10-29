@@ -3,9 +3,9 @@ layout 	: camp
 title 	:  "Mobile App Development with App Inventor"
 date 	:   2014-09-01 09:00:00
 rank    : 2
-camp_date_onMainPage 	: "Coming this December"
+camp_date_onMainPage 	: "2 New Camps : Dec 01-5th & Dec 15-19th"
 camp_date_onCampPage 	: "Monday to Friday"
-camp_time	: "9:30am - 12:00pm"
+camp_time	: "9:30am - 12:30pm"
 permalink   : /camps/mobile-app-dev
 categories  : [camps, mobile-app-dev]
 tags	    : [camp, morning, mobile, app, 11-14]
@@ -13,13 +13,13 @@ age_group 	: 11 - 14 years old
 location	: Starbucks@TTDI KL, Conference Room
 image		: /camps/images/mobileapp/mobileapp_camp.png
 banner		: /camps/images/mobileapp/mobileapp_camp_banner.png
-registration_urls		: ["/#contact"]
-registration_dates		: ["December 2014"]
-registration_statuses	: [true]
-registration_text : ["Coming Soon"]
+registration_urls		: ["https://www.eventbrite.com/e/mobile-app-development-with-appinventor-2014-year-end-tickets-13958597541", "https://www.eventbrite.com/e/mobile-app-development-with-appinventor-2014-year-end-tickets-13958599547"]
+registration_dates		: ["Dec 01-05th", "Dec 15-19th"]
+registration_statuses	: [true, true]
+registration_text : ["Register Now", "Register Now"]
 keep_me_informed_url	: "/#contact"
 show_onMainPage : true
-main_page_buttons : <a href="/camps/mobile-app-dev-1day" class="btn btn-lg pad-c btn-green">1-day<br>Experience<a href="/camps/mobile-app-dev" class="btn btn-lg pad-c btn-primary-pale">5-day Camp</a>
+main_page_buttons : <a href="/camps/mobile-app-dev" class="btn btn-lg pad-c btn-green">More details</a>
 excerpt		: Engage the mobile space as creators regardless of their computer programming knowledge
 ---
 
@@ -28,25 +28,40 @@ excerpt		: Engage the mobile space as creators regardless of their computer prog
     <col width="13%">
     <col width="3%">
     <col width="84%">
+    <tr>
+		<th>Camp Dates</th>
+        <td/>
+		<td style='padding:5px 10px 5px 5px'>2 camps, Mondays to Fridays <br> Dec 01-05th & Dec 15-19th</td>
+	</tr>
+    <tr>
+		<th>Duration</th>
+        <td/>
+		<td style='padding:5px 10px 5px 5px'>5 days camp - 9:30am to 12:30pm (3 hours)</td>
+	</tr>
 	<tr>
 		<th>Ages</th>
         <td/>
-		<td>11-14 (Must turn 11 by 31/12/2014)</td>
-	</tr>	
-	<tr>
-		<th>Duration</th>
-        <td/>
-		<td>5 Days Camp – Morning Session</td>
+		<td style='padding:5px 10px 5px 5px'>11-14 (Must turn 11 by 31/12/2014)</td>
 	</tr>	
 	<tr>
 		<th>Skill Level</th>
         <td/>
-		<td>Beginner</td>
-	</tr>	
-	<tr>
-		<th>Ratio Guarantee</th>
+		<td style='padding:5px 10px 5px 5px'>Beginner</td>
+	</tr>
+    <tr>
+		<th>Location</th>
         <td/>
-		<td>8 Students per Instructor</td>
+		<td style='padding:5px 10px 5px 5px'>Starbucks@TTDI KL, Conference Room</td>
+	</tr>
+	<tr>
+		<th>Class Size</th>
+        <td/>
+		<td style='padding:5px 10px 5px 5px'> 10 students (minimum 4 students)</td>
+	</tr>
+    <tr>
+		<th>Price</th>
+        <td/>
+		<td style='padding:5px 10px 5px 5px'>RM 1,099 (Early bird: RM 999)</td>
 	</tr>
 </table>
 

@@ -1,11 +1,11 @@
 ---
 layout 	: camp
-title 	:  "Modding & JAVA Programming with Minecraft"
-date 	:   2014-6-20 09:00:00
-rank    : 3
-camp_date_onMainPage 	: "August 11th - 15th, 2014"
+title 	: "Modding & JAVA Programming with Minecraft"
+date 	: 2014-6-20 09:00:00
+rank    : 1
+camp_date_onMainPage 	: "2 New Camps : Nov 24-29th & Dec 15-19th"
 camp_date_onCampPage 	: "Monday to Friday"
-camp_time	: "9:30am - 12:00pm"
+camp_time	: "2:00pm - 5:00pm"
 permalink   : /camps/minecraft-java-camp
 categories  : [2014, midyear]
 tags	    : [camp, morning, minecraft, 10-13]
@@ -13,13 +13,13 @@ age_group 	: 10 - 12 years old
 location	: Starbucks@TTDI KL, Conference Room
 image		: /camps/images/minecraft/minecraft_camp.png
 banner		: /camps/images/minecraft/minecraft_camp_banner.png
-registration_urls		: ["http://www.eventbrite.com/e/modding-java-programming-with-minecraft-tickets-12100116775", "http://www.eventbrite.com/e/modding-java-programming-with-minecraft-aug-11th-15th-tickets-12250695159"]
-registration_dates		: ["December 2014", "August 11th - 15th, 2014", "July 21st - 25th, 2014",]
-registration_statuses	: [true, false, false]
-registration_text : ["Coming Soon", "Sold Out   ", "Sold Out"]
+registration_urls		: ["http://www.eventbrite.com/e/modding-java-programming-with-minecraft-2014-year-end-tickets-14009347335", "http://www.eventbrite.com/e/modding-java-programming-with-minecraft-2014-year-end-tickets-14009349341", "http://www.eventbrite.com/o/creative-tech-camp-6795798913?past=1"]
+registration_dates		: ["Nov 24-28th", "Dec 15-19th", "Aug & July 2014"]
+registration_statuses	: [true, true, false]
+registration_text : ["Register Now", "Register Now", "Sold Out"]
 keep_me_informed_url	: "/#contact"
 show_onMainPage : true
-main_page_buttons : <a href="/camps/minecraft-java-camp" class="btn btn-lg pad-c btn-primary-pale">5-day Camp</a>
+main_page_buttons : <a href="/camps/minecraft-java-camp" class="btn btn-lg pad-c btn-green">More details</a>
 excerpt		: Discover the powerful world of Java programming through Minecraft. Start with the fundamentals of Java and Minecraft tools, then start modding!
 ---
 
@@ -30,29 +30,44 @@ excerpt		: Discover the powerful world of Java programming through Minecraft. St
     <col width="3%">
     <col width="84%">
 	<tr>
+		<th>Camp Dates</th>
+        <td/>
+		<td style='padding:5px 10px 5px 5px'>2 camps, Mondays to Fridays <br> Nov 24-28th & Dec 15-19th</td>
+	</tr>
+    <tr>
+		<th>Duration</th>
+        <td/>
+		<td style='padding:5px 10px 5px 5px'>5 days camp - 2:00pm to 5:00pm (3 hours)</td>
+	</tr>
+    <tr>
 		<th>Ages</th>
         <td/>
-		<td>10-13 (Must turn 10 by 31/12/2014)</td>
+		<td style='padding:5px 10px 5px 5px'>10-13 (Must turn 10 by 31/12/2014)</td>
 	</tr>	
 	<tr>
 		<th>Duration</th>
         <td/>
-		<td>5 Days Camp – Morning Session</td>
+		<td style='padding:5px 10px 5px 5px'>5 Days Camp – Morning Session</td>
 	</tr>	
 	<tr>
 		<th>Skill Level</th>
         <td/>
-		<td>Beginner</td>
-	</tr>	
+		<td style='padding:5px 10px 5px 5px'>Beginner</td>
+	</tr>
 	<tr>
-		<th>Ratio Guarantee</th>
+		<th>Location</th>
         <td/>
-		<td>8 Students per Instructor</td>
+		<td style='padding:5px 10px 5px 5px'>Starbucks@TTDI KL, Conference Room</td>
+	</tr>
+	<tr>
+		<th>Class Size</th>
+        <td/>
+		<td style='padding:5px 10px 5px 5px'> 10 students (minimum 4 students)</td>
 	</tr>
     <tr>
 		<th>Price</th>
         <td/>
-		<td>RM 1,099</td>
+		<td style='padding:5px 10px 5px 5px'>RM 1,099 (Early bird: RM 999)</td>
 	</tr>
 </table>
 

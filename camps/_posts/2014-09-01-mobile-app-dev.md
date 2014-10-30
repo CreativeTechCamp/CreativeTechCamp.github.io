@@ -4,7 +4,7 @@ title 	:  "Mobile App Development with App Inventor"
 date 	:   2014-09-01 09:00:00
 rank    : 2
 camp_date_onMainPage 	: "2 New Camps : Dec 01-5th & Dec 15-19th"
-camp_date_onCampPage 	: "Monday to Friday"
+camp_date_onCampPage 	: "Monday to Friday (5 days)"
 camp_time	: "9:30am - 12:30pm"
 permalink   : /camps/mobile-app-dev
 categories  : [camps, mobile-app-dev]
@@ -56,7 +56,7 @@ excerpt		: Engage the mobile space as creators regardless of their computer prog
 	<tr>
 		<th>Class Size</th>
         <td/>
-		<td style='padding:5px 10px 5px 5px'> 10 students (minimum 4 students)</td>
+		<td style='padding:5px 10px 5px 5px'> 10 students (minimum 4 students to start camp)</td>
 	</tr>
     <tr>
 		<th>Price</th>

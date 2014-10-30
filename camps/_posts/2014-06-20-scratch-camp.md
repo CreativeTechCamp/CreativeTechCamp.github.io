@@ -4,7 +4,7 @@ title 	:  "Creative Coding with Scratch"
 date  	:   2014-06-20 09:00:00
 rank    : 3
 camp_date_onMainPage 	: "New Camp : Nov 24-28th"
-camp_date_onCampPage 	: "Monday to Friday"
+camp_date_onCampPage 	: "Monday to Friday (5 days)"
 camp_time	: "9:30am - 12:30pm"
 permalink   : /camps/scratch-camp
 categories  : [2014, midyear]
@@ -56,7 +56,7 @@ excerpt: This camp introduces the basic concepts of Computer Science to young ch
 	<tr>
 		<th>Class Size</th>
         <td/>
-		<td style='padding:5px 10px 5px 5px'> 10 students (minimum 4 students)</td>
+		<td style='padding:5px 10px 5px 5px'> 10 students (minimum 4 students to start camp)</td>
 	</tr>
     <tr>
 		<th>Price</th>

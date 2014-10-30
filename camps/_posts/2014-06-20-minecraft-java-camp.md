@@ -36,7 +36,7 @@ excerpt		: Discover the powerful world of Java programming through Minecraft. St
     <tr>
 		<th>Duration</th>
         <td/>
-		<td style='padding:5px 10px 5px 5px'>5 days camp - 2:00pm to 5:00pm (3 hours)</td>
+		<td style='padding:5px 10px 5px 5px'>5 days camp - 2:30pm to 5:30pm (3 hours)</td>
 	</tr>
     <tr>
 		<th>Ages</th>

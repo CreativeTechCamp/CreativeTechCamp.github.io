@@ -47,6 +47,37 @@ h1, h2, h3, h4
   @include secondary-font
   text-transform: uppercase
 
+blockquote
+  @include tertiary-font
+  font-style: italic
+  font-size: 14px
+  color: $primary-color
+  margin: 0.5em 0 0.5em 1em
+  padding: 0 1em 0 1em
+  position: relative
+  border-left: none
+
+blockquote:before
+  color: #ccc
+  content: "\201C"
+  font-size: 5em
+  position: absolute
+  left: 0px
+  top: 0.2em
+  line-height: 0.1em
+  margin-left: -0.3em 
+  
+blockquote:after
+  color: #ccc
+  content: '\201D'
+  font-size: 5em
+  position: absolute
+  right: 10px
+  bottom: -0.2em
+  line-height: 0.1em
+  
+
+  
 table
   width: 100%
 

@@ -32,6 +32,35 @@ h1, h2, h3, h4 {
   font-family: "Montserrat", Helvetica, Arial, sans-serif;
   text-transform: uppercase; }
 
+blockquote {
+  font-family: "Montserrat", Helvetica, Arial, sans-serif;
+  font-style: italic;
+  font-size: 14px;
+  color: #f07f09;
+  margin: 0.5em 0 0.5em 1em;
+  padding: 0 1em 0 1em;
+  position: relative;
+  border-left: none; }
+
+blockquote:before {
+  color: #cccccc;
+  content: "\201C";
+  font-size: 5em;
+  position: absolute;
+  left: 0px;
+  top: 0.2em;
+  line-height: 0.1em;
+  margin-left: -0.3em; }
+
+blockquote:after {
+  color: #cccccc;
+  content: "\201D";
+  font-size: 5em;
+  position: absolute;
+  right: 10px;
+  bottom: -0.2em;
+  line-height: 0.1em; }
+
 table {
   width: 100%; }
 

@@ -5,11 +5,11 @@ date 	: 2014-6-20 09:00:00
 rank    : 1
 camp_date_onMainPage 	: "2 New Camps : Nov 24-29th & Dec 15-19th"
 camp_date_onCampPage 	: "Monday to Friday (5 days)"
-camp_time	: "2:00pm - 5:00pm"
+camp_time	: "2:30pm - 5:30pm"
 permalink   : /camps/minecraft-java-camp
 categories  : [2014, midyear]
 tags	    : [camp, morning, minecraft, 10-13]
-age_group 	: 10 - 12 years old
+age_group 	: 10 - 13 years old
 location	: Starbucks@TTDI KL, Conference Room
 image		: /camps/images/minecraft/minecraft_camp.png
 banner		: /camps/images/minecraft/minecraft_camp_banner.png
@@ -56,7 +56,7 @@ excerpt		: Discover the powerful world of Java programming through Minecraft. St
 	<tr>
 		<th>Class Size</th>
         <td/>
-		<td style='padding:5px 10px 5px 5px'> 10 students (minimum 4 students to start camp)</td>
+		<td style='padding:5px 10px 5px 5px'>10 students (minimum 4 students to start camp)</td>
 	</tr>
     <tr>
 		<th>Price</th>
@@ -76,8 +76,7 @@ Minecraft | Java™ (Eclipse®)
 
 <div class="row">
     <div class="col-md-8">
-    
-    
+        
         <div style="background: #ffffff; border: 1px solid #999; margin: 15px; overflow: hidden;">
             <div style="padding: 5px 10px; border-bottom: 1px solid #999;">
                 <blockquote style="clear: both; float: none;">

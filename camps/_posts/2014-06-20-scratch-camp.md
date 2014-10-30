@@ -31,7 +31,7 @@ excerpt: This camp introduces the basic concepts of Computer Science to young ch
     <tr>
 		<th>Camp Dates</th>
         <td/>
-		<td style='padding:5px 10px 5px 5px'>Mondays to Fridays <br> Nov 24-28th</td>
+		<td style='padding:5px 10px 5px 5px'>1 camp, Mondays to Fridays <br> Nov 24-28th</td>
 	</tr>
     <tr>
 		<th>Duration</th>

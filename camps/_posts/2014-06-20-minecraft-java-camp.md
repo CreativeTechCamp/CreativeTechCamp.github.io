@@ -80,7 +80,7 @@ Minecraft | Java™ (Eclipse®)
         <div style="background: #ffffff; border: 1px solid #999; margin: 15px; overflow: hidden;">
             <div style="padding: 5px 10px; border-bottom: 1px solid #999;">
                 <blockquote style="clear: both; float: none;">
-                    <p>We get to see the code that NOTCH (the creator) has written. We modify them & build our own things in Minecraft..!</p>
+                    <p>“We see the whole Java code that NOTCH (the creator) wrote. We modify it and create our own things in Minecraft..!”</p>
                 </blockquote>
                 <p style="text-align: right;">Amanda, 10 years old</p>
             </div>

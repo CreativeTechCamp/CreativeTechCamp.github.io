@@ -3,7 +3,7 @@ layout	: camp
 title 	:  "Creative Coding with Scratch"
 date  	:   2014-06-20 09:00:00
 rank    : 3
-camp_date_onMainPage 	: "New Camp : Nov 24-28th"
+camp_date_onMainPage 	: "New Camp : Nov 24-28<sup>th</sup>"
 camp_date_onCampPage 	: "Monday to Friday (5 days)"
 camp_time	: "9:30am - 12:30pm"
 permalink   : /camps/scratch-camp
@@ -14,9 +14,9 @@ location	: Starbucks@TTDI KL, Conference Room
 image		: /camps/images/scratch/scratch_camp.png
 banner		: /camps/images/scratch/scratch_camp_banner.png
 registration_urls	: ["http://www.eventbrite.com/e/creative-coding-with-scratch-2014-year-end-tickets-13956511301", "http://www.eventbrite.com/o/creative-tech-camp-6795798913?past=1"]
-registration_dates	: ["Nov 24-28th", "Aug & July 2014"]
-registration_statuses	: [true, false]
-registration_text : ["Register Now", "Sold Out"]
+registration_dates	: ["Nov 24-28<sup>th</sup>", "Aug & July 2014"]
+registration_statuses	: [false, false]
+registration_text : ["Over", "Sold Out"]
 keep_me_informed_url	: "/#contact"
 show_onMainPage : true
 main_page_buttons : <a href="/camps/scratch-camp" class="btn btn-lg pad-c btn-green">More details</a>
@@ -31,7 +31,7 @@ excerpt: This camp introduces the basic concepts of Computer Science to young ch
     <tr>
 		<th>Camp Dates</th>
         <td/>
-		<td style='padding:5px 10px 5px 5px'>1 camp, Mondays to Fridays <br> Nov 24-28th</td>
+		<td style='padding:5px 10px 5px 5px'>1 camp, Mondays to Fridays <br> Nov 24-28<sup>th</sup></td>
 	</tr>
     <tr>
 		<th>Duration</th>

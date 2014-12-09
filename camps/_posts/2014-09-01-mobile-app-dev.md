@@ -3,7 +3,7 @@ layout 	: camp
 title 	:  "Mobile App Development with App Inventor"
 date 	:   2014-09-01 09:00:00
 rank    : 2
-camp_date_onMainPage 	: "2 New Camps : Dec 01-5th & Dec 15-19th"
+camp_date_onMainPage 	: "2 New Camps : Dec 01-5<sup>th</sup> & Dec 15-19<sup>th</sup>"
 camp_date_onCampPage 	: "Monday to Friday (5 days)"
 camp_time	: "9:30am - 12:30pm"
 permalink   : /camps/mobile-app-dev
@@ -14,9 +14,9 @@ location	: Starbucks@TTDI KL, Conference Room
 image		: /camps/images/mobileapp/mobileapp_camp.png
 banner		: /camps/images/mobileapp/mobileapp_camp_banner.png
 registration_urls		: ["https://www.eventbrite.com/e/mobile-app-development-with-appinventor-2014-year-end-tickets-13958597541", "https://www.eventbrite.com/e/mobile-app-development-with-appinventor-2014-year-end-tickets-13958599547"]
-registration_dates		: ["Dec 01-05th", "Dec 15-19th"]
-registration_statuses	: [true, true]
-registration_text : ["Register Now", "Register Now"]
+registration_dates		: ["Dec 01-05<sup>th</sup>", "Dec 15-19<sup>th</sup>"]
+registration_statuses	: [false, true]
+registration_text : ["Over", "Register Now"]
 keep_me_informed_url	: "/#contact"
 show_onMainPage : true
 main_page_buttons : <a href="/camps/mobile-app-dev" class="btn btn-lg pad-c btn-green">More details</a>
@@ -31,7 +31,7 @@ excerpt		: Engage the mobile space as creators regardless of their computer prog
     <tr>
 		<th>Camp Dates</th>
         <td/>
-		<td style='padding:5px 10px 5px 5px'>2 camps, Mondays to Fridays <br> Dec 01-05th & Dec 15-19th</td>
+		<td style='padding:5px 10px 5px 5px'>2 camps, Mondays to Fridays <br> Dec 01-05<sup>th</sup> & Dec 15-19<sup>th</sup></td>
 	</tr>
     <tr>
 		<th>Duration</th>

@@ -15,8 +15,8 @@ image		: /camps/images/mobileapp/mobileapp_camp.png
 banner		: /camps/images/mobileapp/mobileapp_camp_banner.png
 registration_urls		: ["https://www.eventbrite.com/e/mobile-app-development-with-appinventor-2014-year-end-tickets-13958597541", "https://www.eventbrite.com/e/mobile-app-development-with-appinventor-2014-year-end-tickets-13958599547"]
 registration_dates		: ["Dec 01-05<sup>th</sup>", "Dec 15-19<sup>th</sup>"]
-registration_statuses	: [false, true]
-registration_text : ["Over", "Register Now"]
+registration_statuses	: [false, false]
+registration_text : ["Over", "Over"]
 keep_me_informed_url	: "/#contact"
 show_onMainPage : true
 main_page_buttons : <a href="/camps/mobile-app-dev" class="btn btn-lg pad-c btn-green">More details</a>

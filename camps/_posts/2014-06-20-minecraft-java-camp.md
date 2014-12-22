@@ -3,9 +3,9 @@ layout 	: camp
 title 	: "Modding & JAVA Programming with Minecraft"
 date 	: 2014-6-20 09:00:00
 rank    : 1
-camp_date_onMainPage 	: "3 Camps : Nov 24-29<sup>th</sup>, Dec 15-19<sup>th</sup> & Dec 31<sup>st</sup>-Jan 4<sup>th</sup>"
+camp_date_onMainPage 	: "Extra camp : Dec 31<sup>st</sup>-Jan 4<sup>th</sup>"
 camp_date_onCampPage 	: "5 days camp"
-camp_time	: "2:30pm - 5:30pm"
+camp_time	: "9:30am - 12:30pm"
 permalink   : /camps/minecraft-java-camp
 categories  : [2014, midyear]
 tags	    : [camp, morning, minecraft, 10-13]
@@ -13,10 +13,10 @@ age_group 	: 10 - 13 years old
 location	: Starbucks@TTDI KL, Conference Room
 image		: /camps/images/minecraft/minecraft_camp.png
 banner		: /camps/images/minecraft/minecraft_camp_banner.png
-registration_urls		: ["http://www.eventbrite.com/e/modding-java-programming-with-minecraft-2014-year-end-tickets-14009347335", "http://www.eventbrite.com/e/modding-java-programming-with-minecraft-2014-year-end-tickets-14009349341", "/#contact", "http://www.eventbrite.com/o/creative-tech-camp-6795798913?past=1"]
-registration_dates		: ["Nov 24-28<sup>th</sup>", "Dec 15-19<sup>th</sup>", "Dec 31<sup>st</sup>-Jan 4<sup>th</sup>", "Aug & July 2014"]
-registration_statuses	: [false, false, true, false]
-registration_text : ["Over", "Sold Out", "Please enquire", "Sold Out"]
+registration_urls		: ["http://www.eventbrite.com/e/modding-java-programming-with-minecraft-2014-year-end-tickets-15029703247", "http://www.eventbrite.com/e/modding-java-programming-with-minecraft-2014-year-end-tickets-14009349341", "http://www.eventbrite.com/e/modding-java-programming-with-minecraft-2014-year-end-tickets-14009347335", "http://www.eventbrite.com/o/creative-tech-camp-6795798913?past=1"]
+registration_dates		: ["Dec 31<sup>st</sup>-Jan 4<sup>th</sup>", "Dec 15-19<sup>th</sup>", "Nov 24-28<sup>th</sup>", "Aug & July 2014"]
+registration_statuses	: [true, false, false, false]
+registration_text : ["Register Now", "Sold Out", "Sold Out", "Sold Out"]
 keep_me_informed_url	: "/#contact"
 show_onMainPage : true
 main_page_buttons : <a href="/camps/minecraft-java-camp" class="btn btn-lg pad-c btn-green">More details</a>
@@ -31,12 +31,12 @@ excerpt		: Discover the powerful world of Java programming through Minecraft. St
 	<tr>
 		<th>Camp Dates</th>
         <td/>
-		<td style='padding:5px 10px 5px 5px'>5 days camp<br> Nov 24-28<sup>th</sup>, Dec 15-19<sup>th</sup> & Dec 31<sup>st</sup>-Jan 4<sup>th</sup></td>
+		<td style='padding:5px 10px 5px 5px'>Dec 31<sup>st</sup>-Jan 4<sup>th</sup></td>
 	</tr>
     <tr>
 		<th>Duration</th>
         <td/>
-		<td style='padding:5px 10px 5px 5px'>2:30pm to 5:30pm (3 hours) for 5 days</td>
+		<td style='padding:5px 10px 5px 5px'>9:30am to 12:30pm (3 hours) for 5 days</td>
 	</tr>
     <tr>
 		<th>Ages</th>

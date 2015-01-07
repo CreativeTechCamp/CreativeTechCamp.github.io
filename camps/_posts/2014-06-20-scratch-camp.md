@@ -3,9 +3,9 @@ layout	: camp
 title 	:  "Creative Coding with Scratch"
 date  	:   2014-06-20 09:00:00
 rank    : 3
-camp_date_onMainPage 	: "New Camp : Nov 24-28<sup>th</sup>"
+camp_date_onMainPage 	: "2015 camps, to be confirmed"
 camp_date_onCampPage 	: "Monday to Friday (5 days)"
-camp_time	: "9:30am - 12:30pm"
+camp_time	: "2.5 hours each day"
 permalink   : /camps/scratch-camp
 categories  : [2014, midyear]
 tags    	: [camp, morning, scratch, 8-10]
@@ -13,10 +13,10 @@ age_group 	: 8 - 10 years old
 location	: Starbucks@TTDI KL, Conference Room
 image		: /camps/images/scratch/scratch_camp.png
 banner		: /camps/images/scratch/scratch_camp_banner.png
-registration_urls	: ["http://www.eventbrite.com/e/creative-coding-with-scratch-2014-year-end-tickets-13956511301", "http://www.eventbrite.com/o/creative-tech-camp-6795798913?past=1"]
-registration_dates	: ["Nov 24-28<sup>th</sup>", "Aug & July 2014"]
-registration_statuses	: [false, false]
-registration_text : ["Over", "Sold Out"]
+registration_urls	: ["/#contact", "http://www.eventbrite.com/e/creative-coding-with-scratch-2014-year-end-tickets-13956511301", "http://www.eventbrite.com/o/creative-tech-camp-6795798913?past=1"]
+registration_dates	: ["2015 camps", "Nov 24-28<sup>th</sup>", "Aug & July 2014"]
+registration_statuses	: [true, false, false]
+registration_text : ["Register for updates", "Over", "Sold Out"]
 keep_me_informed_url	: "/#contact"
 show_onMainPage : true
 main_page_buttons : <a href="/camps/scratch-camp" class="btn btn-lg pad-c btn-green">More details</a>
@@ -31,17 +31,17 @@ excerpt: This camp introduces the basic concepts of Computer Science to young ch
     <tr>
 		<th>Camp Dates</th>
         <td/>
-		<td style='padding:5px 10px 5px 5px'>1 camp, Mondays to Fridays <br> Nov 24-28<sup>th</sup></td>
+		<td style='padding:5px 10px 5px 5px'>2015 camps, to be confirmed</td>
 	</tr>
     <tr>
 		<th>Duration</th>
         <td/>
-		<td style='padding:5px 10px 5px 5px'>5 days camp - 9:30am to 12:30pm (3 hours)</td>
+		<td style='padding:5px 10px 5px 5px'>5 days camp (Monday-Friday) - 2.5 hours each day</td>
 	</tr>
 	<tr>
 		<th>Ages</th>
         <td/>
-		<td style='padding:5px 10px 5px 5px'>8-10 (Must turn 8 by 31/12/2014)</td>
+		<td style='padding:5px 10px 5px 5px'>8-10 (Must turn 8 by 31/12/2015)</td>
 	</tr>
 	<tr>
 		<th>Skill Level</th>

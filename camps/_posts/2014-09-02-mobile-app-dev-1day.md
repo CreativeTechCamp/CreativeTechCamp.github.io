@@ -4,19 +4,19 @@ title 	:  "Mobile App Development with AppInventor : 1-day experience"
 date 	:   2014-09-02 09:00:00
 rank    : 5
 camp_date_onMainPage 	:
-camp_date_onCampPage 	: "1 day, Saturday Sept 13th or Sunday Sept 21st"
-camp_time	: "2:30pm - 5:30pm"
+camp_date_onCampPage 	: "March 14th (Sat) or March 15th (Sun)"
+camp_time	: "3:30-5:30pm"
 permalink   : /camps/mobile-app-dev-1day    
 categories  : [camps, mobile-app-dev, 1day]
 tags	    : [camp, morning, mobile, app, 11-14]
 age_group 	: 11 - 14 years old
-location	: Starbucks@TTDI KL, Conference Room
+location	: Julia Gabriel Centre, Bangsar
 image		: /camps/images/mobileapp/mobileapp_camp.png
 banner		: /camps/images/mobileapp/mobileapp_camp_banner.png
-registration_urls		: ["https://www.eventbrite.com/e/1-day-experience-mobile-app-development-with-appinventor-saturday-sept-13th-tickets-12885692453", "https://www.eventbrite.com/e/1-day-experience-mobile-app-development-with-appinventor-sunday-sept-14th-tickets-12885708501"]
-registration_dates		: ["Saturday, Sept 13th", "Sunday, Sept 21st"]
-registration_statuses	: [false, false]
-registration_text : ["Over", "Over"]
+registration_urls		: ["http://www.eventbrite.com/e/1-day-experience-mobile-app-development-with-appinventor-ages-11-14-tickets-16079604530"]
+registration_dates		: ["Ages 11-14"]
+registration_statuses	: [true]
+registration_text : ["Register Now"]
 keep_me_informed_url	: "/#contact"
 show_onMainPage : false
 main_page_buttons :
@@ -27,32 +27,41 @@ excerpt		: Engage the mobile space as creators regardless of their computer prog
 <table style="white-space: nowrap">
     <col width="13%">
     <col width="3%">
-    <col width="84%">
-	<tr>
-		<th>Ages</th>
-        <td/>
-		<td>11-14</td>
-	</tr>	
+    <col width="13%">
+    <col width="71%">
 	<tr>
 		<th>Duration</th>
         <td/>
-		<td>1 Day Taster – Afternoon Session</td>
+		<td colspan="2">1-day experience; 2 hours</td>
 	</tr>	
 	<tr>
 		<th>Skill Level</th>
         <td/>
-		<td>Beginner</td>
+		<td colspan="2">Beginner</td>
 	</tr>	
 	<tr>
-		<th>Class Size</th>
+		<th>Class size</th>
         <td/>
-		<td>10 students, 2 instructors</td>
+		<td colspan="2">20 students, 8:1 student to instructor ratio</td>
 	</tr>
+    <tr>
+		<th/>
+        <td/>
+		<td><u>Ages 11-14</u></td>
+        <td></td>
+	</tr>
+    <tr>
+		<th>Time</th>
+        <td/>
+		<td>3:30-5:30pm</td>
+        <td></td>
+	</tr>	
     <tr>
 		<th>Price</th>
         <td/>
-		<td>Regular RM399, Early bird RM350 by Sept 9th</td>
-	</tr>
+		<td>RM349</td>
+        <td></td>
+	</tr>	
 </table>
 
 ##Requirements

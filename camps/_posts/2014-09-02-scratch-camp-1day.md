@@ -4,19 +4,19 @@ title 	:  "Creative Coding with Scratch : 1-day experience"
 date 	:   2014-09-02 09:00:00
 rank    : 4
 camp_date_onMainPage 	: 
-camp_date_onCampPage 	: "1 day, Saturday Sept 13th or Sunday Sept 21st"
-camp_time	: "9:30am - 12:30pm"
+camp_date_onCampPage 	: "March 14th (Sat) or March 15th (Sun)"
+camp_time	: "9:30-11:30am (Ages 7-9), 12:30-2:30pm (Ages 10-12)"
 permalink   : /camps/scratch-camp-1day
 categories  : [camps, scratch, 1day]
 tags    	: [camp, morning, scratch, 9-12]
 age_group 	: 9 - 12 years old
-location	: Starbucks@TTDI KL, Conference Room
+location	: Julia Gabriel Centre, Bansar
 image		: /camps/images/scratch/scratch_camp.png
 banner		: /camps/images/scratch/scratch_camp_banner.png
-registration_urls		: ["https://www.eventbrite.com/e/1-day-experience-creative-coding-with-scratch-sept-13th-2014-tickets-12885483829", "https://www.eventbrite.com/e/1-day-experience-creative-coding-with-scratch-sunday-sept-14th-tickets-12885676405"]
-registration_dates		: ["Saturday, Sept 13th", "Sunday, Sept 21st"]
-registration_statuses	: [false, false]
-registration_text : ["Over", "Over"]
+registration_urls		: ["http://www.eventbrite.com/e/1-day-experience-creative-coding-with-scratch-ages-7-9-tickets-16079372837", "http://www.eventbrite.com/e/1-day-experience-creative-coding-with-scratch-ages-10-12-tickets-16079558392"]
+registration_dates		: ["Ages 7-9", "Ages 10-12"]
+registration_statuses	: [true, true]
+registration_text : ["Register Now", "Register Now"]
 keep_me_informed_url	: "/#contact"
 show_onMainPage : false
 main_page_buttons : 
@@ -27,31 +27,40 @@ excerpt		: Engage the mobile space as creators regardless of their computer prog
 <table style="white-space: nowrap">
     <col width="13%">
     <col width="3%">
-    <col width="84%">
-	<tr>
-		<th>Ages</th>
-        <td/>
-		<td>9-12</td>
-	</tr>	
+    <col width="13%">
+    <col width="71%">
 	<tr>
 		<th>Duration</th>
         <td/>
-		<td>1-day experience : Morning session</td>
+		<td colspan="2">1-day experience; 2 hours</td>
 	</tr>	
 	<tr>
 		<th>Skill Level</th>
         <td/>
-		<td>Beginner</td>
+		<td colspan="2">Beginner</td>
 	</tr>	
 	<tr>
 		<th>Class size</th>
         <td/>
-		<td>10 students, 2 instructors</td>
+		<td colspan="2">20 students, 8:1 student to instructor ratio</td>
 	</tr>
+    <tr>
+		<th/>
+        <td/>
+		<td><u>Ages 7-9</u></td>
+        <td><u>Ages 10-12</u></td>
+	</tr>
+    <tr>
+		<th>Time</th>
+        <td/>
+		<td>9:30-11:30am</td>
+        <td>12:30-2:30pm</td>
+	</tr>	
     <tr>
 		<th>Price</th>
         <td/>
-		<td>Regular RM299, Early bird RM250 by Sept 9th</td>
+		<td>RM249</td>
+        <td>RM299</td>
 	</tr>	
 </table>
 

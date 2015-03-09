@@ -2,14 +2,14 @@
 layout	: camp
 title 	:  "Creative Coding with Scratch"
 date  	:   2014-06-20 09:00:00
-rank    : 3
-camp_date_onMainPage 	: "2015 camps, to be confirmed"
+rank    : 1
+camp_date_onMainPage 	: "1-day introduction camps (March 14th & 15th)"
 camp_date_onCampPage 	: "Monday to Friday (5 days)"
 camp_time	: "2.5 hours each day"
 permalink   : /camps/scratch-camp
 categories  : [2014, midyear]
 tags    	: [camp, morning, scratch, 8-10]
-age_group 	: 8 - 10 years old
+age_group 	: 7 - 12 years old
 location	: Starbucks@TTDI KL, Conference Room
 image		: /camps/images/scratch/scratch_camp.png
 banner		: /camps/images/scratch/scratch_camp_banner.png
@@ -19,7 +19,7 @@ registration_statuses	: [true, false, false]
 registration_text : ["Register for updates", "Over", "Sold Out"]
 keep_me_informed_url	: "/#contact"
 show_onMainPage : true
-main_page_buttons : <a href="/camps/scratch-camp" class="btn btn-lg pad-c btn-green">More details</a>
+main_page_buttons : <a href="/camps/scratch-camp-1day" class="btn btn-lg pad-c btn-green">1-day<br/>Experience</a><a href="/camps/scratch-camp" class="btn btn-lg pad-c btn-primary-pale">5-day Camp</a>
 excerpt: This camp introduces the basic concepts of Computer Science to young children. Write your first computer program using Scratch.
 ---
 

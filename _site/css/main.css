@@ -1,3 +1,4 @@
+@charset "UTF-8";
 @import url("//fonts.googleapis.com/css?family=PT+Sans:400,700,400italic|Montserrat|PT+Mono|PT+Sans+Caption");
 @font-face {
   font-family: "Munro Small";
@@ -43,8 +44,8 @@ blockquote {
   border-left: none; }
 
 blockquote:before {
-  color: #cccccc;
-  content: "\201C";
+  color: #ccc;
+  content: "“";
   font-size: 5em;
   position: absolute;
   left: 0px;
@@ -53,8 +54,8 @@ blockquote:before {
   margin-left: -0.3em; }
 
 blockquote:after {
-  color: #cccccc;
-  content: "\201D";
+  color: #ccc;
+  content: "”";
   font-size: 5em;
   position: absolute;
   right: 10px;
@@ -71,13 +72,13 @@ dd {
 dt a {
   display: block;
   padding: 16px;
-  border-bottom: 1px solid #eeeeee; }
+  border-bottom: 1px solid #eee; }
 
 dd {
-  border-bottom: 1px solid #eeeeee; }
+  border-bottom: 1px solid #eee; }
 
 .ctc-brand:hover, .ctc-brand:focus {
-  background-color: #eeeeee; }
+  background-color: #eee; }
 .ctc-brand img {
   max-height: 26px;
   border: 0px; }
@@ -87,7 +88,7 @@ dd {
   padding-bottom: 36px; }
 
 #camps {
-  background-color: #222222;
+  background-color: #222;
   color: white;
   margin-top: 64px; }
 
@@ -100,7 +101,7 @@ dd {
     color: white; }
   .ctc-camp-list-item:hover {
     background-color: white;
-    color: #333333;
+    color: #333;
     transition: background-color 0.4s; }
     .ctc-camp-list-item:hover a {
       color: #f07f09;
@@ -170,13 +171,13 @@ dd {
   font-size: 4em; }
 
 .fb {
-  color: #3b5998; }
+  color: #3B5998; }
 
 .tw {
-  color: #55acee; }
+  color: #55ACEE; }
 
 .phone {
-  color: #777777; }
+  color: #777; }
 
 .email {
   color: #f07f09; }
@@ -196,18 +197,18 @@ a {
 .navbar-ctc {
   font-family: "Montserrat", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
-  border-bottom: 1px solid #eeeeee;
+  border-bottom: 1px solid #eee;
   background-color: rgba(255, 255, 255, 0.9); }
   .navbar-ctc li a:hover {
-    background-color: #eeeeee;
+    background-color: #eee;
     color: #f07f09; }
 
 .navbar-toggle-ctc {
-  border: 1px solid #eeeeee; }
+  border: 1px solid #eee; }
   .navbar-toggle-ctc .icon-bar {
     background-color: #f07f09; }
   .navbar-toggle-ctc:hover, .navbar-toggle-ctc:focus {
-    background-color: #eeeeee; }
+    background-color: #eee; }
 
 .jumbotron-ctc {
   padding: 0;
@@ -217,17 +218,17 @@ a {
 
 .footer-ctc {
   margin-top: 48px;
-  background-color: #444444;
-  color: #eeeeee;
+  background-color: #444;
+  color: #eee;
   padding: 16px 0px; }
 
 @media(max-width: 768px) {
   .navbar-header {
-    border-bottom: 1px solid #eeeeee; }
+    border-bottom: 1px solid #eee; }
 
   .navbar-ctc {
     background-color: white;
-    border-bottom: 0px solid #eeeeee; } }
+    border-bottom: 0px solid #eee; } }
 .carousel-control {
   width: 10%; }
   .carousel-control.right, .carousel-control.left {
@@ -298,7 +299,7 @@ a {
   font-size: 0.8em; }
 
 .btn-default {
-  background-color: #dddddd;
+  background-color: #ddd;
   background-image: none; }
 
 .btn-primary {
@@ -310,7 +311,7 @@ a {
     border: 2px solid #8e4b05; }
 
 .btn-green {
-  background-color: #44dd44;
+  background-color: #4d4;
   border: 2px solid #2ed92e;
   background-image: none;
   width: 140px;

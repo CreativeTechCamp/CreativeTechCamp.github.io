@@ -19,7 +19,7 @@ registration_statuses	: [true, false, false]
 registration_text : ["Register for updates", "Over", "Over"]
 keep_me_informed_url	: "/#contact"
 show_onMainPage : true
-main_page_buttons : <a href="/camps/mobile-app-dev" class="btn btn-lg pad-c btn-green">More details</a>
+main_page_buttons : <a href="/camps/mobile-app-dev-1day" class="btn btn-lg pad-c btn-green">1-day<br/>Experience</a><a href="/camps/mobile-app-dev" class="btn btn-lg pad-c btn-primary-pale">5-day Camp</a>
 excerpt		: Engage the mobile space as creators regardless of their computer programming knowledge
 ---
 

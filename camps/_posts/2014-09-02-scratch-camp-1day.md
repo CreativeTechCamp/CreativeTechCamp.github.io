@@ -10,7 +10,7 @@ permalink   : /camps/scratch-camp-1day
 categories  : [camps, scratch, 1day]
 tags    	: [camp, morning, scratch, 9-12]
 age_group 	: 9 - 12 years old
-location	: Julia Gabriel Centre, Bansar
+location	: Julia Gabriel Centre, Bangsar
 image		: /camps/images/scratch/scratch_camp.png
 banner		: /camps/images/scratch/scratch_camp_banner.png
 registration_urls		: ["http://www.eventbrite.com/e/1-day-experience-creative-coding-with-scratch-ages-7-9-tickets-16079372837", "http://www.eventbrite.com/e/1-day-experience-creative-coding-with-scratch-ages-10-12-tickets-16079558392"]

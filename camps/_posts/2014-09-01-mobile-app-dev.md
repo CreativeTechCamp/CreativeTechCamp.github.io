@@ -1,11 +1,11 @@
 ---
 layout 	: camp
-title 	:  "Mobile App Development with App Inventor"
-date 	:   2014-09-01 09:00:00
+title 	: "Mobile App Development with App Inventor"
+date 	: 2014-09-01 09:00:00
 rank    : 2
-camp_date_onMainPage 	: "1-day introduction camps (March 14th & 15th)
+camp_date_onMainPage 	: "1-day introduction camps (March 14th & 15th)"
 camp_date_onCampPage 	: "Monday to Friday (5 days)"
-camp_time	: "9:30am - 12:30pm"
+camp_time	: "2.5 hours each day"
 permalink   : /camps/mobile-app-dev
 categories  : [camps, mobile-app-dev]
 tags	    : [camp, morning, mobile, app, 11-14]

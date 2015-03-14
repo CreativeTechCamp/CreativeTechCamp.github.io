@@ -66,7 +66,7 @@ excerpt: We will be attending this event and running an introduction workshop to
 </table>
 
 ##Requirements
-* For Intro to Scratch, please bring your own laptop (PC, Linux or Mac), power supply and mouse
+* For Introduction to Coding with Scratch, please bring your own laptop (PC, Linux or Mac), power supply and mouse
 
 ##Featured Software/Tool
 * Scratch (a coding platform for beginners developed by MIT Media Lab)
@@ -76,7 +76,7 @@ excerpt: We will be attending this event and running an introduction workshop to
 <div class="row">
 <div class="col-md-8">
 
-    <p>We are attending the <a href='http://www.tinkerandinvent.org'>Tinker & Invent 2015</a> to help promote making with technology. We will also be conducting workshops for kids 7-12 years old on  Coding with Scratch, and Make with littleBits. We hope to see the amazing things the kids will code/make this coming weekend. Places are limited so do register quickly. Selected participants will be informed by March 18th. 
+    <p>We are attending the <a href='http://www.tinkerandinvent.org'>Tinker & Invent 2015</a> to help promote making with technology. We will also be conducting workshops for kids 7-12 years old on  Coding with Scratch, and Make with littleBits. We hope to see the amazing things the kids will code/make this coming weekend. Places are limited so do register quickly. Selected participants will receive an invitation by March 19th 2015
     </p>
 
 	<p>Worldwide, students and technology educators are using Scratch, as it allows computer novices to understand complex programming concepts. In a world where STEM occupations are expected to grow 17% over the next decade, tool that sparks young people’s interest in programming is crucial. 

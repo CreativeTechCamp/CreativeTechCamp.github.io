@@ -2,7 +2,7 @@
 layout 	: camp
 title 	: "Modding & JAVA Programming with Minecraft"
 date 	: 2014-6-20 09:00:00
-rank    : 3
+rank    : 4
 camp_date_onMainPage 	: "2015 camps, to be confirmed"
 camp_date_onCampPage 	: "5 days camp"
 camp_time	: "2.5 hours each day"

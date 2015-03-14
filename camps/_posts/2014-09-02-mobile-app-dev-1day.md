@@ -2,7 +2,7 @@
 layout 	: camp
 title 	:  "Mobile App Development with AppInventor : 1-day experience"
 date 	:   2014-09-02 09:00:00
-rank    : 5
+rank    : 6
 camp_date_onMainPage 	:
 camp_date_onCampPage 	: "March 14th (Sat) or March 15th (Sun)"
 camp_time	: "3:30-5:30pm"

@@ -2,7 +2,7 @@
 layout 	: camp
 title 	:  "Creative Coding with Scratch : 1-day experience"
 date 	:   2014-09-02 09:00:00
-rank    : 4
+rank    : 5
 camp_date_onMainPage 	: 
 camp_date_onCampPage 	: "March 14th (Sat) or March 15th (Sun)"
 camp_time	: "9:30-11:30am (Ages 7-9), 12:30-2:30pm (Ages 10-12)"

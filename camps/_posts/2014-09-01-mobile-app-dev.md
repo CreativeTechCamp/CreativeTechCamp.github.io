@@ -2,8 +2,8 @@
 layout 	: camp
 title 	: "Mobile App Development with App Inventor"
 date 	: 2014-09-01 09:00:00
-rank    : 2
-camp_date_onMainPage 	: "1-day introduction camps (March 14th & 15th)"
+rank    : 3
+camp_date_onMainPage 	: "2015 camps, to be confirmed"
 camp_date_onCampPage 	: "Monday to Friday (5 days)"
 camp_time	: "2.5 hours each day"
 permalink   : /camps/mobile-app-dev
@@ -19,7 +19,7 @@ registration_statuses	: [true, false, false]
 registration_text : ["Register for updates", "Over", "Over"]
 keep_me_informed_url	: "/#contact"
 show_onMainPage : true
-main_page_buttons : <a href="/camps/mobile-app-dev-1day" class="btn btn-lg pad-c btn-green">1-day<br/>Experience</a><a href="/camps/mobile-app-dev" class="btn btn-lg pad-c btn-primary-pale">5-day Camp</a>
+main_page_buttons : <a href="/camps/mobile-app-dev" class="btn btn-lg pad-c btn-primary-pale">5-day Camp</a>
 excerpt		: Engage the mobile space as creators regardless of their computer programming knowledge
 ---
 

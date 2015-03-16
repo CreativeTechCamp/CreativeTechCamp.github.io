@@ -13,10 +13,10 @@ age_group 	: 7 - 12 years old
 location	: Citta Mall
 image		: /camps/images/tinkerandinvent/tinkerandinvent_logo.png
 banner		: /camps/images/tinkerandinvent/tinkerandinvent_banner.png
-registration_urls	: ["https://docs.google.com/forms/d/1kGx5L7ebTylyRc82-Nsotfd97z15yw7xkTidASF9FXE/viewform", "https://docs.google.com/forms/d/1kS_FtIYfD9Q33WuPqlyt0fs3x7-50QS7u_sfHu9opmI/viewform"]
-registration_dates	: ["Register now", "Register now"]
-registration_statuses	: [true, true]
-registration_text : ["Intro to Coding with Scratch", "Intro to Make with littleBits"]
+registration_urls	: ["https://docs.google.com/forms/d/1kGx5L7ebTylyRc82-Nsotfd97z15yw7xkTidASF9FXE/viewform", "https://docs.google.com/forms/d/1kS_FtIYfD9Q33WuPqlyt0fs3x7-50QS7u_sfHu9opmI/viewform", "https://docs.google.com/forms/d/1bNw7c8bPUwshYX96-Os2NCwKcqABak1p8gjEFZLddXU/viewform"]
+registration_dates	: ["Register now", "Register now", "Register now"]
+registration_statuses	: [true, true, true]
+registration_text : ["Intro to Coding with Scratch", "Intro to Make with littleBits", "Other Workshops"]
 keep_me_informed_url	: "/#contact"
 show_onMainPage : true
 main_page_buttons : <a href="/camps/tinkerandinvent2015" class="btn btn-lg pad-c btn-primary-pale" target="_blank">Register Now</a>

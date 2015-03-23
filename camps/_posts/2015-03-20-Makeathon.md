@@ -13,7 +13,7 @@ age_group 	: 7 - 12 years old
 location	: Pusat Kreatif Kanak-Kanak Tuanku Bainun
 image		: http://lb-discuss.s3.amazonaws.com/1218ace5e83a6a14c0b870fd19a22ff4b98dd01fa12b.png
 banner		: /camps/images/makeathon_mar2015/littleBitsGrid.png
-registration_urls	: ["http://www.eventbrite.com/e/littlebits-makeathon-in-kuala-lumpur-march-2015-tickets-16245890897"]
+registration_urls	: ["https://docs.google.com/forms/d/1KqGZWObzP3AEagnJFPeNJNtTjT24_MtB0H0Ir3orS5g/viewform"]
 registration_dates	: ["For Alumni & Friends"]
 registration_statuses	: [true]
 registration_text : ["By Invitation Only"]

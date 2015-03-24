@@ -14,12 +14,12 @@ location	: Pusat Kreatif Kanak-Kanak Tuanku Bainun
 image		: http://lb-discuss.s3.amazonaws.com/1218ace5e83a6a14c0b870fd19a22ff4b98dd01fa12b.png
 banner		: /camps/images/makeathon_mar2015/littleBitsGrid.png
 registration_urls	: ["https://docs.google.com/forms/d/1KqGZWObzP3AEagnJFPeNJNtTjT24_MtB0H0Ir3orS5g/viewform"]
-registration_dates	: ["For Alumni & Friends"]
+registration_dates	: ["Limited places"]
 registration_statuses	: [true]
-registration_text : ["By Invitation Only"]
+registration_text : ["Register Here"]
 keep_me_informed_url	: "/#contact"
 show_onMainPage : true
-main_page_buttons : <a href="/Makeathon_Mar2015" class="btn btn-lg pad-c btn-green" target="_blank">By Invitation</a>
+main_page_buttons : <a href="/Makeathon_Mar2015" class="btn btn-lg pad-c btn-green" target="_blank">More info</a>
 excerpt: We are inviting our alumni to join the inaugural littleBits Global Makeathon in Kuala Lumpur. The theme for this year is "Techno Jungle". Get ready to &#35;InventAnything
 ---
 

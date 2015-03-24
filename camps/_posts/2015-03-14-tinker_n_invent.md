@@ -18,7 +18,7 @@ registration_dates	: ["Register now", "Register now", "Register now"]
 registration_statuses	: [true, true, true]
 registration_text : ["Intro to Coding with Scratch", "Intro to Make with littleBits", "Other Workshops"]
 keep_me_informed_url	: "/#contact"
-show_onMainPage : true
+show_onMainPage : false
 main_page_buttons : <a href="/camps/tinkerandinvent2015" class="btn btn-lg pad-c btn-primary-pale" target="_blank">Register Now</a>
 excerpt: We will be attending this event and running an introduction workshop to Coding with Scratch and Making with littleBits. Places are limited and by invitation, so register quick...!
 ---

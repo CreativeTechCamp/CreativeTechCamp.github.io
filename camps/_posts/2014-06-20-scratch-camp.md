@@ -2,21 +2,21 @@
 layout	: camp
 title 	:  "Creative Coding with Scratch"
 date  	:   2014-06-20 09:00:00
-rank    : 2
-camp_date_onMainPage 	: "2015 camps, to be confirmed"
+rank    : 1
+camp_date_onMainPage 	: "April 6-10 (Mon-Fri)"
 camp_date_onCampPage 	: "Monday to Friday (5 days)"
-camp_time	: "2.5 hours each day"
+camp_time	: "9:30 - 12:00pm"
 permalink   : /camps/scratch-camp
 categories  : [2014, midyear]
 tags    	: [camp, morning, scratch, 8-10]
-age_group 	: 7 - 12 years old
-location	: Starbucks@TTDI KL, Conference Room
+age_group 	: 7 - 10 years old
+location	: Pusat Kreatif Kanak-Kanak@TTDI
 image		: /camps/images/scratch/scratch_camp.png
 banner		: /camps/images/scratch/scratch_camp_banner.png
-registration_urls	: ["/#contact", "http://www.eventbrite.com/e/creative-coding-with-scratch-2014-year-end-tickets-13956511301", "http://www.eventbrite.com/o/creative-tech-camp-6795798913?past=1"]
-registration_dates	: ["2015 camps", "Nov 24-28<sup>th</sup>", "Aug & July 2014"]
-registration_statuses	: [true, false, false]
-registration_text : ["Register for updates", "Over", "Sold Out"]
+registration_urls	: ["https://www.eventbrite.com/e/creative-coding-with-scratch-easter-2015-tickets-16308455028", "http://www.eventbrite.com/o/creative-tech-camp-6795798913?past=1"]
+registration_dates	: ["Apr 6-10th", "Past camps"]
+registration_statuses	: [true, false]
+registration_text : ["Register Now", "Sold Out"]
 keep_me_informed_url	: "/#contact"
 show_onMainPage : true
 main_page_buttons : <a href="/camps/scratch-camp" class="btn btn-lg pad-c btn-primary-pale">5-day Camp</a>
@@ -31,7 +31,7 @@ excerpt: This camp introduces the basic concepts of Computer Science to young ch
     <tr>
 		<th>Camp Dates</th>
         <td/>
-		<td style='padding:5px 10px 5px 5px'>2015 camps, to be confirmed</td>
+		<td style='padding:5px 10px 5px 5px'>April 6-10, 2015</td>
 	</tr>
     <tr>
 		<th>Duration</th>
@@ -41,7 +41,7 @@ excerpt: This camp introduces the basic concepts of Computer Science to young ch
 	<tr>
 		<th>Ages</th>
         <td/>
-		<td style='padding:5px 10px 5px 5px'>8-10 (Must turn 8 by 31/12/2015)</td>
+		<td style='padding:5px 10px 5px 5px'>7-10 (Must turn 7 by 31/12/2015)</td>
 	</tr>
 	<tr>
 		<th>Skill Level</th>
@@ -51,12 +51,7 @@ excerpt: This camp introduces the basic concepts of Computer Science to young ch
 	<tr>
 		<th>Location</th>
         <td/>
-		<td style='padding:5px 10px 5px 5px'>Starbucks@TTDI KL, Conference Room</td>
-	</tr>
-	<tr>
-		<th>Class Size</th>
-        <td/>
-		<td style='padding:5px 10px 5px 5px'> 10 students (minimum 4 students to start camp)</td>
+		<td style='padding:5px 10px 5px 5px'>Pusat Kreatif Kanak-Kanak Tuanku Bainun. <br/>48, Jalan Tun Mohd Fuad, <br/>Taman Tun Dr Ismail, Kuala Lumpur <br> GPS: 3.140892, 101.631926</td>
 	</tr>
     <tr>
 		<th>Price</th>

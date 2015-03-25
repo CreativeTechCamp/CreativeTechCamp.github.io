@@ -2,21 +2,21 @@
 layout 	: camp
 title 	: "Modding & JAVA Programming with Minecraft"
 date 	: 2014-6-20 09:00:00
-rank    : 4
-camp_date_onMainPage 	: "2015 camps, to be confirmed"
-camp_date_onCampPage 	: "5 days camp"
-camp_time	: "2.5 hours each day"
+rank    : 2
+camp_date_onMainPage 	: "April 6-10 (Mon-Fri)"
+camp_date_onCampPage 	: "Monday to Friday (5 days)"
+camp_time	: "2:00 - 4:30pm"
 permalink   : /camps/minecraft-java-camp
 categories  : [2014, midyear]
 tags	    : [camp, morning, minecraft, 10-13]
-age_group 	: 10 - 13 years old
-location	: Starbucks@TTDI KL, Conference Room
+age_group 	: 10 - 14 years old
+location	: Pusat Kreatif Kanak-Kanak@TTDI
 image		: /camps/images/minecraft/minecraft_camp.png
 banner		: /camps/images/minecraft/minecraft_camp_banner.png
-registration_urls		: ["/#contact", "http://www.eventbrite.com/e/modding-java-programming-with-minecraft-2014-year-end-tickets-14009349341", "http://www.eventbrite.com/e/modding-java-programming-with-minecraft-2014-year-end-tickets-14009347335", "http://www.eventbrite.com/o/creative-tech-camp-6795798913?past=1"]
-registration_dates		: ["2015 camps", "Dec 15-19<sup>th</sup>", "Nov 24-28<sup>th</sup>", "Aug & July 2014"]
-registration_statuses	: [true, false, false, false]
-registration_text : ["Register for updates" ,"Sold Out", "Sold Out", "Sold Out"]
+registration_urls		: ["https://www.eventbrite.com/e/modding-java-programming-with-minecraft-easter-2015-tickets-16308504175", "http://www.eventbrite.com/o/creative-tech-camp-6795798913?past=1"]
+registration_dates		: ["Apr 6-10th", "Past camps"]
+registration_statuses	: [true, false]
+registration_text : ["Register Now", "Sold Out"]
 keep_me_informed_url	: "/#contact"
 show_onMainPage : true
 main_page_buttons : <a href="/camps/minecraft-java-camp" class="btn btn-lg pad-c btn-primary-pale">5-day Camp</a>
@@ -31,7 +31,7 @@ excerpt		: Discover the powerful world of Java programming through Minecraft. St
 	<tr>
 		<th>Camp Dates</th>
         <td/>
-		<td style='padding:5px 10px 5px 5px'>2015 camps, to be confirmed</td>
+		<td style='padding:5px 10px 5px 5px'>April 6-10th, 2015</td>
 	</tr>
     <tr>
 		<th>Duration</th>
@@ -41,7 +41,7 @@ excerpt		: Discover the powerful world of Java programming through Minecraft. St
     <tr>
 		<th>Ages</th>
         <td/>
-		<td style='padding:5px 10px 5px 5px'>10-13 (Must turn 10 by 31/12/2015)</td>
+		<td style='padding:5px 10px 5px 5px'>10-14 (Must turn 10 by 31/12/2015)</td>
 	</tr>	
 	<tr>
 		<th>Skill Level</th>
@@ -51,12 +51,7 @@ excerpt		: Discover the powerful world of Java programming through Minecraft. St
 	<tr>
 		<th>Location</th>
         <td/>
-		<td style='padding:5px 10px 5px 5px'>Starbucks@TTDI KL, Conference Room</td>
-	</tr>
-	<tr>
-		<th>Class Size</th>
-        <td/>
-		<td style='padding:5px 10px 5px 5px'>10 students (minimum 4 students to start camp)</td>
+		<td style='padding:5px 10px 5px 5px'>Pusat Kreatif Kanak-Kanak Tuanku Bainun. <br/>48, Jalan Tun Mohd Fuad, <br/>Taman Tun Dr Ismail, Kuala Lumpur <br> GPS: 3.140892, 101.631926</td>
 	</tr>
     <tr>
 		<th>Price</th>

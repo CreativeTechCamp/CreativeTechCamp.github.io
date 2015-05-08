@@ -18,7 +18,7 @@ registration_dates	: ["Apr 6-10th", "Past camps"]
 registration_statuses	: [true, false]
 registration_text : ["Register Now", "Sold Out"]
 keep_me_informed_url	: "/#contact"
-show_onMainPage : true
+show_onMainPage : false
 main_page_buttons : <a href="/camps/scratch-camp" class="btn btn-lg pad-c btn-primary-pale">5-day Camp</a>
 excerpt: This camp introduces the basic concepts of Computer Science to young children. Write your first computer program using Scratch.
 ---

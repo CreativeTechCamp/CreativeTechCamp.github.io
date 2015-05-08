@@ -18,7 +18,7 @@ registration_dates		: ["2015 camps", "Dec 01-05<sup>th</sup>", "Dec 15-19<sup>th
 registration_statuses	: [true, false, false]
 registration_text : ["Register for updates", "Over", "Over"]
 keep_me_informed_url	: "/#contact"
-show_onMainPage : true
+show_onMainPage : false
 main_page_buttons : <a href="/camps/mobile-app-dev" class="btn btn-lg pad-c btn-primary-pale">5-day Camp</a>
 excerpt		: Engage the mobile space as creators regardless of their computer programming knowledge
 ---

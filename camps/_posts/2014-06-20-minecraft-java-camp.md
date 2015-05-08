@@ -18,7 +18,7 @@ registration_dates		: ["Apr 6-10th", "Past camps"]
 registration_statuses	: [true, false]
 registration_text : ["Register Now", "Sold Out"]
 keep_me_informed_url	: "/#contact"
-show_onMainPage : true
+show_onMainPage : false
 main_page_buttons : <a href="/camps/minecraft-java-camp" class="btn btn-lg pad-c btn-primary-pale">5-day Camp</a>
 excerpt		: Discover the powerful world of Java programming through Minecraft. Start with the fundamentals of Java and Minecraft tools, then start modding!
 ---

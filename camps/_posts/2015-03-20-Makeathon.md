@@ -19,7 +19,7 @@ registration_statuses	: [true]
 registration_text : ["By Invitation Only"]
 keep_me_informed_url	: "/#contact"
 show_onMainPage : true
-main_page_buttons : <a href="/Makeathon_Mar2015" class="btn btn-lg pad-c btn-green" target="_blank">By Invitation</a>
+main_page_buttons : <a href="/Makeathon_Mar2015" class="btn btn-lg pad-c btn-primary-pale" target="_blank">By Invitation</a>
 excerpt: We are inviting our alumni to join the inaugural littleBits Global Makeathon in Kuala Lumpur. The theme for this year is "Techno Jungle". Get ready to &#35;InventAnything
 ---
 

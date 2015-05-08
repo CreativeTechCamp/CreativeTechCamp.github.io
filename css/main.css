@@ -95,10 +95,10 @@ dd {
 .ctc-camp-list-item {
   margin-bottom: 16px;
   padding: 16px;
-  color: white;
-  background-color: #f07f09; }
+  color: #333;
+  background-color: white; }
   .ctc-camp-list-item a {
-    color: white; }
+    color: #f07f09; }
   .ctc-camp-list-item:hover {
     background-color: white;
     color: #333;
@@ -319,6 +319,16 @@ a {
   .btn-green:hover, .btn-green:focus {
     background-color: #6fe56f;
     border: 2px solid #1d9e1d; }
+
+.btn-green-pale {
+  background-color: #9d9;
+  border: 2px solid #86d786;
+  background-image: none;
+  width: 140px;
+  font-size: 15px; }
+  .btn-green-pale:hover, .btn-green-pale:focus {
+    background-color: #bfeabf;
+    border: 2px solid #4dc44d; }
 
 .btn-primary-pale {
   background-color: #fabe7e;

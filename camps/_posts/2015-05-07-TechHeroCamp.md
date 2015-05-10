@@ -47,7 +47,7 @@ excerpt: Challenge your mind to design, create, and build. Push the boundaries t
     <tr>
 		<th>Camp Fees</th>
         <td/>
-		<td style='padding:5px 10px 5px 5px'>Ages 8-10 : <del>RM 899</del> Early bird: RM 699 <br>Ages 11-14 : <del>RM1,099</del> Early bird: RM 899 <br>Early bird pricing value until May 20th</td>
+		<td style='padding:5px 10px 5px 5px'>Ages 8-10 : <del>RM 899</del> Early bird: RM 699 <br>Ages 11-14 : <del>RM1,099</del> Early bird: RM 899 <br><i>Early bird pricing valid until May 20th</i></td>
 	</tr>
 </table>
 

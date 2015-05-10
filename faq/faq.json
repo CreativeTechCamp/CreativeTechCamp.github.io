@@ -13,10 +13,6 @@
             "a": " No prior programming skills are needed for our beginner Camps "
         },
         {
-            "q": "How many students will be in the camp?",
-            "a": " We guarantee small class sizes with a maximum of 8 students per instructor "
-        },
-        {
             "q": "What does my child get to take home with them at the end of the camp?",
             "a": " Your child will take home new skills and a new portfolio. Each course will have a take home package and a portfolio tailored to the course topic. "
         },
@@ -26,11 +22,11 @@
         },
         {
             "q": "How can I register?",
-            "a": " You can register for the <a href='/camps/2014/midyear/scratch-camp'>Creative Coding with Scratch and Modding</a> &amp; <a href='/camps/2014/midyear/minecraft-java-camp'>JAVA Programming with Minecraft</a> online by following the respective links. "
+            "a": " You can register online by following the respective <a href='/#camps'>camp</a> links, contact us through email (info@creativetechcamp.com) or give a call to Dr. Ewe (+60193354507)."
         },
         {
             "q": "What are the age requirements?",
-            "a": " <p> We want to get children creating with technology from a young age. We start as early as 7 years old with our <a href='/camps/2014/midyear/scratch-camp'>Creative Coding with Scratch</a></p> <p> All camps are designed and delivered with a particular age range in mind and when we have enough demand for a particular camp, we will then then be able to split the group into a narrower age range.  Usually the age span in a specific camp is between 2-3 years. </p> <p> Please check the respective <a href='/#camps'>Camps</a> for further details </p> "
+            "a": " <p> Please check the respective <a href='/#camps'>Camps</a> for further details </p> "
         },
         {
             "q": "Where is the camp held?",

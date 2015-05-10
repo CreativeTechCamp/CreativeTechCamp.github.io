@@ -13,14 +13,14 @@ age_group 	: 8-10 & 11-14 years old
 location	: Starbucks @ TTDI, KL
 image		: /camps/images/TechHero/June Camp-7CreateVDOgameV2.fw.jpg
 banner		: /camps/images/TechHero/GLOBAL MAKEATHON-250-banner.jpg
-registration_urls	: ["http://www.eventbrite.com/e/tech-hero-camp-ages-8-10-tickets-16891658405", "http://www.eventbrite.com/e/tech-hero-camp-ages-11-15-tickets-16895638309"]
+registration_urls	: ["http://www.eventbrite.com/e/tech-hero-camp-ages-8-10-tickets-16891658405", "http://www.eventbrite.com/e/tech-hero-camp-ages-11-14-tickets-16895638309"]
 registration_dates	: ["Ages 8-10", "Ages 11-14"]
 registration_statuses	: [true, true]
 registration_text : ["Register Now", "Register Now"]
 keep_me_informed_url	: "/#contact"
 show_onMainPage : true
 main_page_buttons : <a href="/TechHero" class="btn btn-lg pad-c btn-green" target="_blank">Learn more</a>
-excerpt: If you are between 8 to 14 years old, join us camps this holiday as we challenge your mind to design, create and build. Learn a new skill this school holidays and emerge as our TECH HERO!
+excerpt: Challenge your mind to design, create, and build. Push the boundaries this school holidays and emerge as our TECH HERO!
 ---
 
 ##Details
@@ -47,7 +47,7 @@ excerpt: If you are between 8 to 14 years old, join us camps this holiday as we 
     <tr>
 		<th>Camp Fees</th>
         <td/>
-		<td style='padding:5px 10px 5px 5px'>Ages 8-10 : <del>RM 899</del> Early bird: RM 699 <br>Ages 11-14 : <del>RM1,099</del> Early bird: RM 899</td>
+		<td style='padding:5px 10px 5px 5px'>Ages 8-10 : <del>RM 899</del> Early bird: RM 699 <br>Ages 11-14 : <del>RM1,099</del> Early bird: RM 899 <br>Early bird pricing value until May 20th</td>
 	</tr>
 </table>
 

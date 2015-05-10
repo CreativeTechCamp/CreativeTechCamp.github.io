@@ -315,10 +315,15 @@ a {
   border: 2px solid #2ed92e;
   background-image: none;
   width: 140px;
-  font-size: 15px; }
+  font-size: 15px;
+  color: white; }
+  .btn-green a {
+    color: white; }
   .btn-green:hover, .btn-green:focus {
     background-color: #6fe56f;
     border: 2px solid #1d9e1d; }
+    .btn-green:hover a, .btn-green:focus a {
+      color: white; }
 
 .btn-green-pale {
   background-color: #9d9;

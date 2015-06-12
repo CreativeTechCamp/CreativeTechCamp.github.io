@@ -13,8 +13,8 @@ age_group 	: 8-10 & 11-14 years old
 location	: Starbucks @ TTDI, KL
 image		: /camps/images/TechHero/June Camp-7CreateVDOgameV2.fw.jpg
 banner		: /camps/images/TechHero/GLOBAL MAKEATHON-250-banner.jpg
-registration_urls	: ["http://www.eventbrite.com/e/tech-hero-camp-ages-8-10-tickets-16891658405", "http://www.eventbrite.com/e/tech-hero-camp-ages-11-14-tickets-16895638309"]
 registration_dates	: ["Ages 8-10", "Ages 11-14"]
+registration_urls	: ["http://www.eventbrite.com/e/tech-hero-camp-ages-8-10-tickets-16891658405", "http://www.eventbrite.com/e/tech-hero-camp-ages-11-14-tickets-17366025249"]
 registration_statuses	: [true, true]
 registration_text : ["Register Now", "Register Now"]
 keep_me_informed_url	: "/#contact"
@@ -47,7 +47,7 @@ excerpt: Challenge your mind to design, create, and build. Push the boundaries t
     <tr>
 		<th>Camp Fees</th>
         <td/>
-		<td style='padding:5px 10px 5px 5px'>Ages 8-10 : <del>RM 899</del> Early bird: RM 699 <br>Ages 11-14 : <del>RM1,099</del> Early bird: RM 899 <br><i>Early bird pricing valid until May 20th</i></td>
+		<td style='padding:5px 10px 5px 5px'>Ages 8-10 : <del>RM 899</del> Early bird: RM 699 <br>Ages 11-14 : <del>RM1,099</del> Early bird: RM 899 <br><i>Early bird pricing ends June 30th</i></td>
 	</tr>
 </table>
 

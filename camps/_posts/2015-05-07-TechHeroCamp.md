@@ -3,8 +3,8 @@ layout	: camp
 title 	:  "Tech Hero Camp"
 date  	:   2015-05-07 09:00:00
 rank    : 1
-camp_date_onMainPage 	: "June, July & August 2015"
-camp_date_onCampPage 	: "June, July & August 2015"
+camp_date_onMainPage 	: "July, August & September 2015"
+camp_date_onCampPage 	: "July, August & September 2015"
 camp_time	: "9:30-12:00pm (Ages 8-10), 2:30-5:00pm (Ages 11-14)"
 permalink   : /TechHero
 categories  : [2015, TechHero]
@@ -31,7 +31,7 @@ excerpt: Challenge your mind to design, create, and build. Push the boundaries t
     <tr>
 		<th style='font-size:120%'>Dates</th>
         <td/>
-		<td style='padding:5px 10px 5px 5px; font-size:120%'>June 1-5<sup>th</sup>, 8-12<sup>th</sup>; July 13-17<sup>th</sup>; & August  3-7<sup>th</sup><br>Monday to Friday (5-days camp)</td>
+		<td style='padding:5px 10px 5px 5px; font-size:120%'>July 13-17<sup>th</sup>; August 3-7<sup>th</sup>; & September 21-25<sup>th</sup><br>Monday to Friday (5-days camp)</td>
 	</tr>
     <tr>
 		<th>Time</th>

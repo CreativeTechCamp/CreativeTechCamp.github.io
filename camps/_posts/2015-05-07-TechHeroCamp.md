@@ -3,22 +3,22 @@ layout	: camp
 title 	:  "Tech Hero Camp"
 date  	:   2015-05-07 09:00:00
 rank    : 1
-camp_date_onMainPage 	: "June, July, August & September 2015"
-camp_date_onCampPage 	: "June, uly, August & September 2015"
-camp_time	: "9:30-12:00pm (Ages 8-10), 2:30-5:00pm (Ages 11-14)"
+camp_date_onMainPage 	: "Nov 2015"
+camp_date_onCampPage 	: "Nov 2015"
+camp_time	: "9:30-12:00pm (Ages 8-10), 2:30-5:00pm (Ages 11-15)"
 url_alt : 
 url_alt_flag : false
 permalink   : /TechHero
 categories  : [2015, TechHero]
 tags    	: [camp, littlebits, scratch, appinventor, minecraft]
-age_group 	: 8-10 & 11-14 years old
+age_group 	: 8-10 & 11-15 years old
 location	: Starbucks @ TTDI, KL
 image		: /camps/images/TechHero/June Camp-7CreateVDOgameV2.fw.jpg
 banner		: /camps/images/TechHero/GLOBAL MAKEATHON-250-banner.jpg
-registration_dates	: ["Ages 8-10", "Ages 11-14"]
-registration_urls	: ["http://www.eventbrite.com/e/tech-hero-camp-ages-8-10-tickets-16891658405", "http://www.eventbrite.com/e/tech-hero-camp-ages-11-14-tickets-17366025249"]
-registration_statuses	: [false, false]
-registration_text : ["Closed", "Closed"]
+registration_dates	: ["Ages 8-10", "Ages 11-15"]
+registration_urls	: ["http://www.eventbrite.com/e/tech-hero-camp-ages-8-10-tickets-19203012728", "http://www.eventbrite.com/e/tech-hero-camp-ages-11-15-tickets-19202959569"]
+registration_statuses	: [true, true]
+registration_text : ["Register Now", "Register Now"]
 keep_me_informed_url	: "/#contact"
 show_onMainPage : true
 main_page_buttons : <a href="/TechHero" class="btn btn-lg pad-c btn-primary-pale" target="_blank">Learn more</a>
@@ -33,12 +33,12 @@ excerpt: Challenge your mind to design, create, and build. Push the boundaries t
     <tr>
 		<th style='font-size:120%'>Dates</th>
         <td/>
-		<td style='padding:5px 10px 5px 5px; font-size:120%'>July 13-17<sup>th</sup>; August 3-7<sup>th</sup>; & September 21-25<sup>th</sup><br>Monday to Friday (5-days camp)</td>
+		<td style='padding:5px 10px 5px 5px; font-size:120%'>November 23-27<sup>th</sup><br>Monday to Friday (5-days camp)</td>
 	</tr>
     <tr>
 		<th>Time</th>
         <td/>
-		<td style='padding:5px 10px 5px 5px'>Ages 8-10 : 9:30-12:00pm <br> Ages 11-14 : 2:30-5:00pm</td>
+		<td style='padding:5px 10px 5px 5px'>Ages 8-10 : 9:30-12:00pm <br> Ages 11-15 : 2:30-5:00pm</td>
 	</tr>
 	<tr>
 		<th>Location</th>
@@ -49,7 +49,7 @@ excerpt: Challenge your mind to design, create, and build. Push the boundaries t
     <tr>
 		<th>Camp Fees</th>
         <td/>
-		<td style='padding:5px 10px 5px 5px'>Ages 8-10 : <del>RM 899</del> Early bird: RM 699 <br>Ages 11-14 : <del>RM1,099</del> Early bird: RM 899 <br><i>Early bird pricing for limited time only</i></td>
+		<td style='padding:5px 10px 5px 5px'>Ages 8-10 : <del>RM 899</del> Early bird: RM 699 <br>Ages 11-15 : <del>RM1,099</del> Early bird: RM 899 <br><i>Early bird pricing for limited time only</i></td>
 	</tr>
 </table>
 
@@ -79,7 +79,7 @@ Our camps has a blend of hands-on work on computers together with un-plugged act
 At the end of the camp our student would have moved beyond playing games, and begin to see what goes on behind and create their own games and DIY robots. </p>
 
 
-<h3>Suitable for Ages 11-14</h3>
+<h3>Suitable for Ages 11-15</h3>
 <p>
 This Tech Hero camp aims to empower pre-teens with new skills in the technology front. Rather than downloading apps, they will build their own apps; Instead of playing games, this time they will create their own games.</p>
 <p>
@@ -96,7 +96,7 @@ At the end of the week, they would have taken their first steps transforming fro
 
 ###What to pack?
 * Bring your own laptop (PC, Linux or Mac), power supply and mouse
-* [Optional] For kids Ages 11-14, please bring along an Android device (phone/tablet) 
+* [Optional] For kids Ages 11-15, please bring along an Android device (phone/tablet) 
 * No prior programming experience needed
 * Ready to <a href='https://twitter.com/hashtag/inventanything' target='_blank'>#InventAnything</a>
 

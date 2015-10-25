@@ -2,7 +2,7 @@
 layout	: camp
 title 	:  "littleBits Makeathon 2015"
 date  	:   2015-03-20 09:00:00
-rank    : 1
+rank    : 3
 camp_date_onMainPage 	: "March 28th (Sat) - By Invitation to Alumni & Friends"
 camp_date_onCampPage 	: "March 28th (Sat)"
 camp_time	: "2:00 - 4:30pm, 2&frac12; hours"

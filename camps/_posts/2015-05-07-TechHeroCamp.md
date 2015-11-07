@@ -13,7 +13,7 @@ categories  : [2015, TechHero]
 tags    	: [camp, littlebits, scratch, appinventor, minecraft]
 age_group 	: 8-10 & 11-15 years old
 location	: Starbucks @ TTDI, KL
-image		: /camps/images/TechHero/June Camp-7CreateVDOgameV2.fw.jpg
+image		: /camps/images/TechHero/TechHeroFront.png
 banner		: /camps/images/TechHero/GLOBAL MAKEATHON-250-banner.jpg
 registration_dates	: ["Ages 8-10", "Ages 11-15"]
 registration_urls	: ["http://www.eventbrite.com/e/tech-hero-camp-ages-8-10-tickets-19203012728", "http://www.eventbrite.com/e/tech-hero-camp-ages-11-15-tickets-19202959569"]

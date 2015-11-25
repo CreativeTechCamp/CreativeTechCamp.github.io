@@ -3,20 +3,20 @@ layout	: camp
 title 	:  "Tech Hero Camp"
 date  	:   2015-05-07 09:00:00
 rank    : 1
-camp_date_onMainPage 	: "Nov 2015"
-camp_date_onCampPage 	: "Nov 2015"
-camp_time	: "9:30-12:00pm (Ages 8-10), 2:30-5:00pm (Ages 11-15)"
+camp_date_onMainPage 	: "Dec 2015"
+camp_date_onCampPage 	: "Dec 2015"
+camp_time	: "9:30-12:00pm (Ages 11-15)"
 url_alt : 
 url_alt_flag : false
 permalink   : /TechHero
 categories  : [2015, TechHero]
 tags    	: [camp, littlebits, scratch, appinventor, minecraft]
-age_group 	: 8-10 & 11-15 years old
+age_group 	: 11-15 years old
 location	: Starbucks @ TTDI, KL
 image		: /camps/images/TechHero/TechHeroFront.png
 banner		: /camps/images/TechHero/GLOBAL MAKEATHON-250-banner.jpg
-registration_dates	: ["Ages 8-10", "Ages 11-15"]
-registration_urls	: ["http://www.eventbrite.com/e/tech-hero-camp-ages-8-10-tickets-19203012728", "http://www.eventbrite.com/e/tech-hero-camp-ages-11-15-tickets-19202959569"]
+registration_dates	: ["Ages 11-15"]
+registration_urls	: ["https://www.eventbrite.com/e/tech-hero-camp-ages-11-15-tickets-19653092930"]
 registration_statuses	: [true, true]
 registration_text : ["Register Now", "Register Now"]
 keep_me_informed_url	: "/#contact"
@@ -33,12 +33,12 @@ excerpt: Challenge your mind to design, create, and build. Push the boundaries t
     <tr>
 		<th style='font-size:120%'>Dates</th>
         <td/>
-		<td style='padding:5px 10px 5px 5px; font-size:120%'>November 23-27<sup>th</sup><br>Monday to Friday (5-days camp)</td>
+		<td style='padding:5px 10px 5px 5px; font-size:120%'>December 7-11<sup>th</sup><br>Monday to Friday (5-days camp)</td>
 	</tr>
     <tr>
 		<th>Time</th>
         <td/>
-		<td style='padding:5px 10px 5px 5px'>Ages 8-10 : 9:30-12:00pm <br> Ages 11-15 : 2:30-5:00pm</td>
+		<td style='padding:5px 10px 5px 5px'>Ages 11-15 : 9:30-12:00pm</td>
 	</tr>
 	<tr>
 		<th>Location</th>
@@ -49,7 +49,7 @@ excerpt: Challenge your mind to design, create, and build. Push the boundaries t
     <tr>
 		<th>Camp Fees</th>
         <td/>
-		<td style='padding:5px 10px 5px 5px'>Ages 8-10 : <del>RM 899</del> Early bird: RM 699 <br>Ages 11-15 : <del>RM1,099</del> Early bird: RM 899 <br><i>Early bird pricing for limited time only</i></td>
+		<td style='padding:5px 10px 5px 5px'>Ages 11-15 : Normal RM1,099, Early bird: RM 899 <br><i>Early bird pricing for limited time only</i></td>
 	</tr>
 </table>
 

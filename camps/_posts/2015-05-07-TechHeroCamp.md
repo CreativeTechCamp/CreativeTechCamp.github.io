@@ -3,22 +3,22 @@ layout	: camp
 title 	:  "Tech Hero Camp"
 date  	:   2015-05-07 09:00:00
 rank    : 1
-camp_date_onMainPage 	: "Dec 2015"
-camp_date_onCampPage 	: "Dec 2015"
-camp_time	: "9:30-12:00pm (Ages 11-15)"
+camp_date_onMainPage 	: "2016 Holidays"
+camp_date_onCampPage 	: "Monday to Friday (5 days)"
+camp_time	: "2.5 hours each day"
 url_alt : 
 url_alt_flag : false
 permalink   : /TechHero
 categories  : [2015, TechHero]
 tags    	: [camp, littlebits, scratch, appinventor, minecraft]
-age_group 	: 11-15 years old
+age_group 	: 8-10, 11-15 years old
 location	: Starbucks @ TTDI, KL
 image		: /camps/images/TechHero/TechHeroFront.png
 banner		: /camps/images/TechHero/GLOBAL MAKEATHON-250-banner.jpg
-registration_dates	: ["Ages 11-15"]
-registration_urls	: ["https://www.eventbrite.com/e/tech-hero-camp-ages-11-15-tickets-19653092930"]
-registration_statuses	: [true, true]
-registration_text : ["Register Now", "Register Now"]
+registration_dates	: ["Ages 8-10, Ages 11-15"]
+registration_urls	: ["https://docs.google.com/forms/d/1ViD67tarerMWFigAqNzX000VbiS45SDaqwV6mL-KLjQ/viewform"]
+registration_statuses	: [true]
+registration_text : ["Register Interest"]
 keep_me_informed_url	: "/#contact"
 show_onMainPage : true
 main_page_buttons : <a href="/TechHero" class="btn btn-lg pad-c btn-primary-pale" target="_blank">Learn more</a>

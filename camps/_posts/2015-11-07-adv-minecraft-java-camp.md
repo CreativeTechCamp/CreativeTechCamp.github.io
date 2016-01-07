@@ -1,11 +1,11 @@
 ---
 layout 	: camp
-title 	: "Advanced Modding & JAVA Programming with Minecraft"
+title 	: "JAVA programming with Minecraft"
 date 	: 2015-11-07 09:00:00
 rank    : 2
-camp_date_onMainPage 	: "December 14-18th"
+camp_date_onMainPage 	: "2016 Holidays"
 camp_date_onCampPage 	: "Monday to Friday (5 days)"
-camp_time	: "9:30-12:00pm, 2.5 hours each day"
+camp_time	: "2.5 hours each day"
 permalink   : /camps/adv-minecraft-java-camp
 categories  : [2014, midyear]
 tags	    : [camp, morning, minecraft, 10-13]
@@ -13,10 +13,10 @@ age_group 	: 11 - 15 years old
 location	: Starbucks@TTDI KL, Conference Room
 image		: /camps/images/advminecraft/minecraft_camp.png
 banner		: /camps/images/advminecraft/minecraft_camp_banner.png
-registration_urls		: ["http://www.eventbrite.com/e/advanced-modding-java-programming-with-minecraft-tickets-19454530023"]
-registration_dates		: ["Dec 14-18<sup>th</sup>"]
+registration_urls		: ["https://docs.google.com/forms/d/1ViD67tarerMWFigAqNzX000VbiS45SDaqwV6mL-KLjQ/viewform"]
+registration_dates		: ["Ages 11-15"]
 registration_statuses	: [true]
-registration_text : ["Register Now"]
+registration_text : ["Register Interest"]
 keep_me_informed_url	: "/#contact"
 show_onMainPage : true
 main_page_buttons : <a href="/camps/adv-minecraft-java-camp" class="btn btn-lg pad-c btn-primary-pale">5-day Camp</a>

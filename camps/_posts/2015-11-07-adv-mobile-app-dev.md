@@ -3,9 +3,9 @@ layout 	: camp
 title 	: "Advanced Mobile App Development with App Inventor"
 date 	: 2015-11-07 09:00:00
 rank    : 3
-camp_date_onMainPage 	: "December 14-18th"
+camp_date_onMainPage 	: "2016 Holidays"
 camp_date_onCampPage 	: "Monday to Friday (5 days)"
-camp_time	: "2:30-5:00pm, 2.5 hours each day"
+camp_time	: "2.5 hours each day"
 permalink   : /camps/adv-mobile-app-dev
 categories  : [camps, mobile-app-dev]
 tags	    : [camp, morning, mobile, app, 11-14]
@@ -13,10 +13,10 @@ age_group 	: 11 - 15 years old
 location	: Starbucks@TTDI KL, Conference Room
 image		: /camps/images/advmobileapp/mobileapp_camp.png
 banner		: /camps/images/advmobileapp/mobileapp_camp_banner.png
-registration_urls		: ["http://www.eventbrite.com/e/advanced-mobile-app-development-with-appinventor-tickets-19454403645"]
-registration_dates		: ["Dec 14-18<sup>th</sup>"]
+registration_urls		: ["https://docs.google.com/forms/d/1ViD67tarerMWFigAqNzX000VbiS45SDaqwV6mL-KLjQ/viewform"]
+registration_dates		: ["Ages 11-15"]
 registration_statuses	: [true]
-registration_text : ["Register Now"]
+registration_text : ["Register Interest"]
 keep_me_informed_url	: "/#contact"
 show_onMainPage : true
 main_page_buttons : <a href="/camps/adv-mobile-app-dev" class="btn btn-lg pad-c btn-primary-pale">5-day Camp</a>

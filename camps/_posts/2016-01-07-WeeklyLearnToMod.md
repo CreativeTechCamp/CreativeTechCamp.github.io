@@ -12,10 +12,10 @@ permalink   : /MinecraftModding
 categories  : [2016, MinecraftModding]
 tags    	: [camp, littlebits, scratch, appinventor, minecraft]
 age_group 	: 8-10, 11-15 years old
-location	: Starbucks @ TTDI, KL
+location	: Bukit Damansara
 image		: /camps/images/minecraftmodding/minecraft_modding_weeklyclass_mainPage.png
 banner		: /camps/images/minecraftmodding/minecraft_modding_weeklyclass_banner.png
-registration_dates	: ["Alumni and Friends"]
+registration_dates	: ["For Alumni and Friends"]
 registration_urls	: ["https://docs.google.com/forms/d/1P6T4M-Af2CRzdu5RnH8qKXmqq5lRFFbcKrgTQLudRF4/viewform"]
 registration_statuses	: [true]
 registration_text : ["By Invitation"]
@@ -43,7 +43,7 @@ excerpt: To appreciate the CreativeTech Camp alumni, we invite you to an exclusi
 	<tr>
 		<th>Location</th>
         <td/>
-		<td style='padding:5px 10px 5px 5px'>To be confirmed (either at Bukit Damansara or at Starbucks TTDI)
+		<td style='padding:5px 10px 5px 5px'>Bukit Damansara
         </td>
 	</tr>
     <tr>
@@ -53,10 +53,10 @@ excerpt: To appreciate the CreativeTech Camp alumni, we invite you to an exclusi
 	</tr>
 </table>
 
-##What is this Exclusive Preview about?
+##What is this Weekend Classes Preview about?
 Due to popular demand, we have come up with regular weekend classes for Minecraft lovers starting in April. In these classes, students get to enhance their Minecraft-hacking skills by modding their own games in Minecraft while learning fundamentals in Computer Science. We will code special blocks, #Ore-some abilities and more!
 
-To appreciate the CreativeTech Camp alumni, we invite you to an exclusive preview of the weekend class. 
+To appreciate our CreativeTech Camp alumni, we would like to invite you to for this exclusive preview of the weekend class. 
 
 ##Featured Tool
 * Minecraft

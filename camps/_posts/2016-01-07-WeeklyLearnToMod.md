@@ -1,6 +1,6 @@
 ---
 layout	: camp
-title 	: "Exclusive Preview - Weekend Classes: #Ore-some Minecraft Hacking"
+title 	: "Weekend Classes Preview : #Ore-some Minecraft Hacking"
 date  	: 2016-01-07 09:00:00
 rank    : 1
 camp_date_onMainPage 	: "23rd or 30th Jan"

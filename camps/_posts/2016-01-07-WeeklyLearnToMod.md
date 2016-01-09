@@ -1,6 +1,6 @@
 ---
 layout	: camp
-title 	: "Introduction to Ore-some Saturdays: Minecraft Modding"
+title 	: "Introduction to #Ore-some Saturdays: Minecraft Modding"
 date  	: 2016-01-07 09:00:00
 rank    : 1
 camp_date_onMainPage 	: "23rd Jan (Ages 8-10), 30th Jan (Ages 11-14)"
@@ -22,7 +22,7 @@ registration_text : ["By Invitation"]
 keep_me_informed_url	: "/#contact"
 show_onMainPage : true
 main_page_buttons : <a href="/MinecraftModding" class="btn btn-lg pad-c btn-primary-pale" target="_blank">Learn more</a>
-excerpt: "We are starting our Ore-some Saturdays weekly classes. To appreciate our CreativeTech Camp alumni, we would like to invite you to an exclusive introduction this January" 
+excerpt: "We are starting our #Ore-some Saturdays weekly classes. To appreciate our CreativeTech Camp alumni, we would like to invite you to an exclusive introduction this January" 
 ---
 
 ##Details
@@ -54,9 +54,9 @@ excerpt: "We are starting our Ore-some Saturdays weekly classes. To appreciate o
 </table>
 
 ##Exclusive Introduction for our Alumni 
-To appreciate our CreativeTech Camp alumni, we would like to invite you to for this exclusive introduction to the Ore-some Saturdays class. 
+To appreciate our CreativeTech Camp alumni, we would like to invite you to for this exclusive introduction to the #Ore-some Saturdays class. 
 
-##What is this Ore-some Saturdays about?
+##What is this #Ore-some Saturdays about?
 Due to popular demand, we have come up with regular weekend classes for Minecraft lovers starting in April. In these classes, students get to enhance their Minecraft modding skills by enhancing their own games in Minecraft while learning fundamentals in Computer Science. We will code special blocks, #Ore-some abilities and more!
 
 Below are the details of the weekly classes.

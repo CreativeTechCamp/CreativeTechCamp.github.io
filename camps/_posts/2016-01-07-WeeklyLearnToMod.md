@@ -1,6 +1,6 @@
 ---
 layout	: camp
-title 	: "Introduction to #Ore-some Saturdays: Minecraft Modding"
+title 	: "Introduction to #Oresome Saturdays: Minecraft Modding"
 date  	: 2016-01-07 09:00:00
 rank    : 1
 camp_date_onMainPage 	: "23rd Jan (Ages 8-10), 30th Jan (Ages 11-14)"

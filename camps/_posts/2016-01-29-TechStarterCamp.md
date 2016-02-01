@@ -20,7 +20,7 @@ registration_dates	    : ["March 14-18"]
 registration_urls	    : ["http://goo.gl/forms/Gf8HNT5Ceg"]
 registration_statuses	: [true]
 keep_me_informed_url	: "/#contact"
-show_onMainPage : false
+show_onMainPage : true
 main_page_buttons : <a href="/TechStarter" class="btn btn-lg pad-c btn-primary-pale">Learn more</a>
 excerpt: WE ARE LAUNCHING! The all-new, exciting Tech Starter Camp is taking off!
 ---

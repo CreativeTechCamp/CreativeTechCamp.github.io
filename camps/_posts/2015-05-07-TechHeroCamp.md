@@ -14,13 +14,13 @@ tags    	: [camp, littlebits, scratch, appinventor, minecraft]
 age_group 	: 8-10, 11-15 years old
 location	: Starbucks @ TTDI, KL
 image		: /camps/images/TechHero/TechHeroFront.png
-banner		: /camps/images/TechHero/GLOBAL MAKEATHON-250-banner.jpg
-registration_dates	: ["Ages 8-10, Ages 11-15"]
-registration_urls	: ["https://docs.google.com/forms/d/1ViD67tarerMWFigAqNzX000VbiS45SDaqwV6mL-KLjQ/viewform"]
+banner		: 
+registration_dates	: ["Newly launched!"]
+registration_urls	: ["/TechStarter"]
 registration_statuses	: [true]
-registration_text : ["Register Interest"]
+registration_text : ["Upgraded to Tech Starter"]
 keep_me_informed_url	: "/#contact"
-show_onMainPage : true
+show_onMainPage : false
 main_page_buttons : <a href="/TechHero" class="btn btn-lg pad-c btn-primary-pale" target="_blank">Learn more</a>
 excerpt: Challenge your mind to design, create, and build. Push the boundaries this school holidays and emerge as our TECH HERO!
 ---

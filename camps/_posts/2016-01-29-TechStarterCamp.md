@@ -62,13 +62,13 @@ excerpt: WE ARE LAUNCHING! The all-new, exciting Tech Starter Camp is taking off
     In this camp, kids will get a taste of 3 different tech experiences. 
     </p>
     <ul>
-    <li>Learn to Code using Scratch of App Inventor</li>
+    <li>Learn to Code using Scratch or App Inventor</li>
     <li>Make your own game with Minecraft</li>
     <li>Design thinking using electronics</li>
     </ul>
     
     <p>    
-    Using programming languages like Scratch and App Inventor, students will make their own games and apps. They'll develop a deeper understanding of how coding are used to create mods in Minecraft using the Java programming language. Students will also get hands-on experience working with electronics (Arduino/Adafruit Gemma) to build a working prototype. 
+    Using programming languages like Scratch and App Inventor, students will make their own games and apps. They'll develop a deeper understanding of how coding is used to create mods in Minecraft using the Java programming language. Students will also get hands-on experience working with electronics (Arduino/Adafruit Gemma) to build a working prototype. 
     </p>
     
     <p>
@@ -80,7 +80,7 @@ excerpt: WE ARE LAUNCHING! The all-new, exciting Tech Starter Camp is taking off
     </div>
 </div>
 
-###Featured Tool
+###Featured Tools
 * Scratch (by MIT) : Ages 8-10
 * App Inventor (by MIT) : Ages 11-14
 * Minecraft with Java Programming; Java™ (Eclipse®)

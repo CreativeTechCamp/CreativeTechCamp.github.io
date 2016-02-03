@@ -1,7 +1,7 @@
 ---
 layout	: camp
-title 	:  "Tech Starter Camp"
-date  	:   2016-01-29 09:00:00
+title 	: "Tech Starter Camp"
+date  	: 2016-01-29 09:00:00
 rank    : 1
 camp_date_onMainPage 	: "March 14-18"
 camp_date_onCampPage 	: "Monday to Friday (5 days)"

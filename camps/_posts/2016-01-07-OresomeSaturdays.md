@@ -26,7 +26,7 @@ excerpt: "We are officially kicking off #Oresome Saturdays this month. This regu
  
 ---
 
-##What is this #Oresome Saturdays about?
+## What is this #Oresome Saturdays about?
 Due to popular demand, we have come up with regular weekend classes for Minecraft lovers starting in February after CNY. In these classes, students get to enhance their Minecraft modding skills by enhancing their own games in Minecraft while learning fundamentals in Computer Science. We will code special blocks, #Oresome abilities and more!
 
 Below are the details of the weekly classes.

@@ -23,7 +23,7 @@ main_page_buttons : <a href="/camps/adv-mobile-app-dev" class="btn btn-lg pad-c 
 excerpt		: Engage the mobile space as creators regardless of their computer programming knowledge
 ---
 
-##Details
+<h2>Details</h2>
 <table style="white-space: nowrap">
     <col width="13%">
     <col width="3%">
@@ -65,14 +65,18 @@ excerpt		: Engage the mobile space as creators regardless of their computer prog
 	</tr>
 </table>
 
-##Requirements
-* Classes conducted in English and elementary reading level requirement
-* Bring your own laptop (PC, Linux or Mac), power supply and mouse
+<h2>Requirements</h2>
+<ul>
+<li> Classes conducted in English and elementary reading level requirement </li>
+<li> Bring your own laptop (PC, Linux or Mac), power supply and mouse </li>
+</ul>
 
-##Featured Software
-App Inventor (Developed by Massachusetts Institute of Technology-MIT & Google)
+<h2>Featured Software</h2>
+<ul>
+<li>App Inventor (Developed by Massachusetts Institute of Technology-MIT & Google) </li>
+</ul>
 
-##Camp Description
+<h2>Camp Description</h2>
 <div class="row">
 
     <div class="col-md-8">

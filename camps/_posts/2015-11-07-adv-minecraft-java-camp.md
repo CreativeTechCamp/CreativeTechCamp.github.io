@@ -22,7 +22,7 @@ show_onMainPage : true
 main_page_buttons : <a href="/camps/adv-minecraft-java-camp" class="btn btn-lg pad-c btn-primary-pale">5-day Camp</a>
 excerpt		: Discover the powerful world of Java programming through Minecraft. Start with the fundamentals of Java and Minecraft tools, then start modding!
 ---
-##Details
+<h2>Details</h2>
 
 <table style="white-space: nowrap">
     <col width="13%">
@@ -65,14 +65,18 @@ excerpt		: Discover the powerful world of Java programming through Minecraft. St
 	</tr>
 </table>
 
-##Requirements
-* Classes conducted in English and elementary reading level requirement
-* Bring your own laptop (PC, Linux or Mac), power supply and mouse
+<h2>Requirements</h2>
+<ul>
+<li> Classes conducted in English and elementary reading level requirement </li>
+<li> Bring your own laptop (PC, Linux or Mac), power supply and mouse </li>
+</ul>
 
-##Featured Software
-Minecraft | Java™ (Eclipse®)
+<h2>Featured Software</h2>
+<ul>
+<li> Minecraft | Java™ (Eclipse®)</li>
+</ul>
 
-##Camp Description
+<h2>Camp Description</h2>
 
 <div class="row">
     <div class="col-md-8">

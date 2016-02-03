@@ -26,12 +26,12 @@ excerpt: "We are officially kicking off #Oresome Saturdays this month. This regu
  
 ---
 
-##What is this Oresome Saturdays about?
+<h2>What is this Oresome Saturdays about? </h2>
 Due to popular demand, we have come up with regular weekend classes for Minecraft lovers starting in February after CNY. In these classes, students get to enhance their Minecraft modding skills by enhancing their own games in Minecraft while learning fundamentals in Computer Science. We will code special blocks, Oresome abilities and more!
 
 Below are the details of the weekly classes.
 
-###Minecraft Modders
+<h3>Minecraft Modders</h3>
 <table style="white-space: nowrap">
     <col width="13%" />
     <col width="87%" />
@@ -62,8 +62,7 @@ Below are the details of the weekly classes.
 </table>
 
 
-
-###Minecraft Masters
+<h3>Minecraft Masters</h3>
 <table style="white-space: nowrap">
     <col width="13%" />
     <col width="87%" />
@@ -94,11 +93,15 @@ Below are the details of the weekly classes.
 </table>
 
    
-##Featured Tool
-* Minecraft
+<h2>Featured Tool</h2>
+<ul>
+<li> Minecraft </li>
+</ul>
 
-##What to pack?
-* Bring your own laptop (PC, Linux or Mac), power supply and mouse
-* Pre-installed Minecraft (If there is no Minecraft, there is a Minecraft simulator to test out their creations)
-* Firefox browser pre-installed
-* No prior programming experience needed
+<h2>What to pack?</h2>
+<ul>
+<li> Bring your own laptop (PC, Linux or Mac), power supply and mouse</li>
+<li> Pre-installed Minecraft (If there is no Minecraft, there is a Minecraft simulator to test out their creations)</li>
+<li> Firefox browser pre-installed </li>
+<li> No prior programming experience needed </li>
+</ul>

@@ -25,7 +25,7 @@ main_page_buttons : <a href="/TechStarter" class="btn btn-lg pad-c btn-primary-p
 excerpt: WE ARE LAUNCHING! The all-new, exciting Tech Starter Camp is taking off!
 ---
 
-##Details
+<h2>Details</h2>
 <table style="white-space: nowrap">
     <col width="13%">
     <col width="3%">
@@ -53,7 +53,7 @@ excerpt: WE ARE LAUNCHING! The all-new, exciting Tech Starter Camp is taking off
 	</tr>
 </table>
 
-##What is this camp about?
+<h2>What is this camp about?</h2>
 <div class="row">
     <div class="col-md-8">
     <img class="pad img-responsive" src='/camps/images/TechStarter/MainTracks.svg' />
@@ -80,17 +80,19 @@ excerpt: WE ARE LAUNCHING! The all-new, exciting Tech Starter Camp is taking off
     </div>
 </div>
 
-###Featured Tools
-* Scratch (by MIT) : Ages 8-10
-* App Inventor (by MIT) : Ages 11-14
-* Minecraft with Java Programming; Java™ (Eclipse®)
-* Arduino™/Adafruit™ Gemma
+<h3>Featured Tools</h3>
+<ul>
+<li> Scratch (by MIT) : Ages 8-10 </li>
+<li> App Inventor (by MIT) : Ages 11-14 </li>
+<li> Minecraft with Java Programming; Java™ (Eclipse®) </li>
+<li> Arduino™/Adafruit™ Gemma </li>
+</ul>
 
-
-###What to pack?
-* Bring your own laptop (PC, Linux or Mac), power supply and mouse
-* [Optional] For kids Ages 11-14, please bring along an Android device (phone/tablet) 
-* No prior programming experience needed
-
+<h3>What to pack?</h3>
+<ul>
+<li> Bring your own laptop (PC, Linux or Mac), power supply and mouse </li>
+<li> [Optional] For kids Ages 11-14, please bring along an Android device (phone/tablet) </li>
+<li> No prior programming experience needed </li>
+</ul>
 
 

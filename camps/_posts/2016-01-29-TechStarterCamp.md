@@ -89,7 +89,7 @@ excerpt: WE ARE LAUNCHING! The all-new, exciting Tech Starter Camp is taking off
 
 ###What to pack?
 * Bring your own laptop (PC, Linux or Mac), power supply and mouse
-* [Optional] For kids Ages 11-15, please bring along an Android device (phone/tablet) 
+* [Optional] For kids Ages 11-14, please bring along an Android device (phone/tablet) 
 * No prior programming experience needed
 
 

@@ -8,7 +8,7 @@ camp_date_onCampPage 	: "Monday to Friday (5 days)"
 camp_time	: "2.5 hours each day"
 url_alt : 
 url_alt_flag : false
-permalink   : /TechHero
+permalink   : /TechHero/
 categories  : [2015, TechHero]
 tags    	: [camp, littlebits, scratch, appinventor, minecraft]
 age_group 	: 8-10, 11-15 years old

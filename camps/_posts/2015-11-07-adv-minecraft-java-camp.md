@@ -6,7 +6,7 @@ rank    : 2
 camp_date_onMainPage 	: "2016 Holidays"
 camp_date_onCampPage 	: "Monday to Friday (5 days)"
 camp_time	: "2.5 hours each day"
-permalink   : /camps/adv-minecraft-java-camp
+permalink   : /camps/adv-minecraft-java-camp/
 categories  : [2014, midyear]
 tags	    : [camp, morning, minecraft, 10-13]
 age_group 	: 11 - 15 years old

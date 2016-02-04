@@ -6,7 +6,7 @@ rank    : 3
 camp_date_onMainPage 	: "2016 Holidays"
 camp_date_onCampPage 	: "Monday to Friday (5 days)"
 camp_time	: "2.5 hours each day"
-permalink   : /camps/adv-mobile-app-dev
+permalink   : /camps/adv-mobile-app-dev/
 categories  : [camps, mobile-app-dev]
 tags	    : [camp, morning, mobile, app, 11-14]
 age_group 	: 11 - 15 years old

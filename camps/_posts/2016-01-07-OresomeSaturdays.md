@@ -8,7 +8,7 @@ camp_date_onCampPage 	: "Saturdays (Starting Feb 20th)"
 camp_time	: "9:30-11am (Ages 8-10) or 11:30-1pm (Ages 11-14)"
 url_alt : 
 url_alt_flag : false
-permalink   : /OresomeSaturdays
+permalink   : /OresomeSaturdays/
 categories  : [2016, MinecraftModding, OresomeSaturdays]
 tags    	: [weekly, minecraft]
 age_group 	: 8-10, 11-14 years old

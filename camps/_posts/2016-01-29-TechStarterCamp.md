@@ -25,6 +25,9 @@ main_page_buttons : <a href="/TechStarter" class="btn btn-lg pad-c btn-primary-p
 excerpt: WE ARE LAUNCHING! The all-new, exciting Tech Starter Camp is taking off!
 ---
 
+<div class="row">
+    <div class="col-md-8">
+
 <h2>Details</h2>
 <table style="white-space: nowrap">
     <col width="13%">
@@ -54,8 +57,6 @@ excerpt: WE ARE LAUNCHING! The all-new, exciting Tech Starter Camp is taking off
 </table>
 
 <h2>What is this camp about?</h2>
-<div class="row">
-    <div class="col-md-8">
     <img class="pad img-responsive" src='/camps/images/TechStarter/MainTracks.svg' />
     
     <p>
@@ -77,6 +78,8 @@ excerpt: WE ARE LAUNCHING! The all-new, exciting Tech Starter Camp is taking off
     
     </div>
     <div class="col-md-4">
+        <br/><br/>
+        <img class="pad img-responsive" src='/camps/images/TechStarter/discounts-vertical.svg' width='60%'/>
     </div>
 </div>
 

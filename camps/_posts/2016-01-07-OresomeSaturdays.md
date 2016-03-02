@@ -3,8 +3,8 @@ layout	: camp
 title 	: "#Oresome Saturdays: Minecraft Modding"
 date  	: 2016-01-07 09:00:00
 rank    : 1
-camp_date_onMainPage 	: "Saturdays (Starting Feb 20th)"
-camp_date_onCampPage 	: "Saturdays (Starting Feb 20th)"
+camp_date_onMainPage 	: "Saturdays"
+camp_date_onCampPage 	: "Saturdays"
 camp_time	: "9:30-11am (Ages 8-10) or 11:30-1pm (Ages 11-14)"
 url_alt : 
 url_alt_flag : false

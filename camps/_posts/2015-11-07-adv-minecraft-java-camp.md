@@ -31,17 +31,17 @@ excerpt		: Discover the powerful world of Java programming through Minecraft. St
 	<tr>
 		<th>Camp Dates</th>
         <td/>
-		<td style='padding:5px 10px 5px 5px'>December 14-18th, 5 days camp (Monday-Friday)</td>
+		<td style='padding:5px 10px 5px 5px'>2016 Holidays (TBD)</td>
 	</tr>
     <tr>
 		<th>Time</th>
         <td/>
-		<td style='padding:5px 10px 5px 5px'>9:30am - 12:00pm (2.5 hours each day)</td>
+		<td style='padding:5px 10px 5px 5px'>2.5 hours each day</td>
 	</tr>
     <tr>
 		<th>Ages</th>
         <td/>
-		<td style='padding:5px 10px 5px 5px'>11-15</td>
+		<td style='padding:5px 10px 5px 5px'>11-14</td>
 	</tr>	
 	<tr>
 		<th>Skill Level</th>
@@ -51,17 +51,17 @@ excerpt		: Discover the powerful world of Java programming through Minecraft. St
 	<tr>
 		<th>Location</th>
         <td/>
-		<td style='padding:5px 10px 5px 5px'>Starbucks@TTDI KL, Conference Room</td>
+		<td style='padding:5px 10px 5px 5px'>Plaza Damansara, Damansara Heights</td>
 	</tr>
     <tr>
 		<th>Class Size</th>
         <td/>
-		<td style='padding:5px 10px 5px 5px'> 20 students (minimum 8 students to start camp)</td>
+		<td style='padding:5px 10px 5px 5px'> 15 students</td>
 	</tr>
     <tr>
 		<th>Price</th>
         <td/>
-		<td style='padding:5px 10px 5px 5px'>RM 1,099 (Early bird: RM 899)</td>
+		<td style='padding:5px 10px 5px 5px'>RM 1,099</td>
 	</tr>
 </table>
 

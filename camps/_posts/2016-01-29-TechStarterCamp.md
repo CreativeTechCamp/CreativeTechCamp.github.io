@@ -1,9 +1,9 @@
 ---
 layout	: camp
 title 	: "Tech Starter Camp"
-date  	: 2016-01-29 09:00:00
+date  	: 2016-03-23 09:00:00
 rank    : 1
-camp_date_onMainPage 	: "Easter Break"
+camp_date_onMainPage 	: "Easter Holiday Camps"
 camp_date_onCampPage 	: "Monday to Friday (5 days)"
 camp_time	: "2.5 hours each day"
 url_alt : 
@@ -14,7 +14,7 @@ tags    	: [camp, arduino, adafruit, gemma, scratch, appinventor, minecraft]
 age_group 	: 8-10, 11-14 years old
 location	: Plaza Damansara, Damansara Heights
 image		: /camps/images/TechStarter/TechStarterFront.png
-banner		: /camps/images/TechStarter/GLOBAL MAKEATHON-250-banner.jpg
+banner		: /camps/images/TechStarter/TechStarter_WebBanner.png
 registration_text       : ["Register Now"]
 registration_dates	    : ["3 camp dates"]
 registration_urls	    : ["http://goo.gl/forms/A01crCr0iB"]

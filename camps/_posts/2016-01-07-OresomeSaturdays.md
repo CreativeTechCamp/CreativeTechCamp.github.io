@@ -22,12 +22,12 @@ registration_statuses	: [true]
 keep_me_informed_url	: "/#contact"
 show_onMainPage : true
 main_page_buttons : <a href="/OresomeSaturdays" class="btn btn-lg pad-c btn-primary-pale" target="_blank">Learn more</a>
-excerpt: "We are officially kicking off #Oresome Saturdays this month. This regular class focused on Minecraft will run every Saturday"
+excerpt: "This regular class focused on Modding in Minecraft and it runs every Saturday"
  
 ---
 
 <h2>What is this Oresome Saturdays about? </h2>
-Due to popular demand, we have come up with regular weekend classes for Minecraft lovers starting in February after CNY. In these classes, students get to enhance their Minecraft modding skills by enhancing their own games in Minecraft while learning fundamentals in Computer Science. We will code special blocks, Oresome abilities and more!
+Due to popular demand, we have come up with regular weekend classes for Minecraft lovers. In these classes, students get to enhance their Minecraft modding skills by enhancing their own games in Minecraft while learning fundamentals in Computer Science. We will code special blocks, Oresome abilities and more!
 
 Below are the details of the weekly classes.
 
@@ -42,10 +42,6 @@ Below are the details of the weekly classes.
     <tr>
         <th>Duration:</th>
         <td>10 sessions</td>
-    </tr>
-    <tr>
-        <th>Dates:</th>
-        <td>Saturdays between Feb 20th to April 30</td>
     </tr>
     <tr>
         <th>Time:</th>
@@ -73,10 +69,6 @@ Below are the details of the weekly classes.
     <tr>
         <th>Duration:</th>
         <td>10 sessions </td>
-    </tr>
-    <tr>
-        <th>Dates:</th>
-        <td>Saturdays between Feb 20th to April 30</td>
     </tr>
     <tr>
         <th>Time:</th>

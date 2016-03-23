@@ -1,6 +1,6 @@
 ---
 layout	: camp
-title 	: "Tech Starter Camp"
+title 	: "Easter School Holiday - Tech Starter Camp"
 date  	: 2016-03-22 09:00:00
 rank    : 1
 camp_date_onMainPage 	: "Easter Holiday Camps"

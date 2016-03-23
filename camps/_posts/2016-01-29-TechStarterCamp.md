@@ -3,7 +3,7 @@ layout	: camp
 title 	: "Tech Starter Camp"
 date  	: 2016-01-29 09:00:00
 rank    : 1
-camp_date_onMainPage 	: "March 14-18"
+camp_date_onMainPage 	: "Easter Break"
 camp_date_onCampPage 	: "Monday to Friday (5 days)"
 camp_time	: "2.5 hours each day"
 url_alt : 
@@ -16,8 +16,8 @@ location	: Plaza Damansara, Damansara Heights
 image		: /camps/images/TechStarter/TechStarterFront.png
 banner		: /camps/images/TechStarter/GLOBAL MAKEATHON-250-banner.jpg
 registration_text       : ["Register Now"]
-registration_dates	    : ["March 14-18"]
-registration_urls	    : ["http://goo.gl/forms/Gf8HNT5Ceg"]
+registration_dates	    : ["3 camp dates"]
+registration_urls	    : ["http://goo.gl/forms/A01crCr0iB"]
 registration_statuses	: [true]
 keep_me_informed_url	: "/#contact"
 show_onMainPage : true
@@ -29,19 +29,20 @@ excerpt: WE ARE LAUNCHING! The all-new, exciting Tech Starter Camp is taking off
     <div class="col-md-8">
 
 <h2>Details</h2>
-<table style="white-space: nowrap">
+<table style="white-space: nowrap; font-size:110%">
     <col width="13%">
     <col width="3%">
     <col width="84%">
     <tr>
-		<th style='font-size:120%'>Dates</th>
+		<th valign='top'>Dates & Times</th>
         <td/>
-		<td style='padding:5px 10px 5px 5px; font-size:120%'>Monday to Friday (5-days camp)</td>
-	</tr>
-    <tr>
-		<th>Time</th>
-        <td/>
-		<td style='padding:5px 10px 5px 5px'>Ages 8-10 : 9:30-12:00pm<br/> Ages 11-14 : 2:30-5:00pm</td>
+		<td style='padding:5px 10px 0px 5px'>
+            Monday to Friday (5-days camp) <br/><br/>
+         
+            Ages 8-10 : March 28 - April 01, 9:30am-12:00pm <br/>
+            Ages 8-10 : April 04 - April 08, 2:30pm- 5:00pm <br/>
+            Ages 11-14 : March 28 - April 01, 2:30pm- 5:00pm <br/>
+        </td>
 	</tr>
 	<tr>
 		<th>Location</th>

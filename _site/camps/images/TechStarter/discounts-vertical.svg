@@ -10,8 +10,8 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="315.45215"
-   height="437.35992"
+   width="310.22818"
+   height="264.68082"
    id="svg3828"
    version="1.1"
    inkscape:version="0.48.4 r9939"
@@ -113,8 +113,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.63408081"
-     inkscape:cx="492.05676"
+     inkscape:zoom="1.3325605"
+     inkscape:cx="155.21287"
      inkscape:cy="277.74764"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -136,7 +136,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -144,7 +144,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-22.802277,-270.41699)">
+     transform="translate(-28.026251,-443.09609)">
     <path
        sodipodi:type="arc"
        style="fill:#f07f09;fill-opacity:1;stroke:#f07f09;stroke-width:5;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
@@ -205,11 +205,6 @@
        d="m 28.526251,579.11265 309.228169,0"
        id="path3031-5"
        inkscape:connector-curvature="0" />
-    <path
-       style="fill:#808080;stroke:#808080;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 23.302277,406.93907 309.228163,0"
-       id="path3031"
-       inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:110.00000238%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Munro Small;-inkscape-font-specification:Munro Small"
@@ -264,56 +259,5 @@
          y="685.04822"
          style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;text-anchor:middle;fill:#ffffff;font-family:Montserrat;-inkscape-font-specification:Montserrat"
          id="tspan3030-0">discount</tspan></text>
-    <path
-       sodipodi:type="arc"
-       style="fill:#f07f09;fill-opacity:1;stroke:#f07f09;stroke-width:5;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="path6588-7-4"
-       sodipodi:cx="77.387451"
-       sodipodi:cy="80.378159"
-       sodipodi:rx="60.083424"
-       sodipodi:ry="60.083424"
-       d="m 137.47087,80.378159 c 0,33.183161 -26.90026,60.083421 -60.083419,60.083421 -33.183158,0 -60.083423,-26.90026 -60.083423,-60.083421 0,-33.183159 26.900265,-60.083424 60.083423,-60.083424 33.183159,0 60.083419,26.900265 60.083419,60.083424 z"
-       transform="matrix(0.71957556,0,0,0.71957556,23.286915,257.61233)" />
-    <text
-       xml:space="preserve"
-       style="font-size:77.05735016px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Munro Small;-inkscape-font-specification:Munro Small"
-       x="79.855423"
-       y="318.19461"
-       id="text7100-1-8"
-       sodipodi:linespacing="100%"><tspan
-         sodipodi:role="line"
-         id="tspan7102-9-8"
-         x="79.855423"
-         y="318.19461"
-         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;text-anchor:middle;fill:#ffffff;font-family:Montserrat;-inkscape-font-specification:Montserrat">15%</tspan><tspan
-         sodipodi:role="line"
-         x="79.855423"
-         y="336.73541"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;text-anchor:middle;fill:#ffffff;font-family:Montserrat;-inkscape-font-specification:Montserrat"
-         id="tspan3030-2">discount</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:110.00000238%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Munro Small;-inkscape-font-specification:Munro Small"
-       x="149.22519"
-       y="309.16861"
-       id="text7104-1-4"
-       sodipodi:linespacing="110%"><tspan
-         sodipodi:role="line"
-         x="149.22519"
-         y="309.16861"
-         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:110.00000238%;font-family:Montserrat;-inkscape-font-specification:Montserrat"
-         id="tspan7145-5">Early Bird</tspan><tspan
-         sodipodi:role="line"
-         x="149.22519"
-         y="338.29309"
-         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:110.00000238%;font-family:Montserrat;-inkscape-font-specification:Montserrat"
-         id="tspan3035-5">ends Friday </tspan><tspan
-         sodipodi:role="line"
-         x="149.22519"
-         y="364.69308"
-         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:110.00000238%;font-family:Montserrat;-inkscape-font-specification:Montserrat"
-         id="tspan3039-1">March 4<tspan
-   style="font-size:14px;baseline-shift:super;font-weight:normal;-inkscape-font-specification:Montserrat"
-   id="tspan3042-7">th</tspan></tspan></text>
   </g>
 </svg>

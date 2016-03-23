@@ -21,7 +21,7 @@ registration_urls	: ["http://goo.gl/forms/4GyG8sIopc"]
 registration_statuses	: [true]
 keep_me_informed_url	: "/#contact"
 show_onMainPage : true
-main_page_buttons : <a href="/OresomeSaturdays" class="btn btn-lg pad-c btn-primary-pale" target="_blank">Learn more</a>
+main_page_buttons : <a href="/ScratchItSaturdays/" class="btn btn-lg pad-c btn-primary-pale" target="_blank">Learn more</a>
 excerpt: "Itching to learn some coding. This class focuses to bring up the young coder in your child"
  
 ---

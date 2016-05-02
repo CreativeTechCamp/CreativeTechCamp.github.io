@@ -1,11 +1,13 @@
 ---
 layout 	: camp
 title 	: "Mobile App Development with App Inventor"
-date 	: 2016-05-02 09:00:00
+date 	: 2016-05-01 09:00:00
 rank    : 3
 camp_date_onMainPage 	: "2016 Mid-Year holidays"
 camp_date_onCampPage 	: "Monday to Friday (5 days)"
 camp_time	: "2.5 hours each day"
+url_alt : 
+url_alt_flag : false
 permalink   : /camps/mobile-app-dev/
 categories  : [camps, mobile-app-dev]
 tags	    : [camp, morning, mobile, app, 11-14]

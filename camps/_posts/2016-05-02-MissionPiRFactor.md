@@ -1,6 +1,6 @@
 ---
 layout	: camp
-title 	: "Mission Pi: The Raspberry Factor"
+title 	: "Mission Pi: The Rasp Factor"
 date  	: 2016-05-01 09:00:00
 rank    : 5
 camp_date_onMainPage 	: "2016 mid-year holidays" 

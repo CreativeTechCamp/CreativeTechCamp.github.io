@@ -13,8 +13,8 @@ categories  : [2016, MinecraftModding, OresomeSaturdays]
 tags    	: [weekly, minecraft]
 age_group 	: 8-10, 11-14 years old
 location	: Bukit Damansara
-image		: /camps/images/OresomeSaturdays/minecraft_modding_weeklyclass_mainPage.png
-banner		: /camps/images/OresomeSaturdays/minecraft_modding_weeklyclass_banner.png
+image		: /regularclasses/images/OresomeSaturdays/minecraft_modding_weeklyclass_mainPage.png
+banner		: /regularclasses/images/OresomeSaturdays/minecraft_modding_weeklyclass_banner.png
 registration_text : ["Register Now"]
 registration_dates	: ["Weekly on Saturdays"]
 registration_urls	: ["http://goo.gl/forms/4GyG8sIopc"]

@@ -56,7 +56,7 @@ layout: main
 <!-- Camps -->
 <section id="camps" class="ctc-main-section">
 <div class="container">
-<h2>Camps, Classes & Events</h2>
+<h2>Camps</h2>
 <ul class="list-unstyled">
   
   {% assign sorted_camps = (site.categories.camps | sort: 'rank') %}
@@ -94,6 +94,50 @@ layout: main
 </ul>
 </div>
 </section>
+
+
+<!-- Regular Classes -->
+<section id="regularclasses" class="ctc-main-section">
+<div class="container">
+<h2>Regular Classes</h2>
+<ul class="list-unstyled">
+  
+  {% assign sorted_camps = (site.categories.regularclasses | sort: 'rank') %}
+  {% for camp in sorted_camps %}
+  {% if camp.show_onMainPage %}
+  <li class="col-md-12 ctc-camp-list-item">
+    <div class="col-md-2">
+      <a href="{% if camp.url_alt_flag %}{{ camp.url_alt }}{% else %}{{ camp.url }}{% endif %}">
+        <img class="img-responsive" src="{{ camp.image }}"/>
+      </a>
+    </div>
+
+    <div class="col-md-8">
+      <h3>
+        <a href="{% if camp.url_alt_flag %}{{ camp.url_alt }}{% else %}{{ camp.url }}{% endif %}" target="_blank" >{{ camp.title }} </a>
+      </h3>
+      <div class="ctc-camp-listing-logistics">
+        <!--
+        <span class="ctc-camp-listing-date">{{ camp.camp_date_onMainPage }}</span>
+        | -->
+        <span class="ctc-camp-listing-detail">{{ camp.age_group }}</span>
+        |
+        <span class="ctc-camp-listing-detail">{{ camp.camp_date_onMainPage  }}</span>
+      </div>
+      <hr/>
+      <p>{{camp.excerpt}}</p>
+    </div>
+    
+    <div class="col-md-2">
+        {{camp.main_page_buttons}}
+    </div>
+  </li>
+  {% endif %}
+  {% endfor %}
+</ul>
+</div>
+</section>
+
 
 <!-- About -->
 <section id="about" class="ctc-main-section">

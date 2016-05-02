@@ -13,8 +13,8 @@ categories  : [2016, ScratchItSaturdays]
 tags    	: [weekly, scratch]
 age_group 	: 8-10 years old
 location	: Bukit Damansara
-image		: /camps/images/ScratchItSaturdays/CTC_scratchit_2_WebFront.png
-banner		: /camps/images/ScratchItSaturdays/CTC_scratchit_2_WebBanner.png
+image		: /regularclasses/images/ScratchItSaturdays/CTC_scratchit_2_WebFront.png
+banner		: /regularclasses/images/ScratchItSaturdays/CTC_scratchit_2_WebBanner.png
 registration_text : ["Register Now"]
 registration_dates	: ["Weekly on Saturdays"]
 registration_urls	: ["http://goo.gl/forms/4GyG8sIopc"]

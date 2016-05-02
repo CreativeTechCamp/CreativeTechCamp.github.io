@@ -92,6 +92,10 @@ dd {
   color: white;
   margin-top: 64px; }
 
+#regularclasses {
+  background-color: #555;
+  color: white; }
+
 .ctc-camp-list-item {
   margin-bottom: 16px;
   padding: 16px;

@@ -18,7 +18,7 @@ registration_dates		: ["Ages 11-15"]
 registration_statuses	: [true]
 registration_text : ["Register Interest"]
 keep_me_informed_url	: "/#contact"
-show_onMainPage : true
+show_onMainPage : false
 main_page_buttons : <a href="/camps/adv-minecraft-java-camp" class="btn btn-lg pad-c btn-primary-pale">5-day Camp</a>
 excerpt		: Discover the powerful world of Java programming through Minecraft. Start with the fundamentals of Java and Minecraft tools, then start modding!
 ---

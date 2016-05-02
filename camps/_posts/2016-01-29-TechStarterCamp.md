@@ -1,9 +1,9 @@
 ---
 layout	: camp
-title 	: "Easter School Holiday - Tech Starter Camp"
+title 	: "Tech Starter Camp"
 date  	: 2016-03-22 09:00:00
 rank    : 1
-camp_date_onMainPage 	: "Easter Holiday Camps"
+camp_date_onMainPage 	: "Tech Starter Camp"
 camp_date_onCampPage 	: "Monday to Friday (5 days)"
 camp_time	: "2.5 hours each day"
 url_alt : 
@@ -20,8 +20,8 @@ registration_dates	    : ["3 camp dates"]
 registration_urls	    : ["http://goo.gl/forms/A01crCr0iB"]
 registration_statuses	: [true]
 keep_me_informed_url	: "/#contact"
-show_onMainPage : true
-main_page_buttons : <a href="/TechStarter" class="btn btn-lg pad-c btn-primary-pale">Learn more</a>
+show_onMainPage : false
+main_page_buttons : <a href="/TechStarter" class="btn btn-lg pad-c btn-primary-pale">5-day Camp</a>
 excerpt: WE ARE LAUNCHING! The all-new, exciting Tech Starter Camp is taking off!
 ---
 

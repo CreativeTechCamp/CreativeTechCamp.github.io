@@ -61,7 +61,7 @@ layout: main
   
   {% assign sorted_camps = (site.categories.camps | sort: 'rank') %}
   {% for camp in sorted_camps %}
-  {% if camp.show_onMainPage %}
+
   <li class="col-md-12 ctc-camp-list-item">
     <div class="col-md-2">
       <a href="{% if camp.url_alt_flag %}{{ camp.url_alt }}{% else %}{{ camp.url }}{% endif %}">
@@ -89,7 +89,7 @@ layout: main
         {{camp.main_page_buttons}}
     </div>
   </li>
-  {% endif %}
+
   {% endfor %}
 </ul>
 </div>

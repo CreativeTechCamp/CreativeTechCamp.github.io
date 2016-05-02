@@ -71,7 +71,7 @@ layout: main
 
     <div class="col-md-8">
       <h3>
-        <a href="{% if camp.url_alt_flag %}{{ camp.url_alt }}{% else %}{{ camp.url }}{% endif %}" target="_blank" >{{ camp.title }} </a>
+        <a href="{% if camp.url_alt_flag %}{{ camp.url_alt }}{% else %}{{ camp.url }}{% endif %}">{{ camp.title }} </a>
       </h3>
       <div class="ctc-camp-listing-logistics">
         <!--
@@ -102,34 +102,34 @@ layout: main
 <h2>Regular Classes</h2>
 <ul class="list-unstyled">
   
-  {% assign sorted_camps = (site.categories.regularclasses | sort: 'rank') %}
-  {% for camp in sorted_camps %}
-  {% if camp.show_onMainPage %}
+  {% assign sorted_regularclasses = (site.categories.regularclasses | sort: 'rank') %}
+  {% for regularclass in sorted_regularclasses %}
+  {% if regularclass.show_onMainPage %}
   <li class="col-md-12 ctc-camp-list-item">
     <div class="col-md-2">
-      <a href="{% if camp.url_alt_flag %}{{ camp.url_alt }}{% else %}{{ camp.url }}{% endif %}">
-        <img class="img-responsive" src="{{ camp.image }}"/>
+      <a href="{% if regularclass.url_alt_flag %}{{ regularclass.url_alt }}{% else %}{{ regularclass.url }}{% endif %}">
+        <img class="img-responsive" src="{{ regularclass.image }}"/>
       </a>
     </div>
 
     <div class="col-md-8">
       <h3>
-        <a href="{% if camp.url_alt_flag %}{{ camp.url_alt }}{% else %}{{ camp.url }}{% endif %}" target="_blank" >{{ camp.title }} </a>
+        <a href="{% if regularclass.url_alt_flag %}{{ regularclass.url_alt }}{% else %}{{ regularclass.url }}{% endif %}" target="_blank" >{{ regularclass.title }} </a>
       </h3>
       <div class="ctc-camp-listing-logistics">
         <!--
-        <span class="ctc-camp-listing-date">{{ camp.camp_date_onMainPage }}</span>
+        <span class="ctc-camp-listing-date">{{ regularclass.camp_date_onMainPage }}</span>
         | -->
-        <span class="ctc-camp-listing-detail">{{ camp.age_group }}</span>
+        <span class="ctc-camp-listing-detail">{{ regularclass.age_group }}</span>
         |
-        <span class="ctc-camp-listing-detail">{{ camp.camp_date_onMainPage  }}</span>
+        <span class="ctc-camp-listing-detail">{{ regularclass.camp_date_onMainPage  }}</span>
       </div>
       <hr/>
-      <p>{{camp.excerpt}}</p>
+      <p>{{regularclass.excerpt}}</p>
     </div>
     
     <div class="col-md-2">
-        {{camp.main_page_buttons}}
+        {{regularclass.main_page_buttons}}
     </div>
   </li>
   {% endif %}

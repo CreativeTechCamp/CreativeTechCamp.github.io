@@ -21,7 +21,7 @@ registration_urls	: ["http://goo.gl/forms/4GyG8sIopc"]
 registration_statuses	: [true]
 keep_me_informed_url	: "/#contact"
 show_onMainPage : true
-main_page_buttons : <a href="/OresomeSaturdays" class="btn btn-lg pad-c btn-primary-pale" target="_blank">Learn more</a>
+main_page_buttons : <a href="/OresomeSaturdays" class="btn btn-lg pad-c btn-primary-pale">Learn more</a>
 excerpt: "This regular class focused on Modding in Minecraft and it runs every Saturday"
  
 ---

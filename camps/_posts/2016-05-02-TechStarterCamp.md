@@ -3,7 +3,7 @@ layout	: camp
 title 	: "Tech Starter Camp"
 date  	: 2016-05-01 09:00:00
 rank    : 1
-camp_date_onMainPage 	: "Tech Starter Camp"
+camp_date_onMainPage 	: "2016 Mid-Year Holidays"
 camp_date_onCampPage 	: "Monday to Friday (5 days)"
 camp_time	: "2.5 hours each day"
 url_alt : 
@@ -11,7 +11,7 @@ url_alt_flag : false
 permalink   : /TechStarter/
 categories  : [2016, TechStarter]
 tags    	: [camp, arduino, adafruit, gemma, scratch, appinventor, minecraft]
-age_group 	: 8-14 years old
+age_group 	: 8 - 14 years old
 location	: Plaza Damansara
 image		: /camps/images/TechStarter/TechStarterFront.png
 banner		: /camps/images/TechStarter/TechStarter_WebBanner.png
@@ -39,7 +39,7 @@ excerpt: Our Tech Starter Camp is taking off! Code your program, hack Minecraft,
 		<td style='padding:5px 10px 5px 5px'>
             May 30<sup>th</sup> - June 3<sup>rd</sup> - 9:30am to 12:00pm<br>
             July 11<sup>th</sup> - July 15<sup>th</sup> - 9:30am to 12:00pm<br>
-            July 18<sup>th</sup> - July 22<sup>th</sup> - 9:30am to 12:00pm<br>
+            July 18<sup>th</sup> - July 22<sup>nd</sup> - 9:30am to 12:00pm<br>
             July 25<sup>th</sup> - July 29<sup>th</sup> - 9:30am to 12:00pm
         </td>
 	</tr>
@@ -51,7 +51,7 @@ excerpt: Our Tech Starter Camp is taking off! Code your program, hack Minecraft,
 	<tr>
 		<th>Ages</th>
         <td/>
-		<td style='padding:5px 10px 5px 5px'>11-14</td>
+		<td style='padding:5px 10px 5px 5px'>8 - 14</td>
 	</tr>	
 	<tr>
 		<th>Skill Level</th>

@@ -3,7 +3,7 @@ layout 	: camp
 title 	: "Minecraft Modding with Java"
 date 	: 2016-05-01 09:00:00
 rank    : 2
-camp_date_onMainPage 	: "2016 Mid-Year holidays"
+camp_date_onMainPage 	: "2016 mid-year holidays"
 camp_date_onCampPage 	: "Monday to Friday (5 days)"
 camp_time	: "2.5 hours each day"
 url_alt : 
@@ -51,7 +51,7 @@ excerpt		: Discover the powerful world of Java programming through Minecraft. St
 	<tr>
 		<th>Ages</th>
         <td/>
-		<td style='padding:5px 10px 5px 5px'>11-14</td>
+		<td style='padding:5px 10px 5px 5px'>11 - 14</td>
 	</tr>	
 	<tr>
 		<th>Skill Level</th>

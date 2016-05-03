@@ -1,6 +1,6 @@
 ---
 layout	: camp
-title 	: "Bling Blink"
+title 	: "Blink Bling"
 date  	: 2016-05-01 09:00:00
 rank    : 5
 camp_date_onMainPage 	: "2016 mid-year holidays &nbsp | &nbsp Girls only" 
@@ -8,21 +8,21 @@ camp_date_onCampPage 	: "Monday to Friday (5 days)"
 camp_time	: "2.5 hours each day"
 url_alt : 
 url_alt_flag : false
-permalink   : /camps/bling_blink
+permalink   : /camps/blink_bling
 categories  : [2016, TechStarter]
 tags    	: [camp, sewing, soft circuit, bracelet, girls]
 age_group 	: 8-14 years old
 location	: Plaza Damansara
-image		: /camps/images/bling_blink/bling_bling_mainpage.png
-banner		: /camps/images/bling_blink/bling_bling_banner.png
+image		: /camps/images/blink_bling/blink_bling_mainpage.png
+banner		: /camps/images/blink_bling/blink_bling_banner.png
 registration_text       : ["Register Now"]
 registration_dates	    : ["2 camp dates"]
-registration_urls	    : ["https://www.eventbrite.com/e/bing-blink-tickets-25115043772"]
+registration_urls	    : ["https://www.eventbrite.com/e/blink-bling-tickets-25115043772"]
 registration_statuses	: [true]
 keep_me_informed_url	: "/#contact"
 show_onMainPage : true
-main_page_buttons : <a href="/camps/bling_blink" class="btn btn-lg pad-c btn-primary-pale">5-day Camp</a>
-excerpt: Show your friend and family your very own wearable electronic with soft curcuits!
+main_page_buttons : <a href="/camps/blink_bling" class="btn btn-lg pad-c btn-primary-pale">5-day Camp</a>
+excerpt: Show your friend and family your very own wearable electronic with soft circuits!
 ---
 
 <div class="row">
@@ -76,7 +76,7 @@ excerpt: Show your friend and family your very own wearable electronic with soft
 </table>
 
 <h2>What is this camp about?</h2>
-    <img class="pad img-responsive" src='/camps/images/bling_blink/Image5.png' />
+    <img class="pad img-responsive" src='/camps/images/blink_bling/Image5.png' />
     
     <p>
         In this all girl-only camp, learn to make wearable eletronics. You will start with the basic of sewing, to making embroidery with eletronics and sensors.

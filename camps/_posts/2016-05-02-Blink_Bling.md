@@ -76,7 +76,7 @@ excerpt: Show your friend and family your very own wearable electronic with soft
 </table>
 
 <h2>What is this camp about?</h2>
-    <img class="pad img-responsive" src='/camps/images/blink_bling/Image5.png' />
+    <!-- <img class="pad img-responsive" src='/camps/images/blink_bling/Image5.png' /> -->
     
     <p>
         In this all girl-only camp, learn to make wearable eletronics. You will start with the basic of sewing, to making embroidery with eletronics and sensors.

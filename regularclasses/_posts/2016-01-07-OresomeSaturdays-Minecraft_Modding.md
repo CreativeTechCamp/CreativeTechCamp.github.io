@@ -1,11 +1,11 @@
 ---
 layout	: camp
 title 	: "#Oresome Saturdays: Minecraft Modding"
-date  	: 2016-01-07 09:00:00
-rank    : 1
+date  	: 2016-05-02 09:00:00
+rank    : 2
 camp_date_onMainPage 	: "Saturdays"
 camp_date_onCampPage 	: "Saturdays"
-camp_time	: "9:30-11am (Ages 8-10) or 11:30-1pm (Ages 11-14)"
+camp_time	: "9:30-11am (Ages 8-14)"
 url_alt : 
 url_alt_flag : false
 permalink   : /OresomeSaturdays/
@@ -17,7 +17,7 @@ image		: /regularclasses/images/OresomeSaturdays/minecraft_modding_weeklyclass_m
 banner		: /regularclasses/images/OresomeSaturdays/minecraft_modding_weeklyclass_banner.png
 registration_text : ["Register Now"]
 registration_dates	: ["Weekly on Saturdays"]
-registration_urls	: ["http://goo.gl/forms/4GyG8sIopc"]
+registration_urls	: ["http://goo.gl/forms/sr1uNUVTgy"]
 registration_statuses	: [true]
 keep_me_informed_url	: "/#contact"
 show_onMainPage : true
@@ -31,13 +31,13 @@ Due to popular demand, we have come up with regular weekend classes for Minecraf
 
 Below are the details of the weekly classes.
 
-<h3>Minecraft Modders</h3>
+<h3>#Oresome Saturdays : Minecraft Modding</h3>
 <table style="white-space: nowrap">
     <col width="13%" />
     <col width="87%" />
     <tr>
         <th>Age Group:</th>
-        <td>Ages 8-10</td>
+        <td>Ages 8-14</td>
     </tr>
     <tr>
         <th>Duration:</th>
@@ -57,7 +57,7 @@ Below are the details of the weekly classes.
     </tr>
 </table>
 
-
+<!--
 <h3>Minecraft Masters</h3>
 <table style="white-space: nowrap">
     <col width="13%" />
@@ -69,7 +69,7 @@ Below are the details of the weekly classes.
     <tr>
         <th>Duration:</th>
         <td>10 sessions </td>
-    </tr>
+    </tr> 
     <tr>
         <th>Time:</th>
         <td>11.30am to 1pm </td>
@@ -83,7 +83,7 @@ Below are the details of the weekly classes.
         <td>RM 899 for 10 sessions </td>
     </tr>
 </table>
-
+-->
    
 <h2>Featured Tool</h2>
 <ul>
@@ -93,7 +93,7 @@ Below are the details of the weekly classes.
 <h2>What to pack?</h2>
 <ul>
 <li> Bring your own laptop (PC, Linux or Mac), power supply and mouse</li>
-<li> Pre-installed Minecraft (If there is no Minecraft, there is a Minecraft simulator to test out their creations)</li>
-<li> Firefox browser pre-installed </li>
+<li> Pre-installed Minecraft registered with your own Minecraft account</li>
+<li> Firefox or Chrome browser pre-installed </li>
 <li> No prior programming experience needed </li>
 </ul>

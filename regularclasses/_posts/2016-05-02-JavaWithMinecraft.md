@@ -55,7 +55,7 @@ Below are the details of the weekly classes.
     </tr>
     <tr>
         <th>Price:</th>
-        <td>RM 899 for 10 sessions </td>
+        <td>RM 899</td>
     </tr>
 </table>
 

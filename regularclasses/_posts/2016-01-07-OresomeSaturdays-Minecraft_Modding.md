@@ -11,7 +11,7 @@ url_alt_flag : false
 permalink   : /OresomeSaturdays/
 categories  : [2016, MinecraftModding, OresomeSaturdays]
 tags    	: [weekly, minecraft]
-age_group 	: 8-10, 11-14 years old
+age_group 	: 8-14 years old
 location	: Bukit Damansara
 image		: /regularclasses/images/OresomeSaturdays/minecraft_modding_weeklyclass_mainPage.png
 banner		: /regularclasses/images/OresomeSaturdays/minecraft_modding_weeklyclass_banner.png

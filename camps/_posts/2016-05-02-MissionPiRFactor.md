@@ -37,8 +37,8 @@ excerpt: Your mission, if you choose to except, is to make a computer and make a
 		<th style="vertical-align: top;">Dates & Times</th>
         <td/>
 		<td style='padding:5px 10px 5px 5px'>
-            August 1<sup>st</sup> - August 5<sup>th</sup> - 2:30pm to 5:00pm<br>
-            August 15<sup>th</sup> - August 18th<sup>th</sup> - 2:30am to 5:00pm
+            August 1<sup>st</sup> - August 5<sup>th</sup> - 9:30am to 12:00pm<br>
+            August 15<sup>th</sup> - August 18th<sup>th</sup> - 9:30am to 12:00pm
         </td>
 	</tr>
     <tr>

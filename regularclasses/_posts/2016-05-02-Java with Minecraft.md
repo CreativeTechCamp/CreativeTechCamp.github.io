@@ -43,7 +43,7 @@ Below are the details of the weekly classes.
     </tr>
     <tr>
         <th>Duration:</th>
-        <td>10 sessions</td>
+        <td>10 sessions, on Saturdays</td>
     </tr>
     <tr>
         <th>Time:</th>
@@ -71,6 +71,6 @@ Below are the details of the weekly classes.
 <h2>Requirements</h2>
 <ul>
 <li> Bring your own laptop (PC, Linux or Mac), power supply and mouse</li>
-<li> Pre-installed Minecraft (Prefered to have the full experience)
+<li> Pre-installed Minecraft (Prefered to have the full experience)</li>
 <li> Had taken the #Oresome Saturdays classes before </li>
 </ul>

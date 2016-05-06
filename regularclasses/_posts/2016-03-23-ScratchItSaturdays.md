@@ -42,7 +42,7 @@ Below are the details of the weekly classes.
     </tr>
     <tr>
         <th>Duration:</th>
-        <td>10 sessions</td>
+        <td>10 sessions, on Saturdays</td>
     </tr>
     <tr>
         <th>Time:</th>

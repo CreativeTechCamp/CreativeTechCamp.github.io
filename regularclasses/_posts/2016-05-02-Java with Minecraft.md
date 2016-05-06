@@ -17,7 +17,7 @@ image		: /regularclasses/images/JavaMinecraft/java_minecraft_mainpage.png
 banner		: /regularclasses/images/JavaMinecraft/java_minecraft_banner.png
 registration_text : ["Register Now"]
 registration_dates	: ["Weekly on Saturdays"]
-registration_urls	: ["??"]
+registration_urls	: ["http://goo.gl/forms/sr1uNUVTgy"]
 registration_statuses	: [true]
 keep_me_informed_url	: "/#contact"
 show_onMainPage : true

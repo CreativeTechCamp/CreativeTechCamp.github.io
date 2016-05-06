@@ -17,7 +17,7 @@ image		: /regularclasses/images/ScratchItSaturdays/CTC_scratchit_2_WebFront.png
 banner		: /regularclasses/images/ScratchItSaturdays/CTC_scratchit_2_WebBanner.png
 registration_text : ["Register Now"]
 registration_dates	: ["Weekly on Saturdays"]
-registration_urls	: ["http://goo.gl/forms/4GyG8sIopc"]
+registration_urls	: ["http://goo.gl/forms/sr1uNUVTgy"]
 registration_statuses	: [true]
 keep_me_informed_url	: "/#contact"
 show_onMainPage : true

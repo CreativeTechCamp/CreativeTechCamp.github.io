@@ -16,7 +16,7 @@ location	: Plaza Damansara
 image		: /camps/images/TechStarter/TechStarterFront.png
 banner		: /camps/images/TechStarter/TechStarter_WebBanner.png
 registration_text       : ["Register Now"]
-registration_dates	    : ["4 camp dates"]
+registration_dates	    : ["2 camp dates"]
 registration_urls	    : ["https://www.eventbrite.com/e/tech-starter-camp-tickets-25112132063"]
 registration_statuses	: [true]
 keep_me_informed_url	: "/#contact"
@@ -37,10 +37,8 @@ excerpt: Our Tech Starter Camp is taking off! Code your program, hack Minecraft,
 		<th style="vertical-align: top;">Dates & Times</th>
         <td/>
 		<td style='padding:5px 10px 5px 5px'>
-            May 30<sup>th</sup> - June 3<sup>rd</sup> - 9:30am to 12:00pm<br>
             July 11<sup>th</sup> - July 15<sup>th</sup> - 9:30am to 12:00pm<br>
-            July 18<sup>th</sup> - July 22<sup>nd</sup> - 9:30am to 12:00pm<br>
-            July 25<sup>th</sup> - July 29<sup>th</sup> - 9:30am to 12:00pm
+            July 18<sup>th</sup> - July 22<sup>nd</sup> - 9:30am to 12:00pm
         </td>
 	</tr>
     <tr>

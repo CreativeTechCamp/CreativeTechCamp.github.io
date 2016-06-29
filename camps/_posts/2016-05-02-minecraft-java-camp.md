@@ -16,7 +16,7 @@ location	: Plaza Damansara
 image		: /camps/images/advminecraft/minecraft_camp.png
 banner		: /camps/images/advminecraft/minecraft_camp_banner.png
 registration_urls		: ["https://www.eventbrite.com/e/minecraft-modding-with-java-tickets-25111721836"]
-registration_dates		: ["4 dates available"]
+registration_dates		: ["3 dates available"]
 registration_statuses	: [true]
 registration_text : ["Register Now"]
 keep_me_informed_url	: "/#contact"
@@ -37,7 +37,6 @@ excerpt		: Discover the powerful world of Java programming through Minecraft. St
 		<th style="vertical-align: top;">Dates & Times</th>
         <td/>
 		<td style='padding:5px 10px 5px 5px'>
-            May 30<sup>th</sup> - June 3<sup>rd</sup> - 2:30pm to 5:00pm<br>
             July 11<sup>th</sup> - July 15<sup>th</sup> - 2:30pm to 5:00pm<br>
             July 25<sup>th</sup> - July 29<sup>th</sup> - 2:30pm to 5:00pm<br>
             August 22<sup>nd</sup> - August 26<sup>th</sup> - 2:30pm to 5:00pm

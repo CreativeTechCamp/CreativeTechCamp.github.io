@@ -20,7 +20,7 @@ registration_dates	    : ["2 camp dates"]
 registration_urls	    : ["https://www.eventbrite.com/e/how-to-train-your-drone-tickets-25113614497"]
 registration_statuses	: [true]
 keep_me_informed_url	: "/#contact"
-show_onMainPage : true
+show_onMainPage : false
 main_page_buttons : <a href="/camps/drone_training" class="btn btn-lg pad-c btn-primary-pale">5-day Camp</a>
 excerpt: Train your drone with code and it shall obey you. Take it for a spin in our fun 5-day camp and have lift-off!
 ---

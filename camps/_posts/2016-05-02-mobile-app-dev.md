@@ -20,7 +20,7 @@ registration_dates		: ["3 dates available"]
 registration_statuses	: [true]
 registration_text : ["Register Now"]
 keep_me_informed_url	: "/#contact"
-show_onMainPage : true
+show_onMainPage : false
 main_page_buttons : <a href="/camps/mobile-app-dev" class="btn btn-lg pad-c btn-primary-pale">5-day Camp</a>
 excerpt		: Be creators of real-world apps regardless of programming experience, or simply to level-up.
 ---

@@ -20,7 +20,7 @@ registration_dates	    : ["2 camp dates"]
 registration_urls	    : ["https://www.eventbrite.com/e/tech-starter-camp-tickets-25112132063"]
 registration_statuses	: [true]
 keep_me_informed_url	: "/#contact"
-show_onMainPage : true
+show_onMainPage : false
 main_page_buttons : <a href="/TechStarter" class="btn btn-lg pad-c btn-primary-pale">5-day Camp</a>
 excerpt: Our Tech Starter Camp is taking off! Code your program, hack Minecraft, and take home a Magical Light Wand 
 ---

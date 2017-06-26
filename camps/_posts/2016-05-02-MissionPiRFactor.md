@@ -20,7 +20,7 @@ registration_dates	    : ["2 camp dates"]
 registration_urls	    : ["http://www.eventbrite.com/e/mission-pi-the-rasp-factor-tickets-25115707758"]
 registration_statuses	: [true]
 keep_me_informed_url	: "/#contact"
-show_onMainPage : true
+show_onMainPage : false
 main_page_buttons : <a href="/camps/missionpi_rfactor" class="btn btn-lg pad-c btn-primary-pale">5-day Camp</a>
 excerpt: Your mission, if you choose to except, is to make a computer and make a hardware project
 ---

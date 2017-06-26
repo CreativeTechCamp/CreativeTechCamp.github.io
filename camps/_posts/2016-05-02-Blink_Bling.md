@@ -20,7 +20,7 @@ registration_dates	    : ["2 camp dates"]
 registration_urls	    : ["https://www.eventbrite.com/e/blink-bling-tickets-25115043772"]
 registration_statuses	: [true]
 keep_me_informed_url	: "/#contact"
-show_onMainPage : true
+show_onMainPage : false
 main_page_buttons : <a href="/camps/blink_bling" class="btn btn-lg pad-c btn-primary-pale">5-day Camp</a>
 excerpt: Show your friend and family your very own wearable electronic with soft circuits!
 ---

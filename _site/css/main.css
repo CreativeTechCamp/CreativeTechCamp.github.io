@@ -9,6 +9,9 @@
 .pad {
   padding: 12px; }
 
+.pad-b {
+  padding-bottom: 12px; }
+
 .pad-l {
   margin-right: 12px;
   margin-bottom: 12px; }
@@ -84,13 +87,17 @@ dd {
   border: 0px; }
 
 .ctc-main-section {
-  padding-top: 50px;
+  padding-top: 20px;
   padding-bottom: 36px; }
+
+#whylovectc {
+  background-color: #999;
+  color: white;
+  margin-top: 64px; }
 
 #camps {
   background-color: #222;
-  color: white;
-  margin-top: 64px; }
+  color: white; }
 
 #regularclasses {
   background-color: #555;

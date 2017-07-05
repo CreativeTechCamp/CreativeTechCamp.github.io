@@ -43,7 +43,7 @@ excerpt		: Apprentice camp is for our alumni who have attended previous Minecraf
     <tr>
 		<th>Duration</th>
         <td/>
-		<td style='padding:5px 10px 5px 5px'>5-day camp, whole day</td>
+		<td style='padding:5px 10px 5px 5px'>5-day camp, 6 hours each day</td>
 	</tr>
 	<tr>
 		<th>Ages</th>

@@ -5,7 +5,7 @@ date 	: 2017-07-01 09:00:00
 rank    : 2
 camp_date_onMainPage 	: "August 7-11th (2:00pm-5:30pm)"
 camp_date_onCampPage 	: "August 7-11th (2:00pm-5:30pm)"
-camp_time	: "2.5 hours each day"
+camp_time	: "3.5 hours each day"
 url_alt : 
 url_alt_flag : false
 permalink   : /camps/JMC-Senior/

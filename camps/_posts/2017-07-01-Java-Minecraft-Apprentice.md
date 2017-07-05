@@ -37,7 +37,7 @@ excerpt		: Apprentice camp is for our alumni who have attended previous Minecraf
 		<th style="vertical-align: top;">Dates & Times</th>
         <td/>
 		<td style='padding:5px 10px 5px 5px'>
-            August 7<sup>th</sup> to 11<sup>th</sup> - 9:00am to 3:00pm
+            August 14<sup>th</sup> to 18<sup>th</sup> - 9:00am to 3:00pm
         </td>
 	</tr>
     <tr>

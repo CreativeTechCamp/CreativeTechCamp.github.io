@@ -1,6 +1,6 @@
 ---
 layout 	: camp
-title 	: "Java Minecraft Apprentice"
+title 	: "Java Minecraft Modding - Apprentice"
 date 	: 2017-07-01 09:00:00
 rank    : 3
 camp_date_onMainPage 	: "August 14-18th (9:00am-3:00pm)"

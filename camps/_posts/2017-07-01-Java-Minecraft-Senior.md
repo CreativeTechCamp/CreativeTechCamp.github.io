@@ -1,6 +1,6 @@
 ---
 layout 	: camp
-title 	: "Java Minecraft Senior"
+title 	: "Java Minecraft Modding - Senior"
 date 	: 2017-07-01 09:00:00
 rank    : 2
 camp_date_onMainPage 	: "August 7-11th (2:00pm-5:30pm)"

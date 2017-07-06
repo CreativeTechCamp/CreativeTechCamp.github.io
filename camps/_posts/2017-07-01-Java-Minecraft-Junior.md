@@ -1,6 +1,6 @@
 ---
 layout 	: camp
-title 	: "Java Minecraft Junior"
+title 	: "Java Minecraft Modding - Junior"
 date 	: 2017-07-01 09:00:00
 rank    : 1
 camp_date_onMainPage 	: "August 7-11th (9:00am-12:30pm)"

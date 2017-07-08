@@ -63,7 +63,7 @@ excerpt		: You'll dig into the Java code behind Minecraft and do some hacking! M
     <tr>
 		<th>Price</th>
         <td/>
-		<td style='padding:5px 10px 5px 5px'>RM 1199 <font color="red">(Early bird price: RM999)</font></td>
+		<td style='padding:5px 10px 5px 5px'>RM 1,199 <font color="red">(Early bird price: RM999)</font></td>
 	</tr>
 </table>
 

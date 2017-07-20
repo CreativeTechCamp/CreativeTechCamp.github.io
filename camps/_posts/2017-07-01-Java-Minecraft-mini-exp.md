@@ -3,8 +3,8 @@ layout 	: camp
 title 	: "Mini Experience"
 date 	: 2017-07-01 09:00:00
 rank    : 4
-camp_date_onMainPage 	: "July 16th, Sunday (2:00pm-3:00pm)"
-camp_date_onCampPage 	: "July 16th(2:00pm-3:00pm)"
+camp_date_onMainPage 	: "July 23rd, Sunday (2:00pm-3:00pm)"
+camp_date_onCampPage 	: "July 23rd(2:00pm-3:00pm)"
 camp_time	: "1 hour"
 url_alt : 
 url_alt_flag : false
@@ -16,7 +16,7 @@ location	: Taman Zaaba, TTDI
 image		: /camps/images/jmc/JMC-miniexp.png
 banner		: /camps/images/jmc/JMC-miniexp-banner.png
 registration_urls		: ["???"]
-registration_dates		: ["July 16th, 2017", "+6019-3354507"]
+registration_dates		: ["July 23rd, 2017", "+6019-3354507"]
 registration_statuses	: [true]
 registration_text : ["Register Now", "Call Dr. Ewe"]
 keep_me_informed_url	: "/#contact"
